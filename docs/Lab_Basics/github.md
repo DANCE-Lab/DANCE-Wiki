@@ -18,4 +18,4 @@ The Baller_Lab_Guide is a repository inside the Baller_Lab organization. It cont
 ### Editing GitHub Files
 In order to add to this page, you will need to edit the contents of the GitHub `Baller_Lab_Guide` repository. This is easily done with Visual Stuido Code. First, you will need a GitHub account and to be added to the Baller_Lab organization (Prof. Baller will be able to do this for you). 
 
-1. Open Visual Studio Code and GitHub, navigating to the Baller_Lab_Guide repository. Open a terminal in Visual Studio Code by pressing `ctrl` + ` ` ` . 
+1. Open Visual Studio Code and GitHub, navigating to the Baller_Lab_Guide repository. Open a terminal in Visual Studio Code by pressing `ctrl` + ` . 
