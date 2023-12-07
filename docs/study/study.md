@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Study
+title: Current Study
 has_children: true
 has_toc: false
-nav_order: 1
+nav_order: 2
 ---
 # Study Information
 
