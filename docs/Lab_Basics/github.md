@@ -4,7 +4,7 @@ title: Code
 has_children: false
 parent: Technical Infrastructure
 has_toc: false
-nav_order: 4
+nav_order: 2
 ---
 
 # Infrastructure Code
