@@ -39,4 +39,4 @@ The `Publications` tab should also be updated any time a new preprint is release
 Home has a little news section that gives a preview of the most recent, exciting stuff happening in the lab! Therfore, whenever another page is updated to reflect a new hire, publication, grant, award, etc., it should be reflected in the `Home` news section. You can add new items using the repeater toggle, or you can replace the informatio on an existing item to keep the news fresh and to limit the number of items on the front page. 
 
 ## Recruitment on the Website
-An exciting idea we had was to, at some point in the future, but recruitment information for patients and possible an interest form on the site (likely through the `For Patients`page). However, before this can be implemented, everything must be IRB approved. 
+An exciting idea we had was to, at some point in the future, put recruitment information for patients and possible an interest form on the site (likely through the `For Patients`page). However, before this can be implemented, everything must be IRB approved. 
