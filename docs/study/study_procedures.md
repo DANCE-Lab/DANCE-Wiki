@@ -25,15 +25,16 @@ You can also bring snacks and a water bottle from the Gates kitchenette for your
 You should also review the suicide-related self-report questions before meeting the participant. If suicidal thoughts or behavior are endorsed, you must immediately inform Dr. Baller /and the clinician on-call.
 
 ### The Participant Visit
-Visits typically last 4-5 hours. The visit can be completed in the assessment rooms on the 10th floor of the Gates building or in the research rooms within the PCAM 2nd floor neurology clinic. Participants are typically familiar with the lobby of the Perelman Center for Advanced Medicine and its lobby is typically a good place to meet your participant. Once you have greeted the participant and introduced yourself, you can lead them to the assessment room. The study visit components should be completed in the following order:
+Visits typically last 4-5 hours. The visit can be completed in the assessment rooms on the 10th floor of the Gates building or in the research rooms within the PCAM 2nd floor neurology clinic. If you are doing your visit in Gates (which is easier to schedule), ask the participant to meet you in the Gates lobby (3400 Spruce Street). If they are doing their visit in PCAM 2nd floor, participants are typically familiar with the lobby of the Perelman Center for Advanced Medicine and its lobby is typically a good place to meet your participant. Once you have greeted the participant and introduced yourself, you can lead them to the assessment room. The study visit components should be completed in the following order:
 
-1. Consent
-2. CNB
-3. Oracle Meds/Demos
-4. REDCap medical history tracker
-5. GOASSESS interview
-6. FIGS
-7. C2 form signing and payment
+1. Confirm participant has completed ratings
+2. Consent
+3. CNB
+4. Oracle Meds/Demos
+5. REDCap medical history tracker
+6. GOASSESS interview
+7. FIGS
+8. C2 form signing and payment
 
 Once the visit has been completed, thank the participant and walk them back to the PCAM lobby. 
 
