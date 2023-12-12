@@ -15,4 +15,4 @@ The Baller Lab is a consultation-liaison psychiatry lab committed to improving c
 | TEAM MEMBER | LAB ROLE |
 | ----------- | ----------- |
 | Principal Investigator | Prof. Erica Baller, MD, MS |
-| Clinical Research Coordiantor | Lia Brodrick |
+| Clinical Research Coordinator | Lia Brodrick |
