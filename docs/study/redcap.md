@@ -12,7 +12,7 @@ We use [REDCap](https://axis.med.upenn.edu/) to collect, store, and track partic
 
 | Study Component | REDCap Project Name |
 | ----------- | ----------- |
-| Study consent forms | MS Depression 853883 Consent #consents |
+| Study consent forms | MS Depression IRB# Consent #consents |
 | GOASSESS Clinical Interview | GOASSESS #collection |
 | Participant self-report scales | MS Depression Collection Scales #collection |
 | Study tracker | MS Depression Tracker #tracker |
