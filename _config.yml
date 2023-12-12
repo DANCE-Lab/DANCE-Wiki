@@ -16,9 +16,9 @@
 title: Baller Lab Documentation
 description: Documentation for the Baller Lab. 
 baseurl: "/baller-lab" # the subpath of your site, e.g. /blog
-url: "https://baller-lab.github.io/Baller_Lab_Guide/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://baller-lab.github.io/Baller_Lab_Guide/index.html" # the base hostname & protocol for your site, e.g. http://example.com
 # for testing: http://127.0.0.1:4000
-# for pushing: "http://Baller-Lab.github.io"
+# for pushing: "http://baller-lab.github.io"
 
 ### NOTE ON relative paths: because of the setup of the baseurl and url, you can't use root to access, for example an image file
 ### like /assets/images/IMG.png .... instead, use the baseurl /mobilephenomics/assets/images/IMG.png
