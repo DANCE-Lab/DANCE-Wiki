@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Baller Lab Documentation
 description: Documentation for the Baller Lab. 
-baseurl: "/Baller_Lab_Guide" # the subpath of your site, e.g. /blog
+baseurl: "/Baller_Lab_Guide/" # the subpath of your site, e.g. /blog
 url: "https://baller-lab.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # for testing: http://127.0.0.1:4000
 # for pushing: "http://baller-lab.github.io"
