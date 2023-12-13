@@ -10,6 +10,8 @@ nav_order: 1
 
 Study participants are recruited from the Penn MS Center, located on the second floor Neurology Clinic in the Perelman Center for Advanced Medicine. Participants may be referred by their MS specialist or contacted from prior participation in PennSIVE research studies. There may also be new modes of recruitment implemented in the future. Currently (as of 11/28/23) the following IRB-approved recruitment scripts can be used in participant communication. Note that eligible participants must have had recent routine clinical imaging done at a PI-approved Penn imaging center.
 
+Be aware that, when you schedule a participant for a clinical interview, Dr. Baller or another clinician must be notified and agree to be on call for that two-hour block of time. It is best to discuss on-call best practices with Dr. Baller before recruiting and to remind your on-call clinician 24 hours before the interview. 
+
 ## Recruitment Practices
 
 **Recruiting in the MS Clinic:**
