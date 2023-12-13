@@ -38,7 +38,7 @@ If you’re interested in participating, we would ask you to complete a one-time
 I’m happy to answer any questions you have right now! If you don’t currently have any questions, but you think you may be interested in participating, I can send you our consent form to look over at your convenience. If at that point you have any questions or want clarification on anything, you can feel free to reach out to me whenever at this number. 
 
 **Additional Information** 
-Once the participant has indicated that they are intersted in participating in the study, make sure to confirm that they a.) have a computer with a mouse; b.) a quiet place to complete their assessments. If the participant is interested in participating but would like some additional information, you can send them an email using the following template:
+Once the participant has indicated that they are intersted in participating in the study, make sure to confirm that they a.) have a computer with a mouse; b.) a quiet place to complete their assessments. Please inform them that we complete visits in Hospital of the University of Pennsylvania, not PCAM, and that we will ask them to meet us in the [HUP lobby at 3400 Spruce St.](https://www.google.com/maps/place/Hospital+of+the+University+of+Pennsylvania/@39.9494835,-75.1955324,17z/data=!4m10!1m2!2m1!1sHospital+of+the+University+of+Pennsylvania!3m6!1s0x89c6c65bc817ac5d:0x7f07a35094915ea1!8m2!3d39.9501477!4d-75.1938829!15sCipIb3NwaXRhbCBvZiB0aGUgVW5pdmVyc2l0eSBvZiBQZW5uc3lsdmFuaWGSAQhob3NwaXRhbOABAA!16s%2Fm%2F03by0rg?entry=ttu). If participants insist on meeting in the PCAM lobby because they are more familiar with that location, that is fine, but please make sure they arrive 15 minutes early. Both lobbies have wheelchairs available if you participant requires any mobility accommodations. If the participant is interested in participating but would like some additional information, you can send them an email using the following template:
 
 ### Additional Information Email Script
 
@@ -57,7 +57,7 @@ Best,
 [Coordinator Name]
 
 ### Confirmation Texts and Email
-Make sure to send the participant a confirmation text regarding the time and location of their appointment one week, 48 hours, and 24 hours ahead of the scheduled study visit. You will also send an email 24-48 hours (depending on time of scheduled visit) to the participant with a link to the REDCap self report scales and details regarding either in-person meeting point (for in-person visits, typically the lobby of the Perelman Center for Advanced Medicine) or the zoom link for virtual visits. 
+Make sure to send the participant a confirmation text regarding the time and location of their appointment one week, 48 hours, and 24 hours ahead of the scheduled study visit. You will also send an email 24-48 hours (depending on time of scheduled visit) to the participant with a link to the REDCap self report scales and details regarding either in-person meeting point (for in-person visits, typically the HUP lobby) or the zoom link for virtual visits. Send a map with the HUP lobby location and parking suggestions in the confirmation email.
 
 ### Confirmation and with REDCap and Zoom Link Email Script
 
