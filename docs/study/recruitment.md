@@ -38,7 +38,7 @@ If you’re interested in participating, we would ask you to complete a one-time
 I’m happy to answer any questions you have right now! If you don’t currently have any questions, but you think you may be interested in participating, I can send you our consent form to look over at your convenience. If at that point you have any questions or want clarification on anything, you can feel free to reach out to me whenever at this number. 
 
 **Additional Information** 
-If the participant is interested in participating but would like some additional information, you can send them an email using the following template:
+Once the participant has indicated that they are intersted in participating in the study, make sure to confirm that they a.) have a computer with a mouse; b.) a quiet place to complete their assessments. If the participant is interested in participating but would like some additional information, you can send them an email using the following template:
 
 ### Additional Information Email Script
 
