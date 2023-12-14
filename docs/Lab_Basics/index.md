@@ -3,7 +3,7 @@ layout: default
 title: Lab Basics
 has_children: true
 has_toc: false
-nav_order: 1
+nav_order: 2
 ---
 # Lab Infrastructure
 The Baller Lab uses GitHub, Saturn, and the Wix lab website to keep our documentation organized, up to date, and accessible. The GitHub can be used to hold important and widely-utilized code and also hosts this webpage. This page should be kept up to date and should reflect active personnel, procedures, and expectations. 
