@@ -10,7 +10,7 @@ nav_order: 1
 
 Study participants are recruited from the Penn MS Center, located on the second floor Neurology Clinic in the Perelman Center for Advanced Medicine. Participants may be referred by their MS specialist or contacted from prior participation in PennSIVE research studies. There may also be new modes of recruitment implemented in the future. Currently (as of 11/28/23) the following IRB-approved recruitment scripts can be used in participant communication. Note that eligible participants must have had recent routine clinical imaging done at a PI-approved Penn imaging center.
 
-Be aware that, when you schedule a participant for a clinical interview, Dr. Baller or another clinician must be notified and agree to be on call for that two-hour block of time. It is best to discuss on-call best practices with Dr. Baller before recruiting and to remind your on-call clinician 24 hours before the interview. 
+Be aware that, when you schedule a participant for a visit, Dr. Baller or another clinician must be notified and agree to be on call for that two to three hour block of time. It is best to discuss on-call best practices with Dr. Baller before recruiting and to remind your on-call clinician 24 hours before the interview. 
 
 ## Recruitment Practices
 
@@ -31,14 +31,14 @@ The IRB-approved scripts for initial recruitment and following emails are locate
 
 Hi, is this [Participant Name]? My name is [Coordinator Name] and I’m calling from the University of Pennsylvania. I am part of a research team working with Dr. Baller in the Department of Psychiatry. We are currently working on a study that investigates the impacts multiple sclerosis has on mood. We think you might be eligible to participate in our paid research study, and were wondering, if you have the time, whether you’d be interested in hearing more about it?
 
-In this study, we’re hoping to explore gauge the relationship between MS and depression, and are interested in recruiting participants who have a MS diagnosis and who may or may not have an additional psychiatric diagnosis. 
+In this study, we’re hoping to explore the relationship between MS and depression, and are interested in recruiting participants who have a MS diagnosis and who may or may not have an additional psychiatric diagnosis. 
 
-If you’re interested in participating, we would ask you to complete a one-time research visit that would take around 3 to 5 hours, for which you’d receive $80. During the visit you’d complete a diagnostic clinical interview, during which we’d ask you questions about your life, behaviors, and medical history, and some memory and puzzle games on the computer. We’d also ask you to authorize the research team to access your most recent clinical brain MRI scan, although this study includes no additional scanning.
+If you’re interested in participating, we would ask you to complete a one-time research visit that would take around 2 to 3 hours, for which you’d receive $80. During the visit you’d complete a diagnostic clinical assessment, during which you’d be asked questions about your behaviors and medical history, some memory and puzzle games on the computer, and complete a set of brief questionnaires that will ask you about your mood. We’d also ask you to authorize the research team to access your most recent clinical brain MRI scan, although this study includes no additional scanning.
 
 I’m happy to answer any questions you have right now! If you don’t currently have any questions, but you think you may be interested in participating, I can send you our consent form to look over at your convenience. If at that point you have any questions or want clarification on anything, you can feel free to reach out to me whenever at this number. 
 
 **Additional Information** 
-Once the participant has indicated that they are intersted in participating in the study, make sure to confirm that they a.) have a computer with a mouse; b.) a quiet place to complete their assessments. Please inform them that we complete visits in Hospital of the University of Pennsylvania, not PCAM, and that we will ask them to meet us in the [HUP lobby at 3400 Spruce St.](https://www.google.com/maps/place/Hospital+of+the+University+of+Pennsylvania/@39.9494835,-75.1955324,17z/data=!4m10!1m2!2m1!1sHospital+of+the+University+of+Pennsylvania!3m6!1s0x89c6c65bc817ac5d:0x7f07a35094915ea1!8m2!3d39.9501477!4d-75.1938829!15sCipIb3NwaXRhbCBvZiB0aGUgVW5pdmVyc2l0eSBvZiBQZW5uc3lsdmFuaWGSAQhob3NwaXRhbOABAA!16s%2Fm%2F03by0rg?entry=ttu). If participants insist on meeting in the PCAM lobby because they are more familiar with that location, that is fine, but please make sure they arrive 15 minutes early. Both lobbies have wheelchairs available if you participant requires any mobility accommodations. If the participant is interested in participating but would like some additional information, you can send them an email using the following template:
+Once the participant has indicated that they are intersted in participating in the study, make sure to confirm that they a.) have a computer with a mouse; b.) a quiet place to complete their assessments. Please inform them that we complete visits in Hospital of the University of Pennsylvania, not PCAM, and that we will ask them to meet us in the [HUP lobby at 3400 Spruce St.](https://www.google.com/maps/place/Hospital+of+the+University+of+Pennsylvania/@39.9494835,-75.1955324,17z/data=!4m10!1m2!2m1!1sHospital+of+the+University+of+Pennsylvania!3m6!1s0x89c6c65bc817ac5d:0x7f07a35094915ea1!8m2!3d39.9501477!4d-75.1938829!15sCipIb3NwaXRhbCBvZiB0aGUgVW5pdmVyc2l0eSBvZiBQZW5uc3lsdmFuaWGSAQhob3NwaXRhbOABAA!16s%2Fm%2F03by0rg?entry=ttu). This lobby has wheelchairs available if you participant requires any mobility accommodations. If the participant is interested in participating but would like some additional information, you can send them an email using the following template:
 
 ### Additional Information Email Script
 
@@ -46,7 +46,7 @@ Dear [Participant Name],
 
 Thank you so much for expressing interest in participating in our research study! We are exploring how multiple sclerosis affects patients’ mental health and mental functioning. Because the majority of research on mental health has been conducted on medically healthy people, doctors are less well-informed about treating individuals with both medical and mental illnesses. With this study, we hope to help fill that gap and work towards improving patient care. 
 
-This study is looking for participants with MS diagnoses who may or may not have mental health difficulties. We conduct the study visits over the course of four hours, either in person at the Hospital of the University of Pennsylvania or virtually. The visit includes some puzzle like games and tests on the computer, some questionnaires, and a clinical interview. You will be compensated $80 for completing the research study. 
+This study is looking for participants with MS diagnoses who may or may not have mental health difficulties. We conduct the study visits over the course of two to three hours, either in person at the Hospital of the University of Pennsylvania or virtually. The visit includes some puzzle like games and tests on the computer, some questionnaires, and a clinical assessment. You will be compensated $80 for completing the research study. 
 
 I am attaching a copy of our study consent form to this email for you to look over, and you are welcome to reach out via email [insert email address here] or phone [insert phone number here] if you have any further questions. 
 
@@ -57,26 +57,27 @@ Best,
 [Coordinator Name]
 
 ### Confirmation Texts and Email
-Make sure to send the participant a confirmation text regarding the time and location of their appointment one week, 48 hours, and 24 hours ahead of the scheduled study visit. You will also send an email 24-48 hours (depending on time of scheduled visit) to the participant with a link to the REDCap self report scales and details regarding either in-person meeting point (for in-person visits, typically the HUP lobby) or the zoom link for virtual visits. Send a map with the HUP lobby location and parking suggestions in the confirmation email.
+Make sure to send the participant a confirmation text regarding the time and location of their appointment one week, 48 hours, and 24 hours ahead of the scheduled study visit. You will also send an email 24-48 hours (depending on time of scheduled visit) to the participant with details regarding either in-person meeting point (for in-person visits, typically the HUP lobby) or the zoom link for virtual visits. Send a map with the HUP lobby location and parking suggestions in the confirmation email.
 
-### Confirmation and with REDCap and Zoom Link Email Script
+### Confirmation and Zoom Link Email Script
 
 Dear [Participant Name], 
  
-Thank you so much for your interest in our study! Your appointment is scheduled [remotely/in person at HUP] on [date], and will consist of approximately two hours of puzzle-like games and tests on the computer and a two-hour clinical interview during which I will ask you about your medical and mental health history.  
- 
-[**Day of the week, M/D/Y, 00:00:** zoom link [here] or hospital location] 
- 
-I am also attaching a set of brief questionnaires to this email that will ask you about your mood. We also provide you with a collection of mental health resources in case you require any support outside of our research visit.  We appreciate it if you can fill them out before our meeting tomorrow, but if you are unable to they can also be finished during the research visit. 
-The questionnaires can be accessed [here]. 
- 
-Please feel free to reach out via phone at [insert phone number] or email at [insert email address] with any questions!
- 
-Thank you so much for your participation. Have a great day!
- 
+Thank you so much for your interest in our study! Your appointment details: 
+[remotely/in person at HUP]
+[date]
+
+Your participation will consist of approximately two hours of puzzle-like games and tests on the computer, a 10-30 minute clinical assessment during which you will be asked about your medical and mental health history, and a set of brief questionnaires that will ask you about your mood.
+
+We are exploring how multiple sclerosis affects patients’ mental health and mental functioning. Because the majority of research on mental health has been conducted on medically healthy people, doctors are less well-informed about treating individuals with both medical and mental illnesses. With this study, we hope to help fill that gap and work towards improving patient care. I am attaching a copy of our study consent form to this email for you to look over. 
+Please feel free to reach out via email [insert email address here] or phone [insert phone number here] if you have any further questions. 
+
+Thanks again for your interest and have a great rest of your day! 
+
 Best, 
- 
+
 [Coordinator Name]
+
 
 
 
