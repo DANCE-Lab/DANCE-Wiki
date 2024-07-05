@@ -31,7 +31,7 @@ Visits typically last 2-3 hours. The visit can be completed in the assessment ro
 2. Oracle Meds/Demos
 3. Self-report in REDCap
 4. CNB
-5. GOASSESS interview
+5. Adaptive GOASSESS 
 6. C2 form signing and payment
 
 Once the visit has been completed, thank the participant and walk them back to the HUP lobby. 
