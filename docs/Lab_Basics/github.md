@@ -13,6 +13,19 @@ This GitHub page is the hub of all lab protocols, procedures, and best practices
 ## Quick GitHub Edits
 GitHub edits can be done either directly through the GitHub site or, for more complex and involved edits, by pushing changes from Visual Studio Code (VSC) into GitHub. If you are adding a section to an existing page or tweaking a procedure, it may be easiest for you to directly edit the pages docs. To do this, navigate to the [Baller_Lab_Guide repository](https://github.com/Baller-Lab/Baller_Lab_Guide/tree/master) in the Baller Lab GitHub Organization. Click on the `Code` button and, in the left-hand toolbar, navigate to the `docs` folder and to the `Lab_Basics` and `study` subfolders. Once you select the page you would like to update, you can switch from the page `Preview` function to the page `Edit` function by clicking on the pencil in the upper right hand corner of the page preview. This will allow you to directly update the page by entering [Markdown](https://www.markdownguide.org/cheat-sheet/) text into the file. Once you are finished editing, you'll hit the green `Commit Changes` button in the upper right corner of the window. You will add a quick message about what changes you made to the file and then commit them to the repository.
 
+## How to manually publish Git website if it fails to update after commits
+In the Baller_Lab_Guide repository, click "Settings", and go to "Pages" (on the left). At the top, you should see the following: "Last deployed by @ballere ballere 4 minutes ago." Click the "deployed" hyperlink, and at the top right of the screen, click "Re-run all jobs." This will manually build your page. Once the full build is complete (all dots green), recheck the website to make sure it works.
+
+A couple of other settings to verify in "Pages." 
+
+1. Build and Deployment: Source -> Deploy from branch
+2. Branch: master /root
+
+Setting to verify in "Actions" (left side of page
+
+1. Click "General"
+2. Verify first bubble clicked: Allow all actions and reusable workflows
+
 ## Updating the Baller_Lab_Guide Repository Using VSC
 The Baller_Lab_Guide is a repository inside the Baller_Lab organization. It contains all files that are fundamental to producing the `Just the Docs` page that you are currently reading and folders with markdown outlining all of the information in the website subpages. You will be mostly concerned with the contents of the folder `docs`. 
 
