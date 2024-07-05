@@ -8,7 +8,7 @@ nav_order: 8
 ---
 
 # Study Procedures
-This page outlines what a study visit should look like
+This page outlines what a study visit should look like.
 
 ### Visit Preparation
 Once the particpant has agreed to participant and has been scheduled, you can prepare for the visit. This process is covered across the other tabs--ensure that you have sent confirmation emails and texts to the participant, created BBL and Self-Report IDs through Oracle, prepared the admin for REDCap tools, prepared payment, and for in person visits, printed the necessary paperwork. 
