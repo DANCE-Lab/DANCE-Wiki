@@ -78,8 +78,9 @@ Best,
 
 [Coordinator Name]
 
+### Voicemail Script
 
-
+Hi, this message is for [pt first name]. My name is [coordinator name] and I work on a research team with Dr. Baller and Dr. Schindler at UPenn. We are currently conducting a paid research study on the effects of MS on mood symptoms that you may be eligible to participate in that involves a one-time, in-person or virtual appointment. If this sounds like something you’d be interested in hearing more about, please give me a call or text back at [phone number]. Thanks so much and enjoy the rest of your day! 
 
 
 
