@@ -28,7 +28,7 @@ Inclusion Criteria
 
 1. Between 18-80 years old
 2. ICD-10 MS diagnosis from one of the specialists at the University of Pennsylvania MS Center
-3. Brain scans from the University of Pennsylvania hospital
+3. 3T MRI with the MS protocol at any University of Pennsylvania Hospital
 4. Proficiency in English, as assessments and tasks are designed for English speakers
 5. Able to understand study procedures and agreeing to participate by giving written consent
 6. Physically and cognitively able to participate in an interview, complete a cognitive assessment, and complete questionnaires
