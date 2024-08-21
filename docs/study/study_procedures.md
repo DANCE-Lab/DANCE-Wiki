@@ -45,26 +45,26 @@ Some participants may ask for feedback on their CNBs. Feedback can be obtained b
 
 After finishing a visit with a participant, you should check through the data to ensure that all the data was collected properly and accurately. 
 
-#### 1)	Submit for CNB feedback
+1)	Submit for CNB feedback
 
 To submit for a CNB feedback report, you should find the participants Datasetid before starting the request. This can be found by going to webCNP.med.upenn.edu/results.pl, entering the participants BBLID in the subID box and clicking “List Session(s)”. Their Datasetid (DSI) will generate. Then, go to webcnp.med.upenn.edu/request_feedback.pl and click “New Request”, found at the top right corner of the page. Enter the participant’s Datasetid and choose Ruben Gur as the publisher. Confirm the information and then submit the request. You will receive an email when the report has been published, and it can be downloaded from the same website that it was created on. 
 
-#### 2)	Review CNB feedback report
+2)	Review CNB feedback report
 
 After the CNB report has been published, you should review the report to ensure that there are no spelling or spacing errors, and that the data results align to what you experienced during their visit. For example, if your participant took a long time on every task but the report says that speed was High Average, the data may have been collected or summarized incorrectly. If you notice a discrepancy, contact Dr. Baller, review your concerns, and she will approve you reaching out to Tarlan (cc her) to inquire about what you’ve noticed.  Once the report is finalized, save it on Saturn. 
 
-#### 3)	Review the REDCap Self-Report Ratings
+3)	Review the REDCap Self-Report Ratings
 
 The REDCap ratings can be viewed at axis.med.upenn.edu/index.php?action=myprojects. Review the results of the self-report ratings and ensure that all questions have been answered. If a question was skipped, reach out to the participant, and clarify whether they skipped it on purpose or if it was an accident. If it was an accident, set up a brief call with them to fill in the missed questions. Once you have reviewed, save results to Saturn.
 
-#### 4)	Review the GOA Ratings Data
+4)	Review the GOA Ratings Data
 
 The GOA ratings data can be viewed at https://phenome.med.upenn.edu. Under Admin Tools, find the Session Data section and click on “Participant lookup”. Here, enter the participants BBLID and review the GOA ratings data, paying close attention to the score under each category. Make sure each psychopathology domain has a number. 
 
-#### 5)	Compare the GOA and REDCap Self-Report Data
+5)	Compare the GOA and REDCap Self-Report Data
 
 After reviewing the GOA and REDCap Self-Report Data, compare the results from both to see if any differences may be present. For example, if the participant is highly symptomatic for depression in their ratings (BDI greater than or equal to 19 and PHQ-9 greater than or equal to 10), ensure that their GOA rating falls at the range of 0.7-1 if not higher. If the scores do not align, inform Dr. Baller to trouble-shoot. 
 
-#### 6)	Check the CNB Data
+6)	Check the CNB Data
 
 Go to https://webcnp.med.upenn.edu/manual.html and click on “View Data” and then “Reports & Norm Data”. Under “Battery”, select the most updated msdep_k23_v# battery, and under “Site” select MSDEP. Click “Generate data report” and a sheet should download. On this sheet, you should ensure that there aren’t any gaps in the data and that the data came out the way you were expecting. If there are any gaps or problems in the data, reach out to Dr. Baller to trouble-shoot. Be sure to include the participants BBLID and the specific issues in the data when informing Dr. Baller. 
