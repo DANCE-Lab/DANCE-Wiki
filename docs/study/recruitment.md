@@ -8,17 +8,60 @@ nav_order: 1
 ---
 # Recruiting Study Participants
 
-Study participants are recruited from the Penn MS Center, located on the second floor Neurology Clinic in the Perelman Center for Advanced Medicine. Participants may be referred by their MS specialist or contacted from prior participation in PennSIVE research studies. There may also be new modes of recruitment implemented in the future. Currently (as of 11/28/23) the following IRB-approved recruitment scripts can be used in participant communication. Note that eligible participants must have had recent routine clinical imaging done at a PI-approved Penn imaging center.
+Study participants are recruited from the Penn MS Center, located on the second floor Neurology Clinic in the Perelman Center for Advanced Medicine or at Pennsylvania Hospital. Participants may be referred by their MS specialist or contacted from prior participation in PennSIVE research studies. There may also be new modes of recruitment implemented in the future. Currently (as of 11/28/23) the following IRB-approved recruitment scripts can be used in participant communication. Note that eligible participants must have had recent routine clinical imaging done at a PI-approved Penn imaging center.
 
 Be aware that, when you schedule a participant for a visit, Dr. Baller or another clinician must be notified and agree to be on call for that two to three hour block of time. It is best to discuss on-call best practices with Dr. Baller before recruiting and to remind your on-call clinician 24 hours before the interview. 
 
-## Recruitment Practices
+## Recruitment Practices in the MS Clinic
 
-**Recruiting in the MS Clinic:**
-Many participants are recruited during appointments with their MS specialist in the PCAM Neurology Clinic. You can reach out to a provider, such as Dr. Schindler or Dr. Perrone, and ask whether it might be possible for you to shadow and/or recruit when they are seeing patients. We are particularly interested in younger patients with relatively recent diagnoses, and when the MS provider has a patient that they think would be a good fit, you will be invited into the clinic examination room to present the patient with a copy of the study consent form and a brief description of what the study involves. If they express interest, you can ask them if you may contact them via text in the coming days to schedule a study visit. 
+***General Recruitment Strategy***
+1. Our lab partners with Neurology and we recruit directly from the MS clinics.
+2. Weekly, you should pre-screen the PennChart schedules for a group of the MS providers that are involved in study recruitment for patients that meet our study criteria.
+3. Once you create a list of patients that fit our criteria, send the providers a message via PennChart with the patients’ information (name or MRN and day/time of appointment).
+4. For a subset of providers, we attend clinic to directly recruit during a participant’s appointment.
+5. We may also receive direct referrals via PennChart from MS providers or CRCs.
 
-**Referral from a MS Specialist/MS CRC:**
-One of the MS specialists or their CRCs may reach out to you and provide a list of patients that may be a good fit for the study. You should double-check the patient's eligibility in PennChart, and if they are a good fit you can reach out and invite them to participate.
+***Recruitment Criteria***
+
+When reviewing possible participants charts in PennChart, there are certain criteria to look out for that may make someone more suitable for the study:
+1. Check that their most recent MRI clinical scans are from a *Penn affiliated hospital (this is a requirement).
+2. The most recent MRI clinical scans of the brain must be from the “MR Head MS Post Processing W/WO IV Contrast” Protocol (this is listed in PennChart under imaging tab).
+3. A recent MS diagnosis (this is preferred, but not a requirement).
+4. Low to moderate lesion burden: This is not a requirement but can be helpful if you need to shorten your list of possible participants. If there is extremely high lesion burden, ask Dr. Baller to review whether to pursue.
+5. Part of the Ocrevus de-escalation research protocol.
+6. Part of Dr. Schindler’s 7T protocol: If they are a part of this protocol, you can ignore screening for a lower lesion load.
+7. Part of an underrepresented group in research. The NIH requires recruitment targets specifically for Black and Hispanic patients. 
+
+*Current Penn affiliated hospitals: Hospital of the University of Pennsylvania (HUP), Penn Presbyterian Medical Center (PPMC), Penn Neurology Cherry Hill (CHNMP), Perelman Center for Advanced Medicine (PCAM), Pennsylvania Hospital (PAH), Penn Medicine Radnor (RADK), and Penn Pain Medicine Center Tuttleman Center (TTLMN). If there is an additional hospital that you are unsure is a Penn affiliated hospital, you can reference this website or through a Google search.
+
+***Recruitment Specifics by Provider Type***
+
+Matt Schindler
+1. Dr. Schindler sees patients at PCAM on ***Thursday mornings***, typically from ***8am to 12pm***, and Pennsylvania Hospital (on 9th and Pine) from 8am to 12pm.
+2. After prescreening his patients for the week and sending him a message via PennChart of which clinic you would like to shadow, you may attend clinic and join him during his appointments. During the end of the appointments, Dr. Schindler will introduce you and allow you to give the patient a spiel about the study. If the patient indicates that they are interested in participating, ask them for their preferred method of contact, and then follow up with them within 24-48 hours of first contact. 
+
+Chris Perrone
+1. Dr. Perrone sees patients at PCAM on ***Thursday*** mornings, typically from ***8am to 12pm***.
+2. The same process that was done for Dr. Schindler should be applied to Dr. Perrone’s patients as well. On Thursday clinics, you can go back and forth between Dr. Perrone’s and Dr. Schindler’s patients depending on who best fits the criteria. Follow the same process listed above if the patient indicates that they are interested in participating. 
+
+Rachel Brandstadter
+1. At the beginning of each week, go through Dr. Brandstadter’s patients for the week and make a list of patients that meet the criteria. Send this list to her via PennChart, including the patients’ names and appointment information (date and time). If any of the patients on this list indicate that they are interested in participating, Dr. Brandstadter will send you a message in PennChart with their chart. 
+
+MS Fellows
+1. MS fellows may send you messages in PennChart with additional patients that they believe may be a good fit for the study. 
+
+***Recruitment Spiel for CRC/MS Provider Recruiting in Person***
+
+“In this study, we’re hoping to explore the relationship between MS and depression and are interested in recruiting participants who have a MS diagnosis and who may or may not have an additional psychiatric diagnosis. If you’re interested in participating, we would ask you to complete a one-time research visit that would take around 2 to 3 hours, for which you’d receive $80. This visit can be done in-person at HUP or over Zoom. During the visit you’d complete a diagnostic clinical assessment, during which you’d be asked questions about your behaviors, mood, and medical history. You would also be asked to complete a cognitive assessment, which consists of some memory and puzzle games on the computer. We’d also ask you to authorize the research team to access your most recent clinical brain MRI scan, although this study includes no additional scanning.”
+
+***Information to Provide to Participants***
+
+When recruiting patients in the clinic, make sure to give them the spiel listed above, answer any additional questions that they may have about the study, and have a copy of the consent form on hand to give to them. 
+
+***Follow-Up Time for Scheduling***
+
+Aim to call within 24-48 hours after first initial contact with the participant. 
+
 
 ## Reaching out to a Participant
 
