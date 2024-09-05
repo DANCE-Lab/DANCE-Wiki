@@ -1,4 +1,4 @@
-# Documentation for the Baller Lab
+# Documentation for the DANCE Lab
 ## About the theme
 This is a fork of just-the-docs.
 Just the Docs is &copy; 2017-2019 by <a href="http://patrickmarsceill.com"> Patrick Marsceill</a>.
