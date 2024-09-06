@@ -46,3 +46,39 @@ Once the contract is approved, you will receive a permission code to register fo
 Further registration intructions can be found [here](z.umn.edu/Directed_Activity).
 
 After your contract is approved, you will receive a permission code from this email address: wfgen-nr.umn.edu. Please keep an eye on your email inbox and watch for the code.
+
+## Complete Required Online Trainings
+
+You will be required to complete a few online trainings before you are able to work with human subjects and data containing participant information.
+
+### CITI Training 
+
+You will need to complete two CITI courses to work as an RA. You can find these courses at [www.citiprogram.org](www.citiprogram.org). Click "login" and then "login through my institution". You will then be able to login  using your University of Minnesota credentials and complete the following courses: 
+1. Good Clinical Practice and Humann Research Portections for Biomedical Study teams--Basic Course
+2. Social/Behavioral or Humanist Research Investigators and Key Personnel
+3. Research Involving Human Subjects (RCR)
+Once you are logged in, click the "Add a Course" button. You will be asked to check a number of boxes to determine which courses you will need to complete. 
+- Question 1
+    - Select "Research Staff (non-PI) required to take RCR by USDA-NIFA or NSF requirement"
+    - Select "Research Involving Human Subjects"
+- Question 2
+    - Select "Social/Behavioral or Humanist Research Investigators and Key Personnel which includes PI's, Co-PI's and research staff. COmplete all required modules. The optional modules must be completed as they apply to your research activities."
+- Question 3
+    - Select "I have not previously completed a Basic Course"
+- Question 4 
+    - N/A--no animal research in this lab
+- Question 5
+    - Select "GCP - Social and Behavioral Research Best Practices for Clinical Research"
+- Question 6
+    - Select "Not at this time"
+- Question 7
+    - Select "Not at this time"
+- Question 8
+    - Select "Not at this time"
+- Question 9
+    - Select "No"
+- Question 10 
+    - Select "No"
+This selection should populate the relevant courses in your CITI curriculum queue. If you run into any problems or have any questions, reach out to the lab manager. 
+
+**Please submit your CITI certificates of course completion through the RA canvas course once finished**
