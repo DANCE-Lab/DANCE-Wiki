@@ -2,7 +2,7 @@
 layout: default
 title: GitHub Page
 has_children: false
-parent: Lab Members
+parent: Lab Basics
 has_toc: false
 nav_order: 2
 ---
