@@ -2,9 +2,9 @@
 layout: default
 title: Lab Navigation
 has_children: false
-parent: Lab Members
+parent: Lab Basics
 has_toc: false
-nav_order: 1
+nav_order: 2
 ---
 
 # Navigating the Lab

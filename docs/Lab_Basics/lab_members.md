@@ -1,9 +1,10 @@
 ---
 layout: default
 title: Lab Members
-has_children: true
-has_toc: true
-nav_order: 2
+has_children: false
+parent: Lab Basics
+has_toc: false
+nav_order: 1
 ---
 # DANCE Lab Members 
 
