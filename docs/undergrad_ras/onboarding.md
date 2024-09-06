@@ -82,3 +82,39 @@ Once you are logged in, click the "Add a Course" button. You will be asked to ch
 This selection should populate the relevant courses in your CITI curriculum queue. If you run into any problems or have any questions, reach out to the lab manager. 
 
 **Please submit your CITI certificates of course completion through the RA canvas course once finished**
+
+### UMN Trainings
+
+You will also need to complete some UMN trainings. You can achieve this by navigating to [https://training.umn.edu/](https://training.umn.edu/) and logging into the Training Hub. 
+
+Click on "course catalog" and search, then enroll, in the following courses:
+1. HIP24: HIPAA Privacy Training (2024)
+2. ISA 101: Information Security Awareness Training
+3. HRP 103: Assessing Capacity to Consent to Research
+
+**Please submit proof of course completion through the RA canvas course once finished**
+
+## Join the DANCE Lab Slack 
+
+You will be sent a DANCE Lab Slack invitation! Please make sure to join slack and check it regularly, as this is where many lab and research updates will be posted!
+
+Make sure you have joined at least the following channels: 
+- general
+- undergrad
+- random
+
+## Share your contact information 
+
+Please send an email to the lab manager containing your contact information: 
+- Full Name
+- Preferred Name
+- Pronouns
+- Preferred email address
+- Preferred phone number
+- Birthday
+
+## Share a bio and profile picture for the lab website
+
+We are excited to be building a lab website and would love to include you! Please send a one-paragraph bio and photograph that you would be willing to have shown on the Lab Members page of the lab website. In the bio, please share your research interests and something you enjoy doing outside of school/work. 
+
+Feel free to reach out to the lab manager with any questions or concerns! 
