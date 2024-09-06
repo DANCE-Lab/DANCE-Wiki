@@ -2,10 +2,11 @@
 layout: default
 title: Lab Members
 has_children: true
-has_toc: false
+has_toc: true
 nav_order: 2
 ---
 # DANCE Lab Members 
+
 
 | Position | Name | Email Address|
 | ----------- | ----------- | ----------- |
