@@ -58,12 +58,12 @@ You will need to complete two CITI courses to work as an RA. You can find these 
 2. Social/Behavioral or Humanist Research Investigators and Key Personnel
 3. Research Involving Human Subjects (RCR)
 Once you are logged in, click the "Add a Course" button. You will be asked to check a number of boxes to determine which courses you will need to complete. 
-1. Question 1
+> 1. Question 1
     - Select "Research Staff (non-PI) required to take RCR by USDA-NIFA or NSF requirement"
     - Select "Research Involving Human Subjects"
-2. Question 2
+> 2. Question 2
     - Select "Social/Behavioral or Humanist Research Investigators and Key Personnel which includes PI's, Co-PI's and research staff. COmplete all required modules. The optional modules must be completed as they apply to your research activities."
-3. Question 3
+> 3. Question 3
     - Select "I have not previously completed a Basic Course"
 4. Question 4 
     - N/A--no animal research in this lab
