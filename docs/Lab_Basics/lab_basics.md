@@ -20,3 +20,6 @@ If you need PINs to access lab equipment, testing rooms, or cart strings for com
 
 Linked are detailed instructions for connecting your [Mac](https://docs.google.com/document/d/1dsdfyPK1YA4KCkBRHHrxRPKAqvNUyCYYhEb6cGLyQyw/edit) or [PC](https://docs.google.com/document/d/1o_kF9wonOXbuBM3NgAOoSXA1NDhr7oWex7hkOkBLvec/edit) to Campbell Hall printers. Please contact the lab manager with additional quesitons or to gain access. 
 
+## DANCE Lab Feedback Form
+
+If you have any questions, comments, concerns, or suggestions for the DANCE lab, you are welcome to fill out this [anonymous feedback form](https://docs.google.com/forms/d/e/1FAIpQLSf4uDWksjS540F6rQngR28nDE8W1XyHDZy3syiW--w8IOA4wQ/viewform?usp=sf_link) and let us know!
