@@ -37,6 +37,7 @@ Submit an online [*Direct Activity* contract](z.umn.edu/Directed_Activity) and f
 You can enter the following text for project title, description, and methods
 
 > **Project Title: Emotion Regulation Development** 
+
 > *Project Description:*
 >Students in the D.A.N.C.E lab will conduct projects or related works focusing on typical and atypical emotion regulation development, cultural factors that shape regulation, and how early life stress, social determinants of health and structural racism (e.g., discrimination, neighborhood disparities) may “get under the skin” to confer intergenerational risk and resilience for developmental psychopathology and health disparities, especially among children and adolescents from marginalized backgrounds.
 Method, resources, and strategies to be used: 
