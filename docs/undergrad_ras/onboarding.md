@@ -59,26 +59,26 @@ You will need to complete two CITI courses to work as an RA. You can find these 
 3. Research Involving Human Subjects (RCR)
 Once you are logged in, click the "Add a Course" button. You will be asked to check a number of boxes to determine which courses you will need to complete. 
 - Question 1
-    - Select "Research Staff (non-PI) required to take RCR by USDA-NIFA or NSF requirement"
-    - Select "Research Involving Human Subjects"
+    1. Select "Research Staff (non-PI) required to take RCR by USDA-NIFA or NSF requirement"
+    2. Select "Research Involving Human Subjects"
 - Question 2
-    - Select "Social/Behavioral or Humanist Research Investigators and Key Personnel which includes PI's, Co-PI's and research staff. COmplete all required modules. The optional modules must be completed as they apply to your research activities."
+    1. Select "Social/Behavioral or Humanist Research Investigators and Key Personnel which includes PI's, Co-PI's and research staff. COmplete all required modules. The optional modules must be completed as they apply to your research activities."
 - Question 3
-    - Select "I have not previously completed a Basic Course"
+    1. Select "I have not previously completed a Basic Course"
 - Question 4 
-    - N/A--no animal research in this lab
+    1. N/A--no animal research in this lab
 - Question 5
-    - Select "GCP - Social and Behavioral Research Best Practices for Clinical Research"
+    1. Select "GCP - Social and Behavioral Research Best Practices for Clinical Research"
 - Question 6
-    - Select "Not at this time"
+    1. Select "Not at this time"
 - Question 7
-    - Select "Not at this time"
+    1. Select "Not at this time"
 - Question 8
-    - Select "Not at this time"
+    1. Select "Not at this time"
 - Question 9
-    - Select "No"
+    1. Select "No"
 - Question 10 
-    - Select "No"
+    1. Select "No"
 This selection should populate the relevant courses in your CITI curriculum queue. If you run into any problems or have any questions, reach out to the lab manager. 
 
 **Please submit your CITI certificates of course completion through the RA canvas course once finished**
