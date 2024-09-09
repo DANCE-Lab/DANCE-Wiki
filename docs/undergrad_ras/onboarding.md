@@ -67,18 +67,18 @@ Once you are logged in, click the "Add a Course" button. You will be asked to ch
 >    - Select "I have not previously completed a Basic Course"
 > 4. Question 4 
 >    - N/A--no animal research in this lab
-5. Question 5
-    - Select "GCP - Social and Behavioral Research Best Practices for Clinical Research"
-6. Question 6
-    - Select "Not at this time"
-7. Question 7
-    - Select "Not at this time"
-8. Question 8
-    - Select "Not at this time"
-9. Question 9
-    - Select "No"
-10. Question 10 
-    - Select "No"
+> 5. Question 5
+>    - Select "GCP - Social and Behavioral Research Best Practices for Clinical Research"
+> 6. Question 6
+>    - Select "Not at this time"
+> 7. Question 7
+>    - Select "Not at this time"
+> 8. Question 8
+>    - Select "Not at this time"
+> 9. Question 9
+>    - Select "No"
+> 10. Question 10 
+>    - Select "No"
 This selection should populate the relevant courses in your CITI curriculum queue. If you run into any problems or have any questions, reach out to the lab manager. 
 
 **Please submit your CITI certificates of course completion through the RA canvas course once finished**
