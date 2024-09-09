@@ -12,6 +12,12 @@ nav_order: 1
 
 The DANCE Lab is located in Campbell Hall, room 200. The suite houses our biweekly Lab Meeting, the lab manager office, and a participant waiting room, as well desks that research assistants are welcome to use for collaborative or independent work. If you need ID access to the lab, please fill out [this form](https://z.umn.edu/ICDaccess).
 
+## Lab Meetings
+
+FALL 2024
+The DANCE Lab meets biweekly, on Mondays from 2:30-3:30pm
+To sign up to present during a meeting, please use [this sheet](https://docs.google.com/spreadsheets/d/1ozd-Df6E4ejdnYS-0YC10syxcy-idxlaq-JjJy3ntBQ/edit?usp=sharing)
+
 ## Passwords, PINs, Access, and Ordering 
 
 If you need PINs to access lab equipment, testing rooms, or cart strings for completing lab orders, you can find general information in the [Google Drive DANCE Lab Manual](https://docs.google.com/document/d/1xI9PL6pvZ1jMR5U3Ry8z02KZRqNvFsKIBbI4vnMuDKY/edit#heading=h.74tq45l90tk1). Please contact the lab manager with additional questions or to gain access to the [DANCE Lab drive](https://drive.google.com/drive/folders/1GdMxW_YvxGf18Qf4rXo6k8aK1Lr-jOtm).
