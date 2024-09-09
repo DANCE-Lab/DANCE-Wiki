@@ -35,8 +35,8 @@ Submit an online [*Direct Activity* contract](z.umn.edu/Directed_Activity) and f
     - *students enrolling for 3 credits are expected to gain valuable research experience in the lab, but you are welcome to work less or more in the lab. Please confirm your desired workload with the lab manager at the beginning of the semester*
 
 > **Project Title: Emotion Regulation Development** 
-Project Description:
-Students in the D.A.N.C.E lab will conduct projects or related works focusing on typical and atypical emotion regulation development, cultural factors that shape regulation, and how early life stress, social determinants of health and structural racism (e.g., discrimination, neighborhood disparities) may “get under the skin” to confer intergenerational risk and resilience for developmental psychopathology and health disparities, especially among children and adolescents from marginalized backgrounds.
+> *Project Description:*
+>Students in the D.A.N.C.E lab will conduct projects or related works focusing on typical and atypical emotion regulation development, cultural factors that shape regulation, and how early life stress, social determinants of health and structural racism (e.g., discrimination, neighborhood disparities) may “get under the skin” to confer intergenerational risk and resilience for developmental psychopathology and health disparities, especially among children and adolescents from marginalized backgrounds.
 Method, resources, and strategies to be used: 
 (1) literature review, (2) survey design using Qualtrics and REDCap (3) interview assessment, (4) mobile EEG & fNIRS experiment setup, (2) subject recruitment and flyer design, (3) data coding and collection, and (4) other administrative tasks (e.g., IRB) as needed.
 
