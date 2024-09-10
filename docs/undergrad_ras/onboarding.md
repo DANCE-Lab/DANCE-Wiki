@@ -121,3 +121,7 @@ Please send an email to the lab manager containing your contact information:
 We are excited to be building a lab website and would love to include you! Please send a one-paragraph bio and photograph that you would be willing to have shown on the Lab Members page of the lab website. In the bio, please share your research interests and something you enjoy doing outside of school/work. 
 
 Feel free to reach out to the lab manager with any questions or concerns! 
+
+## Share yor research intersts and RA goals
+
+We want to help you pursue your personal research interests and goals you may have for being an undergrad RA in the DANCE Lab. You are invited to fill out this optional [google form](https://docs.google.com/forms/d/e/1FAIpQLSfN_wQIQZlJkJAwS948dJasruENLDmqPGsp7LrG0CgQKqI3pQ/viewform?usp=sf_link) and tell us a little more about what you hope to gain from this expereince and how we can help you achieve that!
