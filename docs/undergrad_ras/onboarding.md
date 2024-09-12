@@ -19,7 +19,7 @@ However, there are a few tasks that must be completed before you are able to beg
 
 You will need to be enrolled for your chosen number of credits (1, 2, or 3) in CPSY4994 in order to get course credit for working in the DANCE Lab. 
 
-Submit an online [*Direct Activity* contract](z.umn.edu/Directed_Activity) and fill out the requested information: 
+Submit an online [*Direct Activity* contract](https://wfgen.umn.edu/wfgen/show.aspx?QUERY=START&P=DIRECTED_ACTIVITY&BACKURL_SUBMIT=https://wfgen.umn.edu/WFGen/WfApps/WebForms/ASR-WFGen/directed_activity/v2/thankyou.aspx) and fill out the requested information: 
 - Faculty internet ID: kaip
 - Term: Fall
 - Year: 2024
