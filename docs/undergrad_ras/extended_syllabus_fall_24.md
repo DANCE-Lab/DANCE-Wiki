@@ -59,14 +59,17 @@ Paper:  ["A General Exposome Factor Explains Individual Differences in Functiona
 JOURNAL CLUB 2:
 - Presenter: 
 - Journal Club Discussion Question 2 due by 11:59 pm on September 24th
+
 ### October 9th
 JOURNAL CLUB 3:
 - Presenter: 
 - Journal Club Discussion Question 3 due by 11:59 pm on October 8th
+
 ### October 16th
 JOURNAL CLUB 4:
 - Presenter: 
 - Journal Club Discussion Question 4 due by 11:59 pm on October 15th
+
 ### October 23rd
 JOURNAL CLUB 5:
 - Presenter: 
