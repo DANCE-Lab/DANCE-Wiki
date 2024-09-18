@@ -47,29 +47,60 @@ Meeting-specific resources, assignment reminders, and itineraries for specific m
 ### September 18th
 
 ### September 25th
-JOURNAL CLUB 1: ["A General Exposome Factor Explains Individual Differences in Functional Brain Network Topography and Cognition in Youth"](https://www.sciencedirect.com/science/article/pii/S1878929324000318)
+JOURNAL CLUB 1: The Exposome 
+
+Paper:  ["A General Exposome Factor Explains Individual Differences in Functional Brain Network Topography and Cognition in Youth"](https://www.sciencedirect.com/science/article/pii/S1878929324000318)
+- Presenter: Maddie
+- Journal Club Discussion Question 1 due by 11:59 pm on September 24th
+
+> The term "exposome" refers to the interconnected and co-occurring features of a child's environment and is influences many aspects of children's development. This paper investigates impacts of the exposome on cognitive neurodevelopment in the ABCD dataset. 
 
 ### October 2nd
-
+JOURNAL CLUB 2:
+- Presenter: 
+- Journal Club Discussion Question 2 due by 11:59 pm on September 24th
 ### October 9th
-
+JOURNAL CLUB 3:
+- Presenter: 
+- Journal Club Discussion Question 3 due by 11:59 pm on October 8th
 ### October 16th
-
+JOURNAL CLUB 4:
+- Presenter: 
+- Journal Club Discussion Question 4 due by 11:59 pm on October 15th
 ### October 23rd
+JOURNAL CLUB 5:
+- Presenter: 
+- Journal Club Discussion Question 5 due by 11:59 pm on October 22nd
 - Schedule mid-term one-on-one check-ins with lab manager
 
 ### October 30th
+JOURNAL CLUB 6:
+- Presenter: 
+- Journal Club Discussion Question 6 due by 11:59 pm on October 29th
 
 ### November 6th
+JOURNAL CLUB 7:
+- Presenter: 
+- Journal Club Discussion Question 7 due by 11:59 pm on November 5th
 
 ### November 13th
+JOURNAL CLUB 8:
+- Presenter: 
+- Journal Club Discussion Question 8 due by 11:59 pm on November 12th
 
 ### November 20th
+JOURNAL CLUB 9:
+- Presenter: 
+- Journal Club Discussion Question 9 due by 11:59 pm on November 19th
 
 ### November 27th
 No Meeting, Thanksgiving
 
 ### December 4th
+JOURNAL CLUB 10:
+- Presenter: 
+- Journal Club Discussion Question 10 due by 11:59 pm on December 3rd
 
 ### December 11th
+FINAL PRESENTATIONS
 - Five-minute RA research proposal presentations 
