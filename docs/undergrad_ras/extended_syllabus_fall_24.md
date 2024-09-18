@@ -45,6 +45,9 @@ nav_order: 2
 Meeting-specific resources, assignment reminders, and itineraries for specific meetings will be posted below
 
 ### September 18th
+Introductions
+- Discussion of lab projects and scope of lab research
+- Brief discussion on the [scientific method](https://plato.stanford.edu/entries/scientific-method/) and implementation of scientific research in a university setting
 
 ### September 25th
 JOURNAL CLUB 1: The Exposome 
