@@ -55,8 +55,13 @@ JOURNAL CLUB 1: The Exposome
 Paper:  ["A General Exposome Factor Explains Individual Differences in Functional Brain Network Topography and Cognition in Youth"](https://www.sciencedirect.com/science/article/pii/S1878929324000318)
 - Presenter: Maddie
 - Journal Club Discussion Question 1 due by 11:59 pm on September 24th
+- Lab Meeting time is pushed to 4pm
 
 > The term "exposome" refers to the interconnected and co-occurring features of a child's environment and is influences many aspects of children's development. This paper investigates impacts of the exposome on cognitive neurodevelopment in the ABCD dataset. 
+
+fNIRS Team
+- First fNIRS training on Wednesday, September 25th, from 2:30-4pm!
+- Please watch this [Introduction to fNIRS](https://www.youtube.com/watch?v=TEMNe5ROsw4) video before our meeting
 
 ### October 2nd
 JOURNAL CLUB 2:
