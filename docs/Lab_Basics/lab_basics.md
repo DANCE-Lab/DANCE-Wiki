@@ -24,7 +24,7 @@ If you need PINs to access lab equipment, testing rooms, or cart strings for com
 
 ## Printing at the ICD
 
-Linked are detailed instructions for connecting your [Mac](https://docs.google.com/document/d/1dsdfyPK1YA4KCkBRHHrxRPKAqvNUyCYYhEb6cGLyQyw/edit) or [PC](https://docs.google.com/document/d/1o_kF9wonOXbuBM3NgAOoSXA1NDhr7oWex7hkOkBLvec/edit) to Campbell Hall printers. Please contact the lab manager with additional quesitons or to gain access. 
+Linked are detailed instructions for connecting your [Mac](https://docs.google.com/document/d/1dsdfyPK1YA4KCkBRHHrxRPKAqvNUyCYYhEb6cGLyQyw/edit) or [PC](https://docs.google.com/document/d/1o_kF9wonOXbuBM3NgAOoSXA1NDhr7oWex7hkOkBLvec/edit) to Campbell Hall printers and for adding a printer code when printing on [Mac](https://docs.google.com/document/d/1BME_a0boWhwggmH_CPgh6xfGZ4PtjXj7J7XcVfRTgyo/edit?usp=sharing).  Please contact the lab manager with additional quesitons or to gain access. 
 
 ## DANCE Lab Feedback Form
 
