@@ -68,7 +68,9 @@ JOURNAL CLUB 2: Emotion Regulation (an Introduction)
 
 Paper: [Emotion Regulation: Current Status and Future Prospects](https://www.tandfonline.com/doi/full/10.1080/1047840X.2014.940781#d1e276)
 - Presenter: 
-- Journal Club Discussion Question 2 due by 11:59 pm on September 24th
+- Journal Club Discussion Question 2 due by 11:59 pm on October 1st
+
+> This review of emotion regulation (context, process, and neural correlates) is a good introduction to the topic. The field of emotion regulation is still very much developing and changing, but this review provides an empirical foundation that will help us better hold contradicting and complex perspectives on emotion regulation in the future. 
 
 ### October 9th
 JOURNAL CLUB 3:
