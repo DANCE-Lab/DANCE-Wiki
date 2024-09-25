@@ -66,7 +66,7 @@ fNIRS Team
 ### October 2nd
 JOURNAL CLUB 2: Emotion Regulation (an Introduction)
 
-Paper: ['Emotion Regulation: Current Status and Future Prospects](https://www.tandfonline.com/doi/full/10.1080/1047840X.2014.940781#d1e276)
+Paper: [Emotion Regulation: Current Status and Future Prospects](https://www.tandfonline.com/doi/full/10.1080/1047840X.2014.940781#d1e276)
 - Presenter: 
 - Journal Club Discussion Question 2 due by 11:59 pm on September 24th
 
