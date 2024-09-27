@@ -35,3 +35,8 @@ nav_order: 2
 | R.A. | Boyu Wen | wen00109@umn.edu |
 | R.A. | Maya Groser | grose056@umn.edu |
 | R.A. | Christine Friendshuh | lutz0047@umn.edu |
+| R.A. | Kathryn Mainor | maino007@umn.edu|
+| R.A. | Cecilia Giron | giron004@umn.edu |
+| R.A. | Annika Mellum | mellu028@umn.edu |
+| R.A. | Carsyn Hartung | hartu119@umn.edu |
+| R.A. | Kennedy Kramer | krame910@umn.edu |

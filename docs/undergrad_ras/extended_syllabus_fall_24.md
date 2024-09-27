@@ -52,7 +52,7 @@ Introductions
 ### September 25th
 JOURNAL CLUB 1: The Exposome 
 
-Paper:  ["A General Exposome Factor Explains Individual Differences in Functional Brain Network Topography and Cognition in Youth"](https://www.sciencedirect.com/science/article/pii/S1878929324000318)
+Paper:  [A General Exposome Factor Explains Individual Differences in Functional Brain Network Topography and Cognition in Youth](https://www.sciencedirect.com/science/article/pii/S1878929324000318)
 - Presenter: Maddie
 - Journal Club Discussion Question 1 due by 11:59 pm on September 24th
 - Lab Meeting time is pushed to 4pm
