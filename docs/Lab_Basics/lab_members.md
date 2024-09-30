@@ -14,7 +14,7 @@ nav_order: 2
 | P.I. | Dr. Ka Ip | kaip@umn.edu |
 | Lab Manager | Madeleine Seitz | seitz178@umn.edu |
 | Postdoc | Noelle Suntheimer | noellems@umn.edu |
-| Postdoc | Juliet Nyanamba | |
+| Postdoc | Juliet Nyanamba | nyana001@umn.edu |
 | Postdoc | Tianying Cai | caixx427@umn.edu |
 | Graduate Student | Nora Nguyen | nguy5317@umn.edu |
 | Graduate Student | Emily Furtado | furta013@umn.edu |
