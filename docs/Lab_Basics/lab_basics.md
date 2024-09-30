@@ -2,7 +2,7 @@
 layout: default
 title: Lab Basics
 has_children: true
-has_toc: false
+has_toc: true
 nav_order: 1
 ---
 
