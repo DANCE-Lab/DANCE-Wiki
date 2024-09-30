@@ -73,14 +73,19 @@ Paper: [Emotion Regulation: Current Status and Future Prospects](https://www.tan
 > This review of emotion regulation (context, process, and neural correlates) is a good introduction to the topic. The field of emotion regulation is still very much developing and changing, but this review provides an empirical foundation that will help us better hold contradicting and complex perspectives on emotion regulation in the future. 
 
 ### October 9th
-JOURNAL CLUB 3:
+JOURNAL CLUB 3: [Perceptual Beginnings to Language Acquisition](https://www.cambridge.org/core/journals/applied-psycholinguistics/article/abs/perceptual-beginnings-to-language-acquisition/DE2FF7F5716CA76834F5051D6C219D69)
+Note: pdf available on Canvas
 - Presenter: 
 - Journal Club Discussion Question 3 due by 11:59 pm on October 8th
 
+> This review of infant speech perception development and its relation to reference, word learning, and other aspects of language acquisition is an excellent introduciton to how children begin to acquire speech in infancy. Dr. Werker will also be presenting at the 2024 ICD Symposium on Child Develpoment!
+
 ### October 16th
-JOURNAL CLUB 4:
+JOURNAL CLUB 4: [Infant Statistical Learning](https://www.annualreviews.org/content/journals/10.1146/annurev-psych-122216-011805)
 - Presenter: 
 - Journal Club Discussion Question 4 due by 11:59 pm on October 15th
+
+> This review of infant statistical learning provides an overview of how infants track statistical patterns in the natural world and discusses how they pertain to language learning and gaining knowledge as infants develop. Dr. Saffran will also be presenting at the 2024 ICD Symposium on Child Development!
 
 ### October 23rd
 JOURNAL CLUB 5:
