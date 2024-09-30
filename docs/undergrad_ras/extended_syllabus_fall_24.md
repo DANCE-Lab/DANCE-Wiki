@@ -82,6 +82,7 @@ Note: pdf available on Canvas
 
 ### October 16th
 JOURNAL CLUB 4: [Infant Statistical Learning](https://www.annualreviews.org/content/journals/10.1146/annurev-psych-122216-011805)
+Note: pdf available on Canvas
 - Presenter: 
 - Journal Club Discussion Question 4 due by 11:59 pm on October 15th
 
