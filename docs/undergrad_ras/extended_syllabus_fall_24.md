@@ -93,6 +93,7 @@ JOURNAL CLUB 5:
 - Presenter: 
 - Journal Club Discussion Question 5 due by 11:59 pm on October 22nd
 - Schedule mid-term one-on-one check-ins with lab manager
+- Discuss expectations and guidelines of term paper in more detail
 
 ### October 30th
 JOURNAL CLUB 6:
