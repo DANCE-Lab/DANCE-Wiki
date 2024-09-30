@@ -80,6 +80,10 @@ Note: pdf available on Canvas
 
 > This review of infant speech perception development and its relation to reference, word learning, and other aspects of language acquisition is an excellent introduciton to how children begin to acquire speech in infancy. Dr. Werker will also be presenting at the 2024 ICD Symposium on Child Develpoment!
 
+fNIRS Team
+- Please watch the video under Module 2 and review the Module 3 materials (introduction part 2/Head Measuring and Hardware) before our next training session!
+- Training session 2 is **Monday, October 7th, from 3:30-5pm**
+
 ### October 16th
 JOURNAL CLUB 4: [Infant Statistical Learning](https://www.annualreviews.org/content/journals/10.1146/annurev-psych-122216-011805)
 Note: pdf available on Canvas
