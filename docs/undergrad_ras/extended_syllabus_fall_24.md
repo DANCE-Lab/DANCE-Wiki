@@ -81,7 +81,7 @@ Note: pdf available on Canvas
 - Presenter: 
 - Journal Club Discussion Question 3 due by 11:59 pm on October 8th
 
-> This review of infant speech perception development and its relation to reference, word learning, and other aspects of language acquisition is an excellent introduciton to how children begin to acquire speech in infancy. Dr. Werker will also be presenting at the 2024 ICD Symposium on Child Develpoment!
+> This review of infant speech perception development and its relation to reference, word learning, and other aspects of language acquisition is an excellent introduciton to how children begin to acquire speech in infancy. Dr. Werker will also be presenting at the 2024 ICD Symposium on Child Develpoment! Attending the symposium will count towards your weekly hours.
 
 fNIRS Team
 - Please watch the video under Module 2 and review the Module 3 materials (introduction part 2/Head Measuring and Hardware) before our next training session!
@@ -93,7 +93,7 @@ Note: pdf available on Canvas
 - Presenter: 
 - Journal Club Discussion Question 4 due by 11:59 pm on October 15th
 
-> This review of infant statistical learning provides an overview of how infants track statistical patterns in the natural world and discusses how they pertain to language learning and gaining knowledge as infants develop. Dr. Saffran will also be presenting at the 2024 ICD Symposium on Child Development!
+> This review of infant statistical learning provides an overview of how infants track statistical patterns in the natural world and discusses how they pertain to language learning and gaining knowledge as infants develop. Dr. Saffran will also be presenting at the 2024 ICD Symposium on Child Development! Attending the symposium will count towards your weekly hours. 
 
 ### October 23rd
 JOURNAL CLUB 5:
