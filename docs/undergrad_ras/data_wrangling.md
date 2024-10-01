@@ -27,8 +27,8 @@ More advanced courses:
 
 Here are a couple of cheat sheets that are useful for data wrangling in R: 
 
-<a href="/files/cheat_sheets.pdf" target="_blank">PDF.</a>
-<a href="/files/r-cheat-sheet.pdf" target="_blank">PDF.</a>
+<a href="/files/cheat_sheets.pdf" target="_blank">ggplot and other libraries cheat sheet</a>
+<a href="/files/r-cheat-sheet.pdf" target="_blank">Base R Cheat Sheet</a>
 
 ## AFNI and FSL
 
