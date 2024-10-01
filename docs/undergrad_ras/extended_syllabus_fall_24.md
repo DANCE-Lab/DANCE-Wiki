@@ -72,6 +72,9 @@ Paper: [Emotion Regulation: Current Status and Future Prospects](https://www.tan
 
 > This review of emotion regulation (context, process, and neural correlates) is a good introduction to the topic. The field of emotion regulation is still very much developing and changing, but this review provides an empirical foundation that will help us better hold contradicting and complex perspectives on emotion regulation in the future. 
 
+- Discussion about hours
+- Touch base about final project and assigments
+
 ### October 9th
 JOURNAL CLUB 3: [Perceptual Beginnings to Language Acquisition](https://www.cambridge.org/core/journals/applied-psycholinguistics/article/abs/perceptual-beginnings-to-language-acquisition/DE2FF7F5716CA76834F5051D6C219D69)
 Note: pdf available on Canvas
