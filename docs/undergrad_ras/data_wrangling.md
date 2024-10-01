@@ -23,6 +23,13 @@ More advanced courses:
 
 - [Advanced Statistics for Data Science](https://www.coursera.org/specializations/advanced-statistics-data-science) is a more advanced, R-based course that is great for improving your statistical knowledge and becoming more comfortable doing more advanced analyses in datasets. It is a shorter course projected to take ~1 month to complete at 10 hours per week. 
 
+### R Cheat Sheets
+
+Here are a couple of cheat sheets that are useful for data wrangling in R: 
+
+<a href="/files/cheat_sheets.pdf" target="_blank">PDF.</a>
+<a href="/files/r-cheat-sheet.pdf" target="_blank">PDF.</a>
+
 ## AFNI and FSL
 
 If you ever find yourself needing to work with AFNI or FSL to analyze MRI data, Andrew Jahn has extensive tutorials that will help you get oriented and begin your analyses on youtube. 
