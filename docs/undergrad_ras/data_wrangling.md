@@ -28,6 +28,9 @@ More advanced courses:
 Here are a couple of cheat sheets that are useful for data wrangling in R: 
 
 <a href="dance-lab.github.io/DANCE-Management/files/cheat_sheets.pdf" target="_blank">ggplot and other libraries cheat sheet</a>
+- [ggplot and other R libraries cheat sheet](https://github.com/DANCE-Lab/DANCE-Management/blob/master/files/cheat_sheets.pdf)
+- [Base R cheat sheet](https://github.com/DANCE-Lab/DANCE-Management/blob/master/files/r-cheat-sheet.pdf)
+
 
 
 <a href="/files/r-cheat-sheet.pdf" target="_blank">Base R Cheat Sheet</a>
