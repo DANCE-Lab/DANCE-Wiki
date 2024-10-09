@@ -76,24 +76,30 @@ Paper: [Emotion Regulation: Current Status and Future Prospects](https://www.tan
 - Touch base about final project and assigments
 
 ### October 9th
-JOURNAL CLUB 3: [Perceptual Beginnings to Language Acquisition](https://www.cambridge.org/core/journals/applied-psycholinguistics/article/abs/perceptual-beginnings-to-language-acquisition/DE2FF7F5716CA76834F5051D6C219D69)
-Note: pdf available on Canvas
-- Presenter: 
-- Journal Club Discussion Question 3 due by 11:59 pm on October 8th
+SREEN TIME GROUP LITERATURE REVIEW
 
-> This review of infant speech perception development and its relation to reference, word learning, and other aspects of language acquisition is an excellent introduciton to how children begin to acquire speech in infancy. Dr. Werker will also be presenting at the 2024 ICD Symposium on Child Develpoment! Attending the symposium will count towards your weekly hours.
+Topic Categories: 
+- Brain and Cognition: Carsyn
+- Emotion and Self-Regulation: Kathryn, Cecilia, and Anna
+- Social and Family: Maya and Kennedy
+*Articles*: Please select two articles pertaining to your subject area
+*Annotated bibliography*: Please write up a brief annotation (~100 words) for each item in your bibliography. In this annotation, please explain the aim of the paper, the methods (pertaining to the screen time measure we are interested in) and the key findings (also screen-time related)
+*Extract Measures*: Please have a copy of the screen time measure used in both of your papers to show the lab next week! Sometimes this takes a little sleuthing--look in the paper's bibliography, SciHub, or try googling the name of the measure to obtain the scale.
+*Summary*: What did you learn about how screen time impacts kids' development in your assigned research area? Please summarize your takeaways in ~300 words.
+
+Please submit your summary and annotated bibliography in place of your journal discussion next week!
 
 fNIRS Team
 - Please watch the video under Module 2 and review the Module 3 materials (introduction part 2/Head Measuring and Hardware) before our next training session!
 - Training session 2 is **Monday, October 7th, from 3:30-5pm**
 
 ### October 16th
-JOURNAL CLUB 4: [Infant Statistical Learning](https://www.annualreviews.org/content/journals/10.1146/annurev-psych-122216-011805)
+JOURNAL CLUB 3: [Perceptual Beginnings to Language Acquisition](https://www.cambridge.org/core/journals/applied-psycholinguistics/article/abs/perceptual-beginnings-to-language-acquisition/DE2FF7F5716CA76834F5051D6C219D69)
 Note: pdf available on Canvas
 - Presenter: 
-- Journal Club Discussion Question 4 due by 11:59 pm on October 15th
+- Journal Club Discussion Question 3 due by 11:59 pm on October 8th
 
-> This review of infant statistical learning provides an overview of how infants track statistical patterns in the natural world and discusses how they pertain to language learning and gaining knowledge as infants develop. Dr. Saffran will also be presenting at the 2024 ICD Symposium on Child Development! Attending the symposium will count towards your weekly hours. 
+> This review of infant speech perception development and its relation to reference, word learning, and other aspects of language acquisition is an excellent introduciton to how children begin to acquire speech in infancy. Dr. Werker will also be presenting at the 2024 ICD Symposium on Child Develpoment! Attending the symposium will count towards your weekly hours.
 
 ### October 23rd
 JOURNAL CLUB 5:
