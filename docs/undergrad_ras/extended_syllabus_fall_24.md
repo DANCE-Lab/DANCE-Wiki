@@ -92,7 +92,7 @@ Please submit your summary and annotated bibliography in place of your journal d
 ### October 16th
 JOURNAL CLUB 3: [Perceptual Beginnings to Language Acquisition](https://www.cambridge.org/core/journals/applied-psycholinguistics/article/abs/perceptual-beginnings-to-language-acquisition/DE2FF7F5716CA76834F5051D6C219D69)
 Note: pdf available on Canvas
-- Presenter: 
+- Presenter: Carsyn
 - Journal Club Discussion Question 3 due by 11:59 pm on October 8th
 
 > This review of infant speech perception development and its relation to reference, word learning, and other aspects of language acquisition is an excellent introduciton to how children begin to acquire speech in infancy. Dr. Werker will also be presenting at the 2024 ICD Symposium on Child Develpoment! Attending the symposium will count towards your weekly hours.
