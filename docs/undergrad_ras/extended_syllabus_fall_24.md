@@ -104,7 +104,7 @@ fNIRS Team
 - Training session 2 is **Monday, October 16th, from 2:30-4pm**
 
 ### October 23rd
-JOURNAL CLUB 5:
+JOURNAL CLUB 5: [The Cultural Shaping of Emotion: A Conceptual Framework](https://psycnet.apa.org/fulltext/1994-97938-020.pdf)
 - Presenter: 
 - Journal Club Discussion Question 5 due by 11:59 pm on October 22nd
 - Discuss expectations and guidelines of term paper in more detail
