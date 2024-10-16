@@ -47,13 +47,13 @@ Meeting-specific resources, assignment reminders, and itineraries for specific m
 ### September 18th
 Introductions
 - Discussion of lab projects and scope of lab research
-- Brief discussion on the [scientific method](https://plato.stanford.edu/entries/scientific-method/) and implementation of scientific research in a university setting
+- Brief discussion  and [presentation](https://github.com/DANCE-Lab/DANCE-Management/blob/master/files/dance_lab_ra_mtg_9_18.pptx) on the [scientific method](https://plato.stanford.edu/entries/scientific-method/) and implementation of scientific research in a university setting
 
 ### September 25th
 JOURNAL CLUB 1: The Exposome 
 
 Paper:  [A General Exposome Factor Explains Individual Differences in Functional Brain Network Topography and Cognition in Youth](https://www.sciencedirect.com/science/article/pii/S1878929324000318)
-- Presenter: Maddie
+- [Presenter: Maddie](https://github.com/DANCE-Lab/DANCE-Management/blob/master/files/Exposome_JC_1.pptx)
 - Journal Club Discussion Question 1 due by 11:59 pm on September 24th
 - Lab Meeting time is pushed to 4pm
 
@@ -107,9 +107,14 @@ fNIRS Team
 JOURNAL CLUB 5: [The Cultural Shaping of Emotion: A Conceptual Framework](https://psycnet.apa.org/fulltext/1994-97938-020.pdf)
 - Presenter: 
 - Journal Club Discussion Question 5 due by 11:59 pm on October 22nd
-- Discuss expectations and guidelines of term paper in more detail
+
+PAPERS: 
+- [The Cultural Shaping of Emotion: A Conceptual Framework](https://psycnet.apa.org/fulltext/1994-97938-020.pdf)
+- 
 
 Python: Please download and work through the first Python interactive Jupyter Notebook, [Variables and Print Statements](https://github.com/DANCE-Lab/RA_scripts/blob/main/Learning_Python_Notebooks/1_Learning_Python_Variables_Strings_and_Conditionals.ipynb). This introductory notebook will help you learn some of the fundamental building blocks of python!
+
+Lab Bio: Please submit your lab bio and photograph via slack before **October 25th at midnight**! 
 
 ### October 30th
 JOURNAL CLUB 6:
