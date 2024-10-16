@@ -115,6 +115,7 @@ Maya
 
 Carsyn
 - [Ideal Affect: Cultural Causes and Behavioral Consequences](https://journals.sagepub.com/doi/full/10.1111/j.1745-6916.2007.00043.x)
+- [ Prospective Associations Between Emotion Regulation and Depressive Symptoms Among Mexican-Origin Adolescents](https://psycnet.apa.org/fulltext/2022-18713-001.html)
 
 Kathryn
 - [The Need for Change: Understanding Emotion Regulation Antecedents and Consequences Using Ecological Momentary Assessment](https://psycnet.apa.org/fulltext/2020-03346-005.html)
