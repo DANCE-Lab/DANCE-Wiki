@@ -107,28 +107,37 @@ fNIRS Team
 JOURNAL CLUB 5:
 - Presenter: 
 - Journal Club Discussion Question 5 due by 11:59 pm on October 22nd
-- Schedule mid-term one-on-one check-ins with lab manager
 - Discuss expectations and guidelines of term paper in more detail
+
+Python: Please download and work through the first Python interactive Jupyter Notebook, [Variables and Print Statements](https://github.com/DANCE-Lab/RA_scripts/blob/main/Learning_Python_Notebooks/1_Learning_Python_Variables_Strings_and_Conditionals.ipynb). This introductory notebook will help you learn some of the fundamental building blocks of python!
 
 ### October 30th
 JOURNAL CLUB 6:
 - Presenter: 
 - Journal Club Discussion Question 6 due by 11:59 pm on October 29th
 
+Python: Please download and work through the second Python interactive Jupyter Notebook, [Python Lists](https://github.com/DANCE-Lab/RA_scripts/blob/main/Learning_Python_Notebooks/2_Learning_Python_Lists.ipynb). This notebook gives an in-depth introduction to lists and has some basic exercises that will help solidify your understanding of lists!
+
 ### November 6th
 JOURNAL CLUB 7:
 - Presenter: 
 - Journal Club Discussion Question 7 due by 11:59 pm on November 5th
+
+Python: Please download and work through the third Python interactive Jupyter Notebook, [Python Tuples](https://github.com/DANCE-Lab/RA_scripts/blob/main/Learning_Python_Notebooks/3_Learning_Python_Tuples.ipynb). This notebook gives an in-depth introduction to tuples and has some basic exercises that will help solidify your understanding of tuples!
 
 ### November 13th
 JOURNAL CLUB 8:
 - Presenter: 
 - Journal Club Discussion Question 8 due by 11:59 pm on November 12th
 
+Python: Please download and work through the third Python interactive Jupyter Notebook, [Python Dictionaries](https://github.com/DANCE-Lab/RA_scripts/blob/main/Learning_Python_Notebooks/4_Learning_Python_Dictionaries.ipynb). This notebook gives an in-depth introduction to dictionaries and has some basic exercises that will help solidify your understanding of dictionaries!
+
 ### November 20th
 JOURNAL CLUB 9:
 - Presenter: 
 - Journal Club Discussion Question 9 due by 11:59 pm on November 19th
+
+Python demonstration: to build on what you have learned about strings, lists, tuples, and dictionaries over the past few weeks, we will have an in-class data wrangling demonstration that will help ground these components in real-world dataframe wrangling using pandas! Please bring laptops and be prepared to run code along with the demonstration. 
 
 ### November 27th
 No Meeting, Thanksgiving
