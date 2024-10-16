@@ -108,6 +108,7 @@ EMOTION REGULATION LITERATURE REVIEW
 - Review due by 11:59 pm on October 22nd
 
 **PAPERS**: 
+
 Maya
 - [Don't hide your happiness! Positive emotion dissociation, social connectedness, and psychological functioning.](https://psycnet.apa.org/record/2011-01597-001)
 - [Social Cognitive Factors in Emotion Regulation: Implications for Well-Being](https://link.springer.com/chapter/10.1007/978-1-4419-6953-8_3)
