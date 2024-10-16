@@ -104,17 +104,40 @@ fNIRS Team
 - Training session 2 is **Monday, October 16th, from 2:30-4pm**
 
 ### October 23rd
-JOURNAL CLUB 5: [The Cultural Shaping of Emotion: A Conceptual Framework](https://psycnet.apa.org/fulltext/1994-97938-020.pdf)
-- Presenter: 
-- Journal Club Discussion Question 5 due by 11:59 pm on October 22nd
+EMOTION REGULATION LITERATURE REVIEW
+- Review due by 11:59 pm on October 22nd
 
-PAPERS: 
+**PAPERS**: 
+Maya
+- [Don't hide your happiness! Positive emotion dissociation, social connectedness, and psychological functioning.](https://psycnet.apa.org/record/2011-01597-001)
+- [Social Cognitive Factors in Emotion Regulation: Implications for Well-Being](https://link.springer.com/chapter/10.1007/978-1-4419-6953-8_3)
+
+Carsyn
+- [Ideal Affect: Cultural Causes and Behavioral Consequences](https://journals.sagepub.com/doi/full/10.1111/j.1745-6916.2007.00043.x)
+
+Kathryn
+- [The Need for Change: Understanding Emotion Regulation Antecedents and Consequences Using Ecological Momentary Assessment](https://psycnet.apa.org/fulltext/2020-03346-005.html)
+- [Help me feel better! Ecological momentary assessment of anxious youths’ emotion regulation with parents and peers](https://pmc.ncbi.nlm.nih.gov/articles/PMC6310423/)
+
+Kennedy
+- [Interpersonal Emotion Regulation](https://psycnet.apa.org/fulltext/2013-34899-001.html)
+- [How to Improve Others’ Emotions: Reappraise and be Responsive](https://pmc.ncbi.nlm.nih.gov/articles/PMC10104771/)
+
+Cecilia
+- [Back to Basics: A Naturalistic Assessment of the Experience and Regulation of Emotion](https://psycnet.apa.org/fulltext/2014-27224-001.html)
+- [Dealing With Feeling: A Meta-Analysis of the Effectiveness of Strategies Derived From the Process Model of Emotion Regulation](https://psycnet.apa.org/fulltext/2012-12790-001.html)
+
+Annika
 - [The Cultural Shaping of Emotion: A Conceptual Framework](https://psycnet.apa.org/fulltext/1994-97938-020.pdf)
-- 
+- [Cultural Variation in Affect Valuation](https://psycnet.apa.org/fulltext/2006-02911-007.html)
 
-Python: Please download and work through the first Python interactive Jupyter Notebook, [Variables and Print Statements](https://github.com/DANCE-Lab/RA_scripts/blob/main/Learning_Python_Notebooks/1_Learning_Python_Variables_Strings_and_Conditionals.ipynb). This introductory notebook will help you learn some of the fundamental building blocks of python!
+Anna
+- [Emotion control values and responding to an anger provocation in Asian-American and European-American individuals](https://www.tandfonline.com/doi/full/10.1080/02699930903122273#d1e383)
+- [The structure of common emotion regulation strategies: A meta-analytic examination.](https://psycnet.apa.org/record/2017-11358-001)
 
-Lab Bio: Please submit your lab bio and photograph via slack before **October 25th at midnight**! 
+**Python**: Please download and work through the first Python interactive Jupyter Notebook, [Variables and Print Statements](https://github.com/DANCE-Lab/RA_scripts/blob/main/Learning_Python_Notebooks/1_Learning_Python_Variables_Strings_and_Conditionals.ipynb). This introductory notebook will help you learn some of the fundamental building blocks of python!
+
+**Lab Bio**: Please submit your lab bio and photograph via slack before **October 25th at midnight**! 
 
 ### October 30th
 JOURNAL CLUB 6:
