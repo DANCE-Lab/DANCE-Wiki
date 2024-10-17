@@ -137,6 +137,13 @@ Anna
 - [Emotion control values and responding to an anger provocation in Asian-American and European-American individuals](https://www.tandfonline.com/doi/full/10.1080/02699930903122273#d1e383)
 - [The structure of common emotion regulation strategies: A meta-analytic examination.](https://psycnet.apa.org/record/2017-11358-001)
 
+Literature Review Instructions:
+- Read your assigned articles
+- Annotated Bibliography: Please write up a brief annotation (~100 words) for each item in your bibliography. In this annotation, please explain the aim of the paper, the methods, and the findings as they pertain to emotion regulation, ideal/actual affect, culture, and best practices
+- Summary: What did you learn about emotion regulation in your assigned articles? Please summarize your takeaways in ~300 words (summarize both articles in 300 words)
+
+We will dedicate the whole time next week to discussing your findings and the EMA Emotion Regulation research project! 
+
 **Python**: Please download and work through the first Python interactive Jupyter Notebook, [Variables and Print Statements](https://github.com/DANCE-Lab/RA_scripts/blob/main/Learning_Python_Notebooks/1_Learning_Python_Variables_Strings_and_Conditionals.ipynb). This introductory notebook will help you learn some of the fundamental building blocks of python!
 
 **Lab Bio**: Please submit your lab bio and photograph via slack before **October 25th at midnight**! 
