@@ -167,11 +167,11 @@ We will dedicate the whole time next week to discussing your findings and the EM
 **Lab Bio**: Please submit your lab bio and photograph via slack before **October 25th at midnight**! 
 
 ### October 30th
-JOURNAL CLUB 6:
+JOURNAL CLUB 4: [Culture and the self: Implications for cognition, emotion, and motivation](https://psycnet.apa.org/record/1991-23978-001)
 - Presenter: 
 - Journal Club Discussion Question 6 due by 11:59 pm on October 29th
 
-Python: Please download and work through the second Python interactive Jupyter Notebook, [Python Lists](https://github.com/DANCE-Lab/RA_scripts/blob/main/Learning_Python_Notebooks/2_Learning_Python_Lists.ipynb). This notebook gives an in-depth introduction to lists and has some basic exercises that will help solidify your understanding of lists!
+Python: Please work through the second Python interactive Jupyter Notebook, [Python Lists](https://github.com/DANCE-Lab/RA_scripts/blob/main/Learning_Python_Notebooks/2_Learning_Python_Lists.ipynb). This notebook gives an in-depth introduction to lists and has some basic exercises that will help solidify your understanding of lists!
 
 ### November 6th
 JOURNAL CLUB 7:
