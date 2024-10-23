@@ -43,4 +43,22 @@ Youtuble playlists can be found below for...
 
 There are tons of resources for learning python on the internet. You can explore online platforms like [Coursera](https://www.coursera.org/specializations/python?utm_medium=sem&utm_source=gg&utm_campaign=B2C_NAMER_python_umich_FTCOF_specializations_country-US-country-CA&campaignid=300366907&adgroupid=34186056677&device=c&keyword=coursera%20python&matchtype=b&network=g&devicemodel=&adposition=&creativeid=668421944129&hide_mobile_promo&gad_source=1&gclid=Cj0KCQjwpP63BhDYARIsAOQkATav7J962mb73MD_bTxhTgp82TcIRw_mjLGdUb4aJIGVkLUXiDTcMkEaApfQEALw_wcB) and DataCamp, just to name a couple of the many available. 
 
-Our lab github also includes a [repository](https://github.com/DANCE-Lab/RA_scripts/tree/main) where scripts written by and for RAs pertaining to lab projects can be found. This repository also includes a folder with a series of Jupyter notebooks that will walk you, step-by-step, through the very basics of variables, strings, conditionals, tuples, lists, and dictionaries--everything you neeed to start applying your skills to real-life datasets. Before working through these notebooks, I recommend downloading [Anaconda Navigator](https://www.anaconda.com/products/navigator) and perusing the document [read_me](https://github.com/DANCE-Lab/RA_scripts/blob/main/Learning_Python_Notebooks/read_me.md).
+Our lab github also includes a [repository](https://github.com/DANCE-Lab/RA_scripts/tree/main) where scripts written by and for RAs pertaining to lab projects can be found. This repository also includes a folder with a series of Jupyter notebooks that will walk you, step-by-step, through the very basics of variables, strings, conditionals, tuples, lists, and dictionaries--everything you neeed to start applying your skills to real-life datasets. Before working through these notebooks, I recommend perusing the document [read_me](https://github.com/DANCE-Lab/RA_scripts/blob/main/Learning_Python_Notebooks/read_me.md).
+
+## Accessing Python Notebooks and Viewing RA Scripts
+
+We will be using Jupyter notebooks to begin learning about data cleaning and analysis! These notebooks can be found on the lab github, in the repository [RA Scripts](https://github.com/DANCE-Lab/RA_scripts/tree/main/Learning_Python_Notebooks) and can be opened using one of several platforms: [Anaconda](https://www.anaconda.com/products/navigator) (either by downloading the application or through the online platform), [Viisual Studio Code](https://code.visualstudio.com/), or [Google Colab](https://colab.google/). VS Code and the downloaded version of Anaconda Navigator will be the best platforms for more serious or in-depth projects, but online platforms are perfect for easily accessing somewhere to practice and run through the assigned Jupyter Notebooks! 
+
+#### Instructions for Opening Notebooks through Google Colab
+
+If it is your first time using a Jupyter Notebook, I highly recommend starting with Google Colab as this is the easiest, most user-friendly online option. Please note: code may run more slowly on Google Colab than on your computer. 
+
+Steps to open a practice Jupyter Notebook in Google Colab: 
+1. Open [Google Colab](https://colab.google/) in your browser
+2. Click on the button called "Open Colab"
+3. Click on the button "GitHub" in the "Open Notebook" window
+4. Open the [RA Scripts](https://github.com/DANCE-Lab/RA_scripts/tree/main/Learning_Python_Notebooks) GitHub page in your browser
+5. Choose the notebook that you want to open in Colab. Copy the URL (Example: [URL for Notbook 1: Learning Python Variables: Strings and Conditionals](https://github.com/DANCE-Lab/RA_scripts/blob/main/Learning_Python_Notebooks/1_Learning_Python_Variables_Strings_and_Conditionals.ipynb))
+6. Paste the URL in the Colab bar that says "Enter a GitHub URL"
+
+This should open your notebook! Colab will automatically connect you to Python 3 and you will be able to run notebook code blocks in your browser by clicking the little triangle in the upper left hand corner of the code block (looks like a "play" button). Please reach out to your lab manager if you have any further difficulties running the notebook!

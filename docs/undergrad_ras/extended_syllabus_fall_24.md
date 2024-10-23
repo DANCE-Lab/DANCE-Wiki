@@ -41,6 +41,24 @@ nav_order: 2
 - You will create a 5 minute slide presentation summarizing the project outlined in your written research proposal. RAs will present their projects during the final lab meeting of the semester, on Wednesday, December 11th
 - This presentation is due on canvas by Tuesday, December 10th, at 11:59pm
 
+## Accessing Python Notebooks and Viewing RA Scripts
+
+We will be using Jupyter notebooks to begin learning about data cleaning and analysis! These notebooks can be found on the lab github, in the repository [RA Scripts](https://github.com/DANCE-Lab/RA_scripts/tree/main/Learning_Python_Notebooks) and can be opened using one of several platforms: [Anaconda](https://www.anaconda.com/products/navigator) (either by downloading the application or through the online platform), [Viisual Studio Code](https://code.visualstudio.com/), or [Google Colab](https://colab.google/). VS Code and the downloaded version of Anaconda Navigator will be the best platforms for more serious or in-depth projects, but online platforms are perfect for easily accessing somewhere to practice and run through the assigned Jupyter Notebooks! 
+
+#### Instructions for Opening Notebooks through Google Colab
+
+If it is your first time using a Jupyter Notebook, I highly recommend starting with Google Colab as this is the easiest, most user-friendly online option. Please note: code may run more slowly on Google Colab than on your computer. 
+
+Steps to open a practice Jupyter Notebook in Google Colab: 
+1. Open [Google Colab](https://colab.google/) in your browser
+2. Click on the button called "Open Colab"
+3. Click on the button "GitHub" in the "Open Notebook" window
+4. Open the [RA Scripts](https://github.com/DANCE-Lab/RA_scripts/tree/main/Learning_Python_Notebooks) GitHub page in your browser
+5. Choose the notebook that you want to open in Colab. Copy the URL (Example: [URL for Notbook 1: Learning Python Variables: Strings and Conditionals](https://github.com/DANCE-Lab/RA_scripts/blob/main/Learning_Python_Notebooks/1_Learning_Python_Variables_Strings_and_Conditionals.ipynb))
+6. Paste the URL in the Colab bar that says "Enter a GitHub URL"
+
+This should open your notebook! Colab will automatically connect you to Python 3 and you will be able to run notebook code blocks in your browser by clicking the little triangle in the upper left hand corner of the code block (looks like a "play" button). Please reach out to your lab manager if you have any further difficulties running the notebook!
+
 # Week-by-Week Breakdown
 Meeting-specific resources, assignment reminders, and itineraries for specific meetings will be posted below
 
