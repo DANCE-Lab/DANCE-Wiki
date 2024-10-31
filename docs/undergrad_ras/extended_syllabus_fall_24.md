@@ -168,15 +168,16 @@ We will dedicate the whole time next week to discussing your findings and the EM
 
 ### October 30th
 JOURNAL CLUB 4: [Culture and the self: Implications for cognition, emotion, and motivation](https://psycnet.apa.org/record/1991-23978-001)
-- Presenter: 
-- Journal Club Discussion Question 6 due by 11:59 pm on October 29th
+- Presenter: Maya
+- Journal Club Discussion Question 4 due by 11:59 pm on October 29th
 
 Python: Please work through the second Python interactive Jupyter Notebook, [Python Lists](https://github.com/DANCE-Lab/RA_scripts/blob/main/Learning_Python_Notebooks/2_Learning_Python_Lists.ipynb). This notebook gives an in-depth introduction to lists and has some basic exercises that will help solidify your understanding of lists!
 
 ### November 6th
-JOURNAL CLUB 7:
-- Presenter: 
-- Journal Club Discussion Question 7 due by 11:59 pm on November 5th
+JOURNAL CLUB 7: [Constants Across Cultures in the Face and Emotion](https://psycnet.apa.org/fulltext/1971-07999-001.pdf)
+> This paper is an introduction to Ekman's notion of Universal Emotions. He brings his standardized facial expressions to Papua New Guinea to test these emotions in a "novel" group
+- Presenter: Kathryn
+- Journal Club Discussion Question 5 due by 11:59 pm on November 5th
 
 Python: Please download and work through the third Python interactive Jupyter Notebook, [Python Tuples](https://github.com/DANCE-Lab/RA_scripts/blob/main/Learning_Python_Notebooks/3_Learning_Python_Tuples.ipynb). This notebook gives an in-depth introduction to tuples and has some basic exercises that will help solidify your understanding of tuples!
 
