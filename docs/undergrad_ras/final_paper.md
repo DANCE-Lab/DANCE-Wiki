@@ -11,4 +11,9 @@ nav_order: 2
 
 ## Structure
 
+<p align="center">
+  <img src="methods_1.png" width="350" title="hover text">
+  <img src="https://github.com/DANCE-Lab/DANCE-Management/blob/master/docs/methods_1.png" width="350" alt="accessibility text">
+</p>
+
 ![methods_1](https://github.com/DANCE-Lab/DANCE-Management/blob/master/docs/methods_1.png)
