@@ -11,4 +11,4 @@ nav_order: 2
 
 ## Structure
 
-![methods_1](methods_1.png)
+![methods_1](https://github.com/DANCE-Lab/DANCE-Management/blob/master/docs/methods_1.png)
