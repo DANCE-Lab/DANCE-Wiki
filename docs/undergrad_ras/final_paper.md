@@ -17,3 +17,5 @@ nav_order: 2
 </p>
 
 ![methods_1](https://github.com/DANCE-Lab/DANCE-Management/blob/master/docs/methods_1.png)
+
+![alt text](image.png)
