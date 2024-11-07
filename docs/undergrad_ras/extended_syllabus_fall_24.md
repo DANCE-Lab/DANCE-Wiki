@@ -174,7 +174,7 @@ JOURNAL CLUB 4: [Culture and the self: Implications for cognition, emotion, and 
 Python: Please work through the second Python interactive Jupyter Notebook, [Python Lists](https://github.com/DANCE-Lab/RA_scripts/blob/main/Learning_Python_Notebooks/2_Learning_Python_Lists.ipynb). This notebook gives an in-depth introduction to lists and has some basic exercises that will help solidify your understanding of lists!
 
 ### November 6th
-JOURNAL CLUB 7: [Constants Across Cultures in the Face and Emotion](https://psycnet.apa.org/fulltext/1971-07999-001.pdf)
+JOURNAL CLUB 5: [Constants Across Cultures in the Face and Emotion](https://psycnet.apa.org/fulltext/1971-07999-001.pdf)
 > This paper is an introduction to Ekman's notion of Universal Emotions. He brings his standardized facial expressions to Papua New Guinea to test these emotions in a "novel" group
 - Presenter: Kathryn
 - Journal Club Discussion Question 5 due by 11:59 pm on November 5th
@@ -182,9 +182,9 @@ JOURNAL CLUB 7: [Constants Across Cultures in the Face and Emotion](https://psyc
 Python: Please download and work through the third Python interactive Jupyter Notebook, [Python Tuples](https://github.com/DANCE-Lab/RA_scripts/blob/main/Learning_Python_Notebooks/3_Learning_Python_Tuples.ipynb). This notebook gives an in-depth introduction to tuples and has some basic exercises that will help solidify your understanding of tuples!
 
 ### November 13th
-JOURNAL CLUB 8:
+JOURNAL CLUB 6: [Emotion Expresion and Regulation in Three Cultures: Chinese, Japanese, and American Preschoolers' Reactions to Disappointment](https://www.sciencedirect.com/science/article/pii/S0022096520304264)
 - Presenter: 
-- Journal Club Discussion Question 8 due by 11:59 pm on November 12th
+- Journal Club Discussion Question 6 due by 11:59 pm on November 12th
 
 Python: Please download and work through the third Python interactive Jupyter Notebook, [Python Dictionaries](https://github.com/DANCE-Lab/RA_scripts/blob/main/Learning_Python_Notebooks/4_Learning_Python_Dictionaries.ipynb). This notebook gives an in-depth introduction to dictionaries and has some basic exercises that will help solidify your understanding of dictionaries!
 
