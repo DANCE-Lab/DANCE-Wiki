@@ -24,5 +24,4 @@ Writing a protocol and reading guidelines should be taken with the same gravity 
 4. Ask questions! You can always [request a consultation with the UMN IRB](https://research.umn.edu/units/irb/how-submit/new-study)
 5. Look at existing IRB protocols in the lab to get a sense of the research we do and how others have drafted protocols in the past
 
-## Types of Studies
 
