@@ -183,26 +183,28 @@ Python: Please download and work through the third Python interactive Jupyter No
 
 ### November 13th
 JOURNAL CLUB 6: [Emotion Expresion and Regulation in Three Cultures: Chinese, Japanese, and American Preschoolers' Reactions to Disappointment](https://www.sciencedirect.com/science/article/pii/S0022096520304264)
-- Presenter: 
+- Presenter: Anna
 - Journal Club Discussion Question 6 due by 11:59 pm on November 12th
 
 Python: Please download and work through the third Python interactive Jupyter Notebook, [Python Dictionaries](https://github.com/DANCE-Lab/RA_scripts/blob/main/Learning_Python_Notebooks/4_Learning_Python_Dictionaries.ipynb). This notebook gives an in-depth introduction to dictionaries and has some basic exercises that will help solidify your understanding of dictionaries!
 
 ### November 20th
-JOURNAL CLUB 9:
-- Presenter: 
-- Journal Club Discussion Question 9 due by 11:59 pm on November 19th
+PYTHON DEMONSTRATION
 
-Python demonstration: to build on what you have learned about strings, lists, tuples, and dictionaries over the past few weeks, we will have an in-class data wrangling demonstration that will help ground these components in real-world dataframe wrangling using pandas! Please bring laptops and be prepared to run code along with the demonstration. 
+To build on what you have learned about strings, lists, tuples, and dictionaries over the past few weeks, we will have an in-class data wrangling demonstration that will help ground these components in real-world dataframe wrangling using pandas! Please bring laptops and be prepared to run code along with the demonstration. 
 
 ### November 27th
 No Meeting, Thanksgiving
 
 ### December 4th
-JOURNAL CLUB 10:
+JOURNAL CLUB 7:
 - Presenter: 
-- Journal Club Discussion Question 10 due by 11:59 pm on December 3rd
+- Journal Club Discussion Question 7 due by 11:59 pm on December 3rd
+- Posters due!
 
-### December 11th
-FINAL PRESENTATIONS
-- Five-minute RA research proposal presentations 
+Any RAs unable to attend the December 6th symposium will present their posters before journal club
+
+### December 6th
+ICD Undergraduate Research Symposium
+- Poster presentations due
+- Posters will be presented in ~7 minute presentations at the joint poster symposium with the Developmental Social Cognitive Neuroscience Lab!
