@@ -33,7 +33,7 @@ At the end of the section, clearly state your hypotheses. You may even write the
 >Note: In this proposed study, the independent variable is flour/flour alternatives, and the dependent variable is cake tastiness. This study will evaluate the impact modulation of the independent variable (flour type) has on the dependent variable (cake tastiness).
 
 ### Significance
-The significance section is your opportunity to convince the reader that the research project you intend to carry out is importance and worth doing. In this section, you must clearly highlight the gap in the literature that your study is addressing and explain WHY it is important that you help fill this gap in the literature. This is your opportunity to draw from existing literature. Use findings from existing research studies to explain why your project is necessary to carry out. 
+The significance section is your opportunity to convince the reader that the research project you intend to carry out is important and worth doing. In this section, you must clearly highlight the gap in the literature that your study is addressing and explain WHY it is important that you help fill this gap in the literature. This is your opportunity to draw from existing literature. Use findings from existing research studies to explain why your project is necessary to carry out. 
 
 >For example: *Smith et al., in their recent study on food-related affect and well being, found that individuals who self-identified as being physically unable to eat cake reported significantly lower scores on the PHQ-9. Moreover, in an EMA investigation of food and happiness, Doe et al. demonstrated a far stronger negative correlation between increased flour-based cake consumption and total number of Bad Days reported per year than in flour-alternative-based cakes. These studies indidcate inadequate cake tastiness in gluten-free cakes to effectively alleviate Bad Days.*
 
@@ -55,7 +55,7 @@ You will be required to include AT LEAST one methods figure, but you are welcome
 #### [Link to Poster Template](https://docs.google.com/presentation/d/1KKKmeH3bBMKrOkSkoFpO75gke9pdy0Q4j5pALZ3X3h8/edit?usp=sharing)
 
 ### Introduction/Background
-Clearly present your thesis. Include hypotheses, research aims, and motivation. Provide strongest pieces of evidence from your literature review that demonstrate the significance of carrying out your proposed project. Write the most important pieces of information (e.g., your hypotheses) in bullet form. You can bold your text to make it further stand out and denote its importance.
+Clearly present your thesis. Include hypotheses, research aims, and motivation. Present the strongest pieces of evidence from your literature review that demonstrate the significance of carrying out your proposed project. Write the most important pieces of information (e.g., your hypotheses) in bullet form. You can bold your text to make it further stand out and denote its importance.
 
 ### Methods
 The methods section is your opportunity to clearly state how you plan on carrying out your proposed project. Make sure to detail both methods relating to data collection (e.g., participant population, scales that you will use) and data analysis (e.g., student's t-test, ANOVA), and how these decisions will allow you to answer your research question and contribute to filling the gap you have identified in the literature.
