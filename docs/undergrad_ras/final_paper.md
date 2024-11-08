@@ -50,6 +50,8 @@ A research poster is an opportunity for you to distill the contents of your prop
 
 >Note: This poster will have a different structure from a poster in which you are presenting results
 
+#### [Link to Poster Template](https://docs.google.com/presentation/d/1KKKmeH3bBMKrOkSkoFpO75gke9pdy0Q4j5pALZ3X3h8/edit?usp=sharing)
+
 ### Introduction/Background
 Clearly present your thesis. Include hypotheses, research aims, and motivation. Provide strongest pieces of evidence from your literature review that demonstrate the significance of carrying out your proposed project. Write the most important pieces of information (e.g., your hypotheses) in bullet form. You can bold your text to make it further stand out and denote its importance.
 
