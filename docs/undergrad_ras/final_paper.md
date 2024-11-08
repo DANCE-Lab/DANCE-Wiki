@@ -48,6 +48,8 @@ The conclusion is an opportunity for you to bring the reader back to the big pic
 # Proposal Poster
 A research poster is an opportunity for you to distill the contents of your proposal into a series of short but salient blurbs and bullet points that can quickly convey your research to a reader. The poster is broken down into the same sections as your proposal. 
 
+You will be required to include AT LEAST one methods figure, but you are welcome to include additional relevant visual aids in your poster!
+
 >Note: This poster will have a different structure from a poster in which you are presenting results
 
 #### [Link to Poster Template](https://docs.google.com/presentation/d/1KKKmeH3bBMKrOkSkoFpO75gke9pdy0Q4j5pALZ3X3h8/edit?usp=sharing)
