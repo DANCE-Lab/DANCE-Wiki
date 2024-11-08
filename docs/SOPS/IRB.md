@@ -1,6 +1,6 @@
 ---
 layout: default
-title: IRB Guide
+title: IRB Resources
 has_children: false
 parent: SOPs
 has_toc: false
