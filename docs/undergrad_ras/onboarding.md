@@ -11,7 +11,7 @@ nav_order: 2
 
 The Development, Affective Neuroscience, Culture, and Environment Lab aims to study cultural diversity, children and adolescents' mental health, and the developing brain using a bioecological framework. Research in the lab employs diverse methods, including longitudinal study design, cross-cultural and behavioral experiments, ecological momentary assessment (EMA), neuroendocrine assays (cortisol), and neuroimaging tools (fNIRS, EEG/ERP, and fMRI). 
 
-As an undergraduate RA, you will have many opportunitites to develop your research skills and acquire a deeper understanding of the scientific method. You may gain experience conducting literature reviews, familiarity with survey design (using Qualtrics and REDCap), interview assessment, mobile EEG and fNRIRS experiment setup, subject recruitment, data collection, coding, and curation, and important administrative tasks such as IRB protocol development. 
+As an undergraduate RA, you will have many opportunitites to develop your research skills and acquire a deeper understanding of the scientific method. You may gain experience conducting literature reviews, familiarity with survey design (using Qualtrics and REDCap), interview assessment, mobile EEG and fNIRS experiment setup, subject recruitment, data collection, coding, and curation, and important administrative tasks such as IRB protocol development. 
 
 However, there are a few tasks that must be completed before you are able to begin working in the lab: 
 
