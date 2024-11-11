@@ -2,9 +2,9 @@
 layout: default
 title: fNIRS Resources
 has_children: false
-parent: fNIRS Protocols
+parent: Studies and Resources
 has_toc: false
-nav_order: 3
+nav_order: 2
 ---
 
 # fNIRS Resources

@@ -3,7 +3,7 @@ layout: default
 title: Data Wrangling
 has_children: false
 parent: RA Resources
-has_toc: false
+has_toc: true
 nav_order: 2
 ---
 
