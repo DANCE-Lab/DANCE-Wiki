@@ -1,13 +1,13 @@
 ---
 layout: default
-title: fNIRS Protocols
+title: fNIRS Resources
 has_children: false
-parent: SOPs
+parent: fNIRS Protocols
 has_toc: false
 nav_order: 2
 ---
 
-# fNIRS Protocols
+# fNIRS Resources
 
 The following resources can be found in the DANCE Lab Drive: 
 

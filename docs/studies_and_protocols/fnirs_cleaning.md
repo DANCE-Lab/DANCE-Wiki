@@ -2,7 +2,7 @@
 layout: default
 title: fNIRS Cleaning Guide
 has_children: false
-parent: SOPs
+parent: fNIRS Protocols
 has_toc: false
 nav_order: 2
 ---
