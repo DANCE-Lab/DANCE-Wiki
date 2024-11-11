@@ -1,9 +1,9 @@
 ---
 layout: default
 title: fNIRS Protocols
-has_children: True
+has_children: true
 parent: Studies and Protocols
-has_toc: True
+has_toc: true
 nav_order: 2
 ---
 
