@@ -2,7 +2,7 @@
 layout: default
 title: IRB Resources
 has_children: false
-parent: SOPs
+parent: Research Resources and SOPs
 has_toc: false
 nav_order: 2
 ---
