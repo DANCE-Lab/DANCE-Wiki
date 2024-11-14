@@ -185,6 +185,7 @@ Python: Please download and work through the third Python interactive Jupyter No
 JOURNAL CLUB 6: [Emotion Expresion and Regulation in Three Cultures: Chinese, Japanese, and American Preschoolers' Reactions to Disappointment](https://www.sciencedirect.com/science/article/pii/S0022096520304264)
 - Presenter: Anna
 - Journal Club Discussion Question 6 due by 11:59 pm on November 12th
+Practice developing a research protocol for proposal
 
 Python: Please download and work through the third Python interactive Jupyter Notebook, [Python Dictionaries](https://github.com/DANCE-Lab/RA_scripts/blob/main/Learning_Python_Notebooks/4_Learning_Python_Dictionaries.ipynb). This notebook gives an in-depth introduction to dictionaries and has some basic exercises that will help solidify your understanding of dictionaries!
 
@@ -197,8 +198,8 @@ To build on what you have learned about strings, lists, tuples, and dictionaries
 No Meeting, Thanksgiving
 
 ### December 4th
-JOURNAL CLUB 7:
-- Presenter: 
+JOURNAL CLUB 7: 
+- Presenter: Kennedy
 - Journal Club Discussion Question 7 due by 11:59 pm on December 3rd
 - Posters due!
 
