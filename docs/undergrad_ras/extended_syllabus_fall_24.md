@@ -209,3 +209,4 @@ Any RAs unable to attend the December 6th symposium will present their posters b
 ICD Undergraduate Research Symposium
 - Poster presentations due
 - Posters will be presented in ~5 minute presentations at the joint poster symposium with the Developmental Social Cognitive Neuroscience Lab!
+- Symposium will take place from **2-4pm** in **Campbell Hall, room 110**
