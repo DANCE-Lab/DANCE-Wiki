@@ -195,10 +195,10 @@ PYTHON DEMONSTRATION
 To build on what you have learned about strings, lists, tuples, and dictionaries over the past few weeks, we will have an in-class data wrangling demonstration that will help ground these components in real-world dataframe wrangling using pandas! Please bring laptops and be prepared to run code along with the demonstration. 
 
 ### November 27th
-No Meeting, Thanksgiving
+No Meeting, Thanksgiving!
 
 ### December 4th
-JOURNAL CLUB 7: 
+JOURNAL CLUB 7: (Using Media for Coping: A Scoping Review)[https://journals-sagepub-com.ezp2.lib.umn.edu/doi/full/10.1177/0093650220939778]
 - Presenter: Kennedy
 - Journal Club Discussion Question 7 due by 11:59 pm on December 3rd
 - Posters due!
