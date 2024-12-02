@@ -198,7 +198,7 @@ To build on what you have learned about strings, lists, tuples, and dictionaries
 No Meeting, Thanksgiving!
 
 ### December 4th
-JOURNAL CLUB 7: (Using Media for Coping: A Scoping Review)[https://journals-sagepub-com.ezp2.lib.umn.edu/doi/full/10.1177/0093650220939778]
+JOURNAL CLUB 7: [Using Media for Coping: A Scoping Review](https://journals-sagepub-com.ezp2.lib.umn.edu/doi/full/10.1177/0093650220939778)
 - Presenter: Kennedy
 - Journal Club Discussion Question 7 due by 11:59 pm on December 3rd
 - Posters due!
