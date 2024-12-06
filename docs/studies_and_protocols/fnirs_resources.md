@@ -2,7 +2,7 @@
 layout: default
 title: fNIRS Resources
 has_children: false
-parent: Studies and Protocols
+parent: SOPs and Study Procedures
 has_toc: false
 nav_order: 2
 ---
