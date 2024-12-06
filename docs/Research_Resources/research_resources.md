@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Research Resources and SOPs
+title: Research Resources
 has_children: true
 has_toc: true
 nav_order: 1
