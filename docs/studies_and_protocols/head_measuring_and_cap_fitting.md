@@ -7,9 +7,9 @@ has_toc: false
 nav_order: 2
 ---
 
-Head Measuring & Cap Fitting Protocol 
+# Head Measuring & Cap Fitting Protocol 
 
-1. Measures of the head 
+### Measures of the head 
 Ask the child if they are feeling comfortable during the procedures as well.
 
 Measure the following with the tape measure in centimeters:
@@ -23,7 +23,7 @@ Measure the following with the tape measure in centimeters:
 
 ![alt text](nz_iz.png)
 
-2. Record the measures on the [Head Measuring Form](https://docs.google.com/?pli=1) and find the best-fitting cap for the participant. 
+### Record the measures on the [Head Measuring Form](https://docs.google.com/?pli=1) and find the best-fitting cap for the participant. 
 
 | Circumference (cm) | Cap Size |
 | ----------- | ----------- |
@@ -36,7 +36,7 @@ Measure the following with the tape measure in centimeters:
 
 When placing the cap on the participant's head, if there are bumps or raised areas, size down a cap size.
 
-3. Placing the cap 
+### Placing the cap 
 Choose the **Caucasian cap** (for all races besides Asian) and **Asian cap** (for Asian participants)
 Stand behind the participants. 
 Ask the participant to tuck their hair behind their ears (if applicable)
@@ -45,7 +45,7 @@ Adjust by pulling the cap to fit the participant’s head.
 Be aware of the participant's earrings and piercings whenever placing or taking off the cap. 
 
 
-4. Ensuring correct placement 
+### Ensuring correct placement 
 
 Measure the Nz to point Cz (forehead to center of head) 
 Measures the Iz to point Cz (bump on back of head to center of head)  
