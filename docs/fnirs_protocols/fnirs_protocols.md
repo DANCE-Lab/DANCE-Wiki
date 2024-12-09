@@ -1,6 +1,6 @@
 ---
 layout: default
-title: fNIRS SOPs and Study Procedures
+title: fNIRS SOPs
 has_children: true
 has_toc: true
 nav_order: 1

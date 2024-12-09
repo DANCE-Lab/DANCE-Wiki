@@ -2,7 +2,7 @@
 layout: default
 title: fNIRS Calibration and Recording
 has_children: false
-parent: fNIRS SOPs and Study Procedures
+parent: fNIRS SOPs
 has_toc: true
 nav_order: 2
 ---
@@ -14,8 +14,6 @@ Begin protocol **only** once correct cap size is determined, cap is populated, c
 *Ensure cap is correctly placed on the participant’s head- re measure Cz and 10% point.*
 
 1. On the fNIRS computer, navigate to the  signal level optimization page (meter icon) on the dashboard. Press the red play button to start the calibration.
-
-![alt text](optimization.png)
 
 - Note: A pop-up window may appear shortly afterwards. If so, please click Continue.
 

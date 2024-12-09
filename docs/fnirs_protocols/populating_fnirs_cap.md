@@ -2,7 +2,7 @@
 layout: default
 title: Populating an fNIRS Cap
 has_children: false
-parent: fNIRS SOPs and Study Procedures
+parent: fNIRS SOPs
 has_toc: false
 nav_order: 2
 ---
