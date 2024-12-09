@@ -13,11 +13,12 @@ For the following steps under this section: **EPRIME Computer Tasks → bold**; 
 
 Note:
 EPRIME and fNIRS 1 computer- 
-> Username = .\install
-> Password = Winter1T3! 
+- Username = .\install
+- Password = Winter1T3! 
+
 EPRIME and fNIRS 2 computer-
-> Username = .\DANCE
-> Password = Develop209!
+- Username = .\DANCE
+- Password = Develop209!
 
 
 1. With BOTH computers, click on the Network Internet Settings, and connect both computers to the TP-Link (“TP-Link_E800_5G”). 
