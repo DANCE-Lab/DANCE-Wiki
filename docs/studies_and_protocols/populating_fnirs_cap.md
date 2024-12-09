@@ -50,6 +50,7 @@ nav_order: 2
 - For adults, we will always start with 2 at the front (DLPFC region) and 3 at the back (TPJ region)
 - For children, the springs will be determined after observing hair type (see hair type chart below)
 
+
 | ----------- | ----------- |
 | Skin without hair | Spring Pressure 0 |
 | Children, lighter hair color, thinner hair, low hair density | Spring Pressure 0 or 1 |
