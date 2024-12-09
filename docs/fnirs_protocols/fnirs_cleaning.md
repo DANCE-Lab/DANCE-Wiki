@@ -2,7 +2,7 @@
 layout: default
 title: fNIRS Cleaning Guide
 has_children: false
-parent: SOPs and Study Procedures
+parent: fNIRS SOPs and Study Procedures
 has_toc: true
 nav_order: 2
 ---
