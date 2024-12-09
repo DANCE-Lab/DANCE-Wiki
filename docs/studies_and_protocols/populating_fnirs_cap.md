@@ -2,7 +2,7 @@
 layout: default
 title: Populating an fNIRS Cap
 has_children: false
-parent: SOPs and Study Procedures
+parent: fNIRS Resources
 has_toc: false
 nav_order: 2
 ---
@@ -56,10 +56,12 @@ nav_order: 2
 | Adults, darker hair color, thicker hair, high hair density | Spring Pressure 2 or 3 |
 
 #### Appendix B:
+
 ![alt text](couple.png)
 Short distance channel couple 
 
 #### Appendix C:
+
 ![alt text](velcro.png)
 ![alt text](velcro_2.png)
 Green Velcro organizer (place short distance channel couple inside the green Velcro) 
@@ -68,23 +70,28 @@ Green Velcro organizer (place short distance channel couple inside the green Vel
 *See Short Distance Channel Protocol*
 
 **Appendix E:**
+
 ![alt text](nirsport.png)
 White NIRSport battery box 
 
 
 ### Photo album:
-**A**- 
+- **A**
+
 ![alt text](sd_channel.png)
 Short distance channel bundle *note- these wires are fiber optic wire and are VERY fragile; please do not bend or handle roughly*
 
-**B**-
+- **B**
+
 ![alt text](pliers.png)
 Reverse action pliers used to remove spring grommet ring 
 
-**C**-
+- **C**
+
 ![alt text](grommet_structure.png)
 The spring grommet ring is on the inside of the cap and is to be removed when placing short distance channels (keep ring is safe place so that it can be returned to the cap after data collection)
 
-**D**-
+- **D**
+
 ![alt text](sd_layout.png)
 Small circular black piece is the short distance channel organizer 
