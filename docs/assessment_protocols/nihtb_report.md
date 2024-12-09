@@ -2,7 +2,7 @@
 layout: default
 title: Creating a NIH Toolbox Report
 has_children: false
-parent: Cognitive Assessment SOPs and Study Procedures
+parent: Cognitive Assessment SOPs
 has_toc: false
 nav_order: 2
 ---

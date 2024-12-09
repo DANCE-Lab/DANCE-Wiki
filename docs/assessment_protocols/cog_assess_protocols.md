@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Cognitive Assessment SOPs and Study Procedures
+title: Cognitive Assessment SOPs
 has_children: true
 has_toc: true
 nav_order: 1
