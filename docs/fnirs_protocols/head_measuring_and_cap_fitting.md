@@ -21,7 +21,7 @@ Measure the following with the tape measure in centimeters:
 - Circumference - measure from the 10% dot and two fingers above the bump around the head 
 - Record hair color (black, brown, dirty blonde, blond, white) hair type (kinky curls, curly, wavy, straight) and cap size )
 
-![alt text](nz_iz.png)
+(see appendix A)
 
 ### Record the measures on the [Head Measuring Form](https://docs.google.com/?pli=1) and find the best-fitting cap for the participant. 
 
@@ -60,7 +60,9 @@ The 10% point should fall on the “x” marking on the cap
 
 **If the cap is already populated, move to the next step in the protocol.  If the cap is not populated, remove cap and populate before placing back on the participant’s head.**
 
+Appendix A: 
 
+![alt text](nz_iz.png)
 
 
 
