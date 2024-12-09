@@ -17,18 +17,17 @@ However, there are a few tasks that must be completed before you are able to beg
 
 ## Enrolling in CPSY4994
 
-You will need to be enrolled for your chosen number of credits (1, 2, or 3) in CPSY4994 in order to get course credit for working in the DANCE Lab. 
+You will need to be enrolled for your chosen number of credits in CPSY4994 in order to get course credit for working in the DANCE Lab. 
 
 Submit an online [*Direct Activity* contract](https://wfgen.umn.edu/wfgen/show.aspx?QUERY=START&P=DIRECTED_ACTIVITY&BACKURL_SUBMIT=https://wfgen.umn.edu/WFGen/WfApps/WebForms/ASR-WFGen/directed_activity/v2/thankyou.aspx) and fill out the requested information: 
 - Faculty internet ID: kaip
-- Term: Fall
-- Year: 2024
+- Term: Spring
+- Year: 2025
 - Course Subject: CPSY
 - Course Number: 4994
 - Section Number: 022
-- Number of credits desired: 3, 2, or 1 (enter the number that you have confirmed with the lab manager or with Dr. Ip)
+- Number of credits desired: 2 or 3 (enter the number that you have confirmed with the lab manager or with Dr. Ip)
 - Grading basis: Please choose A-F grading if you need this to count for major or minor credit
-    - 1 credit = 3 hours working in the lab per week
     - 2 credits = 6 hours working in the lab per week
     - 3 credits = 9 hours working in the lab per week
     - 4 credits = 12 hours working in the lab per week
