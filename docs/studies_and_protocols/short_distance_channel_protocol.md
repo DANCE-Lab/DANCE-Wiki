@@ -2,7 +2,7 @@
 layout: default
 title: Setting Up fNIRS Short Distance Channels
 has_children: false
-parent: fNIRS Resources
+parent: SOPs and Study Procedures
 has_toc: false
 nav_order: 2
 ---
