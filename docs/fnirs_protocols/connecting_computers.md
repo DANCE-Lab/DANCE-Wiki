@@ -12,11 +12,11 @@ nav_order: 2
 For the following steps under this section: **EPRIME Computer Tasks → bold**; *fNIRS Computer Tasks → italicized*; Both computers → normal text
 
 Note:
-EPRIME and fNIRS 1 computer- 
+#### EPRIME and fNIRS 1 computer- 
 - Username = .\install
 - Password = Winter1T3! 
 
-EPRIME and fNIRS 2 computer-
+#### EPRIME and fNIRS 2 computer-
 - Username = .\DANCE
 - Password = Develop209!
 
