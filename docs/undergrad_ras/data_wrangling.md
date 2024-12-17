@@ -45,6 +45,18 @@ There are tons of resources for learning python on the internet. You can explore
 
 Our lab github also includes a [repository](https://github.com/DANCE-Lab/RA_scripts/tree/main) where scripts written by and for RAs pertaining to lab projects can be found. This repository also includes a folder with a series of Jupyter notebooks that will walk you, step-by-step, through the very basics of variables, strings, conditionals, tuples, lists, and dictionaries--everything you neeed to start applying your skills to real-life datasets. Before working through these notebooks, I recommend perusing the document [read_me](https://github.com/DANCE-Lab/RA_scripts/blob/main/Learning_Python_Notebooks/read_me.md).
 
+### Python Exercises
+
+The best way to build your coding abilities is by practicing! Below are some resources and websites where you can do some python tutorials and complete some python exercises. Some of the sites have a built-in coding window where you can practice problems, whereas others may require you to practice in a notebook (in jupyter or google colab) instead.
+
+1. [Pychallenger](https://pychallenger.com/): this site offers a free first course with additional free exercises once you have completed your first lesson. Even though you don't get full access, it has a very user-friendly interface and might be a good place to get started.
+
+2. [HackerRank](https://www.hackerrank.com/domains/python?filters%5Bsubdomains%5D%5B%5D=py-introduction) has a number of challenges that you can work through to improve your python skills! It starts very easy, with print statements and arithmetic operators, and builds from there. HackerRank also has a very user-friendly interface where you can code directly into the site. 
+
+3. [w3resource](https://www.w3resource.com/python-exercises/) is a little less fancy, but has a lot of materials for python learners. Challenge questions offer you input text, numbers, etc., but you will need to solve the questions in your own notebook (such as in google colab, VSCode, or jupyter)
+
+4. [Practice Python](https://www.practicepython.org/) is another more basic website that has a TON of exercises, complete with in-depth instructions and solutions. Exercises are also rated by difficulty, so you can start with simpler ones and challenge yourself as you practice more. These exercises will also require you to solve these questions in your own practice notebooks (google colab, VSCode, jupyter).
+
 ## Accessing Python Notebooks and Viewing RA Scripts
 
 We will be using Jupyter notebooks to begin learning about data cleaning and analysis! These notebooks can be found on the lab github, in the repository [RA Scripts](https://github.com/DANCE-Lab/RA_scripts/tree/main/Learning_Python_Notebooks) and can be opened using one of several platforms: [Anaconda](https://www.anaconda.com/products/navigator) (either by downloading the application or through the online platform), [Viisual Studio Code](https://code.visualstudio.com/), or [Google Colab](https://colab.google/). VS Code and the downloaded version of Anaconda Navigator will be the best platforms for more serious or in-depth projects, but online platforms are perfect for easily accessing somewhere to practice and run through the assigned Jupyter Notebooks! 
