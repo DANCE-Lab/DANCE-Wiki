@@ -14,9 +14,9 @@ The DANCE Lab is located in Campbell Hall, room 200. The suite houses our biweek
 
 ## Lab Meetings
 
-FALL 2024
-The DANCE Lab meets biweekly, on Mondays from 2:30-3:30pm
-To sign up to present during a meeting, please use [this sheet](https://docs.google.com/spreadsheets/d/1ozd-Df6E4ejdnYS-0YC10syxcy-idxlaq-JjJy3ntBQ/edit?usp=sharing)
+Spring 2025
+The DANCE Lab meets biweekly, on Thursdays from 1:30-3:00pm
+To sign up to present during a meeting, please use [this sheet](https://docs.google.com/spreadsheets/d/1ozd-Df6E4ejdnYS-0YC10syxcy-idxlaq-JjJy3ntBQ/edit?gid=1202730350#gid=1202730350)
 
 ## DANCE Drive, Passwords, PINs, Access, and Ordering 
 
