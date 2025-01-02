@@ -70,39 +70,24 @@ Extra Credit
 - SRT Course Evaluation (5%)
 If you perform well following the expectations outlined in this syllabus, you can expect to receive a good grade. 
 
-| Week | Content *(Assignments are italicized)* | 
+| Week | Content | 
 | ----------- | ----------- | 
-| 1/20/25 | Introduction to the lab: overview of lab mission and ongoing projects
-- *Choose weekly 3-hour in-lab blocks*
- |
-| 1/27/25 | What is fNIRS? Practical demonstration with neuroimaging equipment.
-- *HIPAA and CITI trainings due (submit on canvas)*
- |
+| 1/20/25 | Introduction to the lab: overview of lab mission and ongoing projects |
+| 1/27/25 | What is fNIRS? Practical demonstration with neuroimaging equipment. |
 | 2/03/25 | What is the IRB? How do we write an IRB protocol? |
-| 2/10/25 | How do we collect informed consent and child assent from participants?
-- *practice consenting peers* |
+| 2/10/25 | How do we collect informed consent and child assent from participants? |
 | 2/17/25 | Why are documentation, data curation, and data cleaning so important? |
-| 2/24/25 | What are Qualtrics and REDCap? How do we use these platforms?
-- *Schedule midterm check-ins*
- |
+| 2/24/25 | What are Qualtrics and REDCap? How do we use these platforms? |
 | 3/03/25 | What is a SOP? How can we write an effective one? |
 | 3/10/25 | Spring Break (no meeting) |
 | 3/17/25 | What is a literature review? How can we get a sense of previous work on a topic? |
 | 3/24/25 | Methods breakdown: how do analyses and statistics inform study design? |
 | 3/31/25 | Research writing: how do we propose and present research findings? |
 | 4/07/25 | Conference-style posters: how do we successfully present research? |
-| 4/14/25 | Peer feedback on research proposal outlines
-- *Research proposal outline due*
- |
-| 4/21/25 | Present RA poster graphics; group feedback session
-- *Poster graphics due*
- |
-| 4/28/25 | ICD Undergraduate Poster Symposium
-- *Conference posters due (submit on canvas)*
- |
-| 5/05/25 | LAST DAY OF INSTRUCTION
-- *Research proposals due (submit on canvas)*
- |
+| 4/14/25 | Peer feedback on research proposal outlines |
+| 4/21/25 | Present RA poster graphics; group feedback session |
+| 4/28/25 | ICD Undergraduate Poster Symposium |
+| 5/05/25 | LAST DAY OF INSTRUCTION |
 
 ## Lab Resources:
 - *Slack*: Most of our lab members are on Slack and use it for informal communication / general questions. You should already receive the invitation via email, but if not, please contact lab manager Maddie at seitz178@umn.edu.
