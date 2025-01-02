@@ -93,7 +93,7 @@ If you perform well following the expectations outlined in this syllabus, you ca
 | ----------- | ----------- | 
 
 ## Lab Resources:
-- *Slack*: Most of our lab members are on Slack and use it for informal communication / general questions. You should already receive the invitation via email, but if not, please contact lab manager Maddie at seitz178@umn.edu.
+- *Slack*: Most of our lab members are on Slack and use it for informal communication / general questions. You should already receive the invitation via email, but if not, please contact lab manager Madeleine Seitz at seitz178@umn.edu.
 - *Google Groups*: You will be added to our DANCE Lab Google Group email list. This is used to share research/webinar opportunities.
 - *Google Calendar*: We use Google Calendar to schedule meetings. Make sure to monitor the DANCE Lab Google Calendar to see upcoming events/meetings. 
 
