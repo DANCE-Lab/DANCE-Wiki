@@ -70,6 +70,8 @@ Extra Credit
 - SRT Course Evaluation (5%)
 If you perform well following the expectations outlined in this syllabus, you can expect to receive a good grade. 
 
+## Schedule
+
 | Week | Content | 
 | ----------- | ----------- | 
 | 1/20/25 | Introduction to the lab: overview of lab mission and ongoing projects |
