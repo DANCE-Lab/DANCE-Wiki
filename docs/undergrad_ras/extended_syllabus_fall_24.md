@@ -1,11 +1,3 @@
----
-layout: default
-title: Extended Fall 2024 CPSY 4994 Syllabus
-has_children: false
-parent: RA Resources
-has_toc: false
-nav_order: 2
----
 
 
 # Fall 2024 DANCE Lab Extended Syllabus for CPSY4994 

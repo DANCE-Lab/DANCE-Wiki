@@ -88,6 +88,7 @@ If you perform well following the expectations outlined in this syllabus, you ca
 | 4/21/25 | Present RA poster graphics; group feedback session |
 | 4/28/25 | ICD Undergraduate Poster Symposium |
 | 5/05/25 | LAST DAY OF INSTRUCTION |
+| ----------- | ----------- | 
 
 ## Lab Resources:
 - *Slack*: Most of our lab members are on Slack and use it for informal communication / general questions. You should already receive the invitation via email, but if not, please contact lab manager Maddie at seitz178@umn.edu.
