@@ -103,3 +103,15 @@ If you perform well following the expectations outlined in this syllabus, you ca
 - Building/Lab Access: Please fill out this form: https://z.umn.edu/ICDaccess.
 - Lab: Room 200
 - Parking: No parking space for staff or research assistants outside the building. The parking spots are for participants. You can park in the UMN public parking space.
+
+# Week-by-Week Schedule
+
+### 1/20/25
+Welcome and overview of the DANCE Lab and DANCE projects
+Discussion of RA and course expectations
+
+Assignments: 
+- Undergrads will choose in-person weekly 3-hour block for lab work and training
+
+### 1/27/25
+In-lab fNIRS demonstration
