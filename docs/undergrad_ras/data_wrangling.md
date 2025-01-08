@@ -59,7 +59,7 @@ The best way to build your coding abilities is by practicing! Below are some res
 
 ## Accessing Python Notebooks and Viewing RA Scripts
 
-We will be using Jupyter notebooks to begin learning about data cleaning and analysis! These notebooks can be found on the lab github, in the repository [RA Scripts](https://github.com/DANCE-Lab/RA_scripts/tree/main/Learning_Python_Notebooks) and can be opened using one of several platforms: [Anaconda](https://www.anaconda.com/products/navigator) (either by downloading the application or through the online platform), [Viisual Studio Code](https://code.visualstudio.com/), or [Google Colab](https://colab.google/). VS Code and the downloaded version of Anaconda Navigator will be the best platforms for more serious or in-depth projects, but online platforms are perfect for easily accessing somewhere to practice and run through the assigned Jupyter Notebooks! 
+We will be using Jupyter notebooks to begin learning about data cleaning and analysis! These notebooks can be found on the lab github, in the repository [RA Scripts](https://github.com/DANCE-Lab/RA_scripts/tree/main/Learning_Python_Notebooks) and can be opened using one of several platforms: [Anaconda](https://www.anaconda.com/products/navigator) (either by downloading the application or through the online platform), [Visual Studio Code](https://code.visualstudio.com/), or [Google Colab](https://colab.google/). VS Code and the downloaded version of Anaconda Navigator will be the best platforms for more serious or in-depth projects, but online platforms are perfect for easily accessing somewhere to practice and run through the assigned Jupyter Notebooks! 
 
 #### Instructions for Opening Notebooks through Google Colab
 
