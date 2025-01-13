@@ -4,7 +4,7 @@ title: RA fNIRS Resources
 has_children: false
 parent: RA Resources
 has_toc: false
-nav_order: 2
+nav_order: 1
 ---
 # RA fNIRS Training FAQs and Resources
 

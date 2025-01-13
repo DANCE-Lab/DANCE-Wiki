@@ -4,7 +4,7 @@ title: Data Wrangling
 has_children: false
 parent: RA Resources
 has_toc: true
-nav_order: 2
+nav_order: 3
 ---
 
 # Data Wrangling
