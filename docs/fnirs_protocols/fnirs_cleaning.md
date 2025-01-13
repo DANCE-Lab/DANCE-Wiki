@@ -45,6 +45,7 @@ nav_order: 7
 
 ### Cap Cleaning
 *Note: cap deep-cleaning can be done in Campbell Hall room 205*
+![alt text](cleaning_room.png)
 
 **Materials**
 - Basin filled with warm water 
