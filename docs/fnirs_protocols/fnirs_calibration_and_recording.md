@@ -4,7 +4,7 @@ title: fNIRS Calibration and Recording
 has_children: false
 parent: fNIRS SOPs
 has_toc: true
-nav_order: 5
+nav_order: 6
 ---
 
 # Calibration and Recording 

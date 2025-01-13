@@ -4,7 +4,7 @@ title: fNIRS Resources
 has_children: false
 parent: fNIRS SOPs
 has_toc: false
-nav_order: 11
+nav_order: 12
 ---
 
 # fNIRS Resources

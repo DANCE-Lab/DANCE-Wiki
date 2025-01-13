@@ -4,7 +4,7 @@ title: fNIRS Technical Support
 has_children: false
 parent: fNIRS SOPs
 has_toc: false
-nav_order: 10
+nav_order: 11
 ---
 
 # Accessing Technical Support for NIRSport2 Hardware (and Submitting a Support Ticket)

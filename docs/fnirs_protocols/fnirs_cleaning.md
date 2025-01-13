@@ -4,7 +4,7 @@ title: fNIRS Cleaning Guide
 has_children: false
 parent: fNIRS SOPs
 has_toc: true
-nav_order: 6
+nav_order: 7
 ---
 
 # Cleaning fNIRS Equipment 
