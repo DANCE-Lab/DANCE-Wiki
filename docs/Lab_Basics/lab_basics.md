@@ -18,6 +18,11 @@ Spring 2025
 The DANCE Lab meets biweekly, on Thursdays from 1:30-3:00pm
 To sign up to present during a meeting, please use [this sheet](https://docs.google.com/spreadsheets/d/1ozd-Df6E4ejdnYS-0YC10syxcy-idxlaq-JjJy3ntBQ/edit?gid=1202730350#gid=1202730350)
 
+
+## Equipment QC (Phantom Testing)
+
+The DANCE Lab conducts weekly phantom testing to ensure that our equipment is working reliably and effectively. Each phantom test must be logged in the lab [**phantom testing spreadsheet**](https://docs.google.com/spreadsheets/d/19niNdWU5K-bbgTpHEOS49MJSUCEYLbQo6RfAbhuyJsE/edit?usp=sharing).
+
 ## DANCE Drive, Passwords, PINs, Access, and Ordering 
 
 If you need PINs to access lab equipment, testing rooms, or cart strings for completing lab orders, you can find general information in the [Google Drive DANCE Lab Manual](https://docs.google.com/document/d/1xI9PL6pvZ1jMR5U3Ry8z02KZRqNvFsKIBbI4vnMuDKY/edit#heading=h.74tq45l90tk1). Please contact the lab manager with additional questions or to gain access to the [DANCE Lab drive](https://drive.google.com/drive/folders/1GdMxW_YvxGf18Qf4rXo6k8aK1Lr-jOtm).
