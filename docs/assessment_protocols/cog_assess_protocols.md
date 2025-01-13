@@ -3,7 +3,7 @@ layout: default
 title: Cognitive Assessment SOPs
 has_children: true
 has_toc: true
-nav_order: 1
+nav_order: 6
 ---
 
 # Cognitive Assessment SOPs and Study Protocols
