@@ -14,6 +14,12 @@ This video is a short and sweet explanation of what fNIRS measures and why this 
 
 [find the video here](https://youtu.be/y_mTFjNN5dc?si=0KGKZAbPwZ3VGyVT) ~ 5 minutes 
 
+### *"I'm an RA who is starting fNIRS training, but how will I be evaluated?"*
+
+You will be evaluated on your ability to carry out a data collection protocol from start to finish! Once you have completed your training, which includes a combination of in-person practical training sessions, self-led training sessions, and completion of the DANCE fNIRS canvas course, you will complete a ~30 minute practical with the lab manager where you will demonstrate your ability to collect fNIRS data. You will be evaluated based upon a rubric (see below) and will be expected to complete all of the steps laid out in these SOP pages!
+
+[find the rubric here](https://docs.google.com/document/d/1pkP81NdA28miadirNdQlSYtA4JvxsitJlXVzzJpVgFM/edit?usp=sharing)
+
 ### *“I’m a RA who needs to fill some extra hours this week. I’d also like to learn some of the more in-depth details about why we use fNIRS and how the equipment works.”*
 
 This video will provide you with an overview of what fNIRS equipment does and how it can be used in our lab. The video will cover how the NIRS equipment collects data, why this method of collection is special, how to collect a good signal, and how this type of data collection is advantageous to our psychology research. This video will go in-depth about things that you do NOT need to know for basic fNIRS set up and data collection we do in the lab. However, understanding how these materials function can provide you with additional background knowledge on the equipment used in our lab. 
