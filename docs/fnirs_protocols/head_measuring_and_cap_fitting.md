@@ -4,7 +4,7 @@ title: fNIRS Head Measuring and Cap Fitting
 has_children: false
 parent: fNIRS SOPs
 has_toc: false
-nav_order: 2
+nav_order: 1
 ---
 
 # Head Measuring & Cap Fitting Protocol 

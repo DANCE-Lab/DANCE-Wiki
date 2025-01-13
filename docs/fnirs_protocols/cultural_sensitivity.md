@@ -4,7 +4,7 @@ title: fNIRS Cultural Sensitivity Guide
 has_children: false
 parent: fNIRS SOPs
 has_toc: true
-nav_order: 2
+nav_order: 8
 ---
 
 # Cultural Sensitivity Quick Guide for RAs

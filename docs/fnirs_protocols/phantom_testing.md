@@ -4,7 +4,7 @@ title: fNIRS Phantom Testing
 has_children: false
 parent: fNIRS SOPs
 has_toc: true
-nav_order: 2
+nav_order: 9
 ---
 # Phantom Testing Protocol
 

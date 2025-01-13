@@ -4,7 +4,7 @@ title: Connecting fNIRS to Computers
 has_children: false
 parent: fNIRS SOPs
 has_toc: true
-nav_order: 2
+nav_order: 4
 ---
 
 # Connecting Computers Protocol 
