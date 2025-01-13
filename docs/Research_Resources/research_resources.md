@@ -3,7 +3,7 @@ layout: default
 title: Research Resources
 has_children: true
 has_toc: true
-nav_order: 1
+nav_order: 4
 ---
 
 # Research Resources and Lab SOPs

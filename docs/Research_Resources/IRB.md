@@ -4,7 +4,7 @@ title: IRB Resources
 has_children: false
 parent: Research Resources
 has_toc: false
-nav_order: 2
+nav_order: 1
 ---
 
 # Resources and Links for Writing an IRB Protocol 
