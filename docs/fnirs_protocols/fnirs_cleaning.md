@@ -55,8 +55,9 @@ nav_order: 7
 
 1. Begin by removing all optodes and short distance channels from caps 
 2. Investigate any potentially damaged parts at this time and remove/replace them 
-3. Soak caps in a warm water + baby shampoo solution for 30 minutes
-4. Remove from solution and dry with a gentle towel 
+3. Soak caps in a warm water + baby shampoo solution for 20 minutes
+4. Rinse cap 4 times in warm water to remove all shampoo and residue
+4. Remove cap from solution and dry with a gentle towel 
 5. Hang to dry before next use
 
 ## Grommet and Optode Cleaning
