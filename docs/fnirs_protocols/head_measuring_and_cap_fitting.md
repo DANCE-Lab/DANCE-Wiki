@@ -23,7 +23,7 @@ Measure the following with the tape measure in centimeters:
 
 (see appendix A)
 
-### Record the measures on the [Head Measuring Form](https://docs.google.com/?pli=1) and find the best-fitting cap for the participant. 
+### Record the measures on the [Head Measuring Form](https://docs.google.com/document/d/1UcDkLP-O8VpKGiGA65uevUrkC7pCiOW2Ft8FOpXt7EA/edit?tab=t.0) and find the best-fitting cap for the participant. 
 
 | Circumference (cm) | Cap Size |
 | ----------- | ----------- |
