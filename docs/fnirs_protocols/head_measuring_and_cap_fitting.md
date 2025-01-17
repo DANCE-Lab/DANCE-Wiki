@@ -62,7 +62,7 @@ The 10% point should fall on the “x” marking on the cap
 
 Appendix A: 
 
-![alt text](nz_iz.png)
+![alt text](fNIRS_landmarks.png)
 
 
 
