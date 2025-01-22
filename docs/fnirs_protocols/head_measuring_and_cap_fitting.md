@@ -15,11 +15,11 @@ Ask the child if they are feeling comfortable during the procedures as well.
 Measure the following with the tape measure in centimeters:
 
 - Nasion (Nz, lowest point in between eyes) to Inion (Iz, the bump) - “mohawk”
-- Nz to Cz (forehead to middle of head ( 1/2 of measurement A) 
+- Nz to Cz (forehead to middle of head, 1/2 of Nz-Iz measurement) 
 - Left Preauricular Point (LPA) to Right Preauricular Point (RPA)  - “headband”
 - 10% point - 10% of the measurement of point Nz to Iz. Mark the 10% dot above the Nz point with “magic” marker  
 - Circumference - measure from the 10% dot and two fingers above the bump around the head 
-- Record hair color (black, brown, dirty blonde, blond, white) hair type (kinky curls, curly, wavy, straight) and cap size )
+- Record hair color (black, brown, dirty blonde, blond, white) hair type (kinky curls, curly, wavy, straight) and cap size 
 
 (see appendix A)
 
