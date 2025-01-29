@@ -107,12 +107,13 @@ If you perform well following the expectations outlined in this syllabus, you ca
 
 # Week-by-Week Schedule
 
-### 1/20/25
+### 1/24/25
 Welcome and overview of the DANCE Lab and DANCE projects
 Discussion of RA and course expectations
 
 Assignments: 
 - Undergrads will choose in-person weekly 3-hour block for lab work and training
 
-### 1/27/25
-In-lab fNIRS demonstration
+### 1/31/25
+- Discuss data analysis workgroup and meeting time
+- 
