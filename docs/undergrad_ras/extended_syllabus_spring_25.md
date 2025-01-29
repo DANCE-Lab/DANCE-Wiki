@@ -76,7 +76,7 @@ If you perform well following the expectations outlined in this syllabus, you ca
 | Week | Content | 
 | ----------- | ----------- | 
 | 1/20/25 | Introduction to the lab: overview of lab mission and ongoing projects |
-| 1/27/25 | What is fNIRS? Practical demonstration with neuroimaging equipment. |
+| 1/27/25 | Introduction to collecting human subjects data with small children |
 | 2/03/25 | What is the IRB? How do we write an IRB protocol? |
 | 2/10/25 | How do we collect informed consent and child assent from participants? |
 | 2/17/25 | Why are documentation, data curation, and data cleaning so important? |
@@ -115,5 +115,10 @@ Assignments:
 - Undergrads will choose in-person weekly 3-hour block for lab work and training
 
 ### 1/31/25
+Discuss the basics of collecting participant-facing data
+- Building rapport
+- WHat does it mean to be a mandated reporter
+- What is informed consent? 
+
+Admin:
 - Discuss data analysis workgroup and meeting time
-- 
