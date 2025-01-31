@@ -11,7 +11,9 @@ nav_order: 5
 
 For the following steps under this section: **EPRIME Computer Tasks → bold**; *fNIRS Computer Tasks → italicized*; Both computers → normal text
 
-Note:
+**Note on connecting without E-Prime:** 
+If connecting computers WITHOUT using E-Prime, you will ONLY need to use the fNIRS computer and can skip ahead to opening Aurora on the fNIRS computer
+
 #### EPRIME and fNIRS 1 computer- 
 - Username = .\install
 - Password = Winter1T3! 
@@ -22,7 +24,7 @@ Note:
 
 
 1. With BOTH computers, click on the Network Internet Settings, and connect both computers to the TP-Link (“TP-Link_E800_5G”). 
-2. Make sure the TP-Link (small white box) access point is plugged into the wall outlet and turned on.     										
+2. Make sure the TP-Link (small white box) access point is plugged into the wall outlet and turned on **OR** identify your USB-A to micro-USB cable and connect the fNIRS device to the computer			
 
 ![alt text](tp_link.png)
 
@@ -64,7 +66,7 @@ Begin once the participant has finished and passed the practice test and the NIR
 
 ![alt text](aurora.png)
 
-*5. Connect  to fNIRS device 1 (0453) or device 2 (0448) depending on which machine you choose to use.*
+*5. Connect  to fNIRS device 1 (0453) or device 2 (0448) depending on which machine you choose to use.* 
 *- If the device doesn’t show up, click Refresh list at the bottom*
 
 ![alt text](refresh.png)
