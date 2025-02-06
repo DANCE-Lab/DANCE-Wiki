@@ -25,6 +25,8 @@ The Development, Affective Neuroscience, Culture, and Environment Lab studies br
 ## Course Assignments:
 - **Online Trainings**: ALL RAs will be required to complete the HIPAA and CITI trainings required by the university for RAs to participate in data collection and curation
 - **Journal club discussion questions**: We will be diving into emotion regulation in our biweekly lab meetings. RAs will be expected to read the assigned journal articles and to submit one journal club discussion question per article on canvas
+
+- **Lab Meeting Presentation**: When you are preparing your presentation for lab meeting, make sure to contextualize the articles that you select by presenting where the journal was published and who the authors are. 
 - **Research proposal**: RAs will design and propose a research project in a 4-6 page (12 pt font, double-spaced, Times New Roman) research proposal due at the end of the semester
     - Detailed instructions for proposal can be found on lab wiki page
 - **Conference-style poster**: RAs will present their research proposal in a conference-style poster at the end of the semester

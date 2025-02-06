@@ -20,6 +20,10 @@ Spring 2025
 The DANCE Lab meets biweekly, on Thursdays from 1:30-3:00pm
 To sign up to present during a meeting, please use [this sheet](https://docs.google.com/spreadsheets/d/1ozd-Df6E4ejdnYS-0YC10syxcy-idxlaq-JjJy3ntBQ/edit?gid=1202730350#gid=1202730350)
 
+## DANCE Drive
+
+Important documents and papers are stored in either the [DANCE Google Drive](https://drive.google.com/drive/folders/16dbfKNJ_zwDbcHj4A_FXfwfrQlp-24_w?ths=true) or [UMN Box](https://box.umn.edu/). If you need access to either of these sites, please reach out to the lab manager!
+
 
 ## Equipment QC (Phantom Testing)
 
