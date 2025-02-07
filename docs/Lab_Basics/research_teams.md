@@ -50,7 +50,7 @@ After simulating an emotional event by playing a stressful video game (Overcooke
 ### People
 - Philip Lamb
 - Mia Chen
-- Madeleine Seitz
+- [Madeleine Seitz](seitz178@umn.edu)
 - Katie L. Friese
 - Boyu Wen
 ### Where
