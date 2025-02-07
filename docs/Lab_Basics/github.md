@@ -10,6 +10,8 @@ nav_order: 2
 # Keeping The GitHub Page Up to Date
 This GitHub page is the hub of lab protocols, procedures, and best practices. Therefore, it is important that it be kept up to date! This is also a living document that welcomes changes from all members of the lab. Lab members are welcome to create pull requests to update and add to this wiki; brief instructions for updating the github page are detailed below.
 
+Git hub is AWESOOOMMMMMEEE
+
 ## Quick GitHub Edits
 GitHub edits can be done either directly through the GitHub site or, for more complex and involved edits, by submitting pull requests through a platform like Visual Studio Code (VSC) into GitHub. If you are adding a section to an existing page or tweaking a procedure, it may be easiest for you to directly edit the pages docs. To do this, navigate to the [DANCE_Lab/DANCE-Management repository](https://github.com/DANCE-Lab/DANCE-Management) in the DANCE Lab Organization (reach out to the Lab Manager if you need to be added as a member). Click on the `Code` button and, in the left-hand toolbar, navigate to the `docs` folder. Once you select the page you would like to update, you can switch from the page `Preview` function to the page `Edit` function by clicking on the pencil in the upper right hand corner of the page preview. This will allow you to edit the page by entering [Markdown](https://www.markdownguide.org/cheat-sheet/) text into the file. Once you are finished editing, you'll submit a `Pull Request`, which will be integrated into the wiki once it is approved by the lab manager. You will add a quick message about what changes you made before completing the request.
 
