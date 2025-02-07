@@ -11,19 +11,19 @@ All of the teams are under the direction of Dr. Ka Ip.
 
 ## Functional near-infrared spectroscopy (fNIRS)
 ### People
--Tianying Cai
--Madeleine Seitz
--Katie L. Friese
--Carsyn Hartung
--Cecilia Giron
--Anna Jiang
--Pollyanna Vergara
--Samantha Miller
--Brooklyn Krull
+- Tianying Cai
+- Madeleine Seitz
+- Katie L. Friese
+- Carsyn Hartung
+- Cecilia Giron
+- Anna Jiang
+- Pollyanna Vergara
+- Samantha Miller
+- Brooklyn Krull
 ### Where
--Minnesota State Fair
--Minnesota Children's Museum
--DANCE testing room 
+- Minnesota State Fair
+- Minnesota Children's Museum
+- DANCE testing room 
 ### Overview
 A light-based, non-invasive brain scanning device designed to read blood oxygen consumption levels in the brain. 
 Currently it is being primarily used for children in the DANCE lab.
@@ -31,7 +31,7 @@ At the Minnesota State Fair, the "Neighborhood opportunity survey" in Redcap is 
 
 ## Ecological Momentary Assessment (EMA)
 ### People
--Anna Jiang
+- Anna Jiang
 ### Where
 TBD
 ### Overview
@@ -48,11 +48,11 @@ After simulating an emotional event by playing a stressful video game (Overcooke
 
 ## Emotional Regulation Repertoire (ERR) for Kids aged 6-8
 ### People
--Philip Lamb
--Mia Chen
--Madeleine Seitz
--Katie L. Friese
--Boyu Wen
+- Philip Lamb
+- Mia Chen
+- Madeleine Seitz
+- Katie L. Friese
+- Boyu Wen
 ### Where
 TBD
 ### Overview
