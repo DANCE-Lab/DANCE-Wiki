@@ -7,7 +7,8 @@ has_toc: false
 nav_order: 6
 ---
 
-# Practice Github Page for RAs!
+# Practice Github Page for RAs!  
+  
 
 Hello! This is Carsyn practicing GitHub!  
 **Bold** 
