@@ -52,3 +52,7 @@ Hi! **Pollyanna** here!
 - Wand to separate hair (I forgot the name)
 - *To be continued...*
 - *... and improved.*
+
+
+
+

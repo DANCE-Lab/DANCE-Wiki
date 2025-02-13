@@ -11,7 +11,7 @@ nav_order: 2
 
 The Development, Affective Neuroscience, Culture, and Environment Lab aims to study cultural diversity, children and adolescents' mental health, and the developing brain using a bioecological framework. Research in the lab employs diverse methods, including longitudinal study design, cross-cultural and behavioral experiments, ecological momentary assessment (EMA), neuroendocrine assays (cortisol), and neuroimaging tools (fNIRS, EEG/ERP, and fMRI). 
 
-As an undergraduate RA, you will have many opportunitites to develop your research skills and acquire a deeper understanding of the scientific method. You may gain experience conducting literature reviews, familiarity with survey design (using Qualtrics and REDCap), interview assessment, mobile EEG and fNIRS experiment setup, subject recruitment, data collection, coding, and curation, and important administrative tasks such as IRB protocol development. 
+As an undergraduate RA, you will have many opportunities to develop your research skills and acquire a deeper understanding of the scientific method. You may gain experience conducting literature reviews, familiarity with survey design (using Qualtrics and REDCap), interview assessment, mobile EEG and fNIRS experiment setup, subject recruitment, data collection, coding, and curation, and important administrative tasks such as IRB protocol development. 
 
 However, there are a few tasks that must be completed before you are able to begin working in the lab: 
 
@@ -45,7 +45,7 @@ Method, resources, and strategies to be used:
 
 Once the contract is approved, you will receive a permission code to register for the course. You can find the course CPSY 4994 on your schedule builder. Make sure to select section 022 listed with Dr. Ka I Ip. 
 
-Further registration intructions can be found [here](z.umn.edu/Directed_Activity).
+Further registration instructions can be found [here](z.umn.edu/Directed_Activity).
 
 After your contract is approved, you will receive a permission code from this email address: wfgen-nr.umn.edu. Please keep an eye on your email inbox and watch for the code.
 
@@ -121,6 +121,6 @@ We are excited to be building a lab website and would love to include you! Pleas
 
 Feel free to reach out to the lab manager with any questions or concerns! 
 
-## Share yor research intersts and RA goals
+## Share your research interests and RA goals
 
-We want to help you pursue your personal research interests and goals you may have for being an undergrad RA in the DANCE Lab. You are invited to fill out this optional [google form](https://docs.google.com/forms/d/e/1FAIpQLSfN_wQIQZlJkJAwS948dJasruENLDmqPGsp7LrG0CgQKqI3pQ/viewform?usp=sf_link) and tell us a little more about what you hope to gain from this expereince and how we can help you achieve that!
+We want to help you pursue your personal research interests and goals you may have for being an undergrad RA in the DANCE Lab. You are invited to fill out this optional [google form](https://docs.google.com/forms/d/e/1FAIpQLSfN_wQIQZlJkJAwS948dJasruENLDmqPGsp7LrG0CgQKqI3pQ/viewform?usp=sf_link) and tell us a little more about what you hope to gain from this experience and how we can help you achieve that!

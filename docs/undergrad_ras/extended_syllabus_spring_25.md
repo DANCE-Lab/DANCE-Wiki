@@ -8,7 +8,7 @@ nav_order: 5
 ---
 
 ## Introduction to the D.A.N.C.E Lab
-The Development, Affective Neuroscience, Culture, and Environment Lab studies brain and emotion regulation development, cultural factors that shape regulation, and how early life stress, social determinants of health and structural racism (e.g., discrimination, neighborhood disparities) may “get under the skin” to confer intergenerational risk and resilience for developmental psychopathology and health disparities, especially among children and adolescents from marginalized backgrounds. We use a wide range of research methods to investigate research questions: (1) Functional Near-Infrared Spectroscopy (fNIRS), (2) self-report survey, (3) ecological momentary assessment, and (4) self-report survey. 
+The Development, Affective Neuroscience, Culture, and Environment Lab studies brain and emotion regulation development, cultural factors that shape regulation, and how early life stress, social determinants of health and structural racism (e.g., discrimination, neighborhood disparities) may “get under the skin” to confer inter-generational risk and resilience for developmental psychopathology and health disparities, especially among children and adolescents from marginalized backgrounds. We use a wide range of research methods to investigate research questions: (1) Functional Near-Infrared Spectroscopy (fNIRS), (2) self-report survey, (3) ecological momentary assessment, and (4) self-report survey. 
 
 ## Course Expectations: 
 - RAs enrolled in CPSY4994 are expected to attend and contribute to weekly lab meetings, track their hours of lab work in the lab, and complete required canvas assignments
