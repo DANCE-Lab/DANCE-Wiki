@@ -12,7 +12,7 @@ nav_order: 2
 
 The DANCE Lab is located in Campbell Hall, room 200. The suite houses our biweekly Lab Meeting, the lab manager office, and a participant waiting room, as well desks that research assistants are welcome to use for collaborative or independent work. If you need ID access to the lab, please fill out [this form](https://z.umn.edu/ICDaccess).
 
-For anyone using fNIRS equipment, request additonal access to the ICD 2nd floor sink room (room 205), which you will need to access in order to clean our equipment.
+For anyone using fNIRS equipment, request additional access to the ICD 2nd floor sink room (room 205), which you will need to access in order to clean our equipment.
 
 ## Lab Meetings
 

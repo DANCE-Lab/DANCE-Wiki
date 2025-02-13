@@ -9,14 +9,14 @@ nav_order: 3
 
 # Data Wrangling
 
-Proficiency working with dataframes--be it wrangling in python, R, or another langauge--is one of the most valuable skills you can have in a lab! There are also a wealth of online resources to help you develop your data wrangling skills at your own pace, or whenever you are looking for a way to fill remaining weekly hours in the lab. 
+Proficiency working with dataframes--be it wrangling in python, R, or another language--is one of the most valuable skills you can have in a lab! There are also a wealth of online resources to help you develop your data wrangling skills at your own pace, or whenever you are looking for a way to fill remaining weekly hours in the lab. 
 
 ## R Coursera Courses
 
 There are some excellent introductory statistics courses in R available on Coursera. The following courses are provided by Johns Hopkins and an excellent starting place for someone who is relatively new to programming and R: 
 
 - [Getting Started with Data Visualization in R](https://www.coursera.org/learn/jhu-getting-started-data-viz-r) is a great course for someone with some basic skills using R for statistical analysis and will walk you through how to make data visualizations in R. This is good for someone who may not use R as a primary coding language as well--even though other langauges may be better suited to certain analyses, R creates some of the most visually appealing figures. This course is relatively short and contains only ~11 hours of coursework. 
-- [Data Science: Foundations Using R](https://www.coursera.org/specializations/data-science-foundations-r) is a self-paced beginner-leve introduction to R that will teach you the basics of using R to clean, analyze, and visualize data, as well as overview best research practices and how to use GitHub (the site used to create this wiki!). It is a longer course, projected to take ~4 months to complete at 10 hours per week. This is an excellent place to start if you have no R experience whatsoever. 
+- [Data Science: Foundations Using R](https://www.coursera.org/specializations/data-science-foundations-r) is a self-paced beginner-level introduction to R that will teach you the basics of using R to clean, analyze, and visualize data, as well as overview best research practices and how to use GitHub (the site used to create this wiki!). It is a longer course, projected to take ~4 months to complete at 10 hours per week. This is an excellent place to start if you have no R experience whatsoever. 
 - [Data Science Specialization](https://www.coursera.org/specializations/jhu-data-science) is a more in-depth introduction to using R to clean, analyze, and visualize data within the context of a publication-focused research project. It will also cover some statistical methods that will help you better understand how to implement R to ask the right questions in your data, as well as cover topics related to machine learning and managing your project using GitHub. It is the longest introductory course, estimated at ~7 months to complete at 10 hours per week. 
 
 More advanced courses: 
@@ -43,7 +43,7 @@ Youtuble playlists can be found below for...
 
 There are tons of resources for learning python on the internet. You can explore online platforms like [Coursera](https://www.coursera.org/specializations/python?utm_medium=sem&utm_source=gg&utm_campaign=B2C_NAMER_python_umich_FTCOF_specializations_country-US-country-CA&campaignid=300366907&adgroupid=34186056677&device=c&keyword=coursera%20python&matchtype=b&network=g&devicemodel=&adposition=&creativeid=668421944129&hide_mobile_promo&gad_source=1&gclid=Cj0KCQjwpP63BhDYARIsAOQkATav7J962mb73MD_bTxhTgp82TcIRw_mjLGdUb4aJIGVkLUXiDTcMkEaApfQEALw_wcB) and DataCamp, just to name a couple of the many available. 
 
-Our lab github also includes a [repository](https://github.com/DANCE-Lab/RA_scripts/tree/main) where scripts written by and for RAs pertaining to lab projects can be found. This repository also includes a folder with a series of Jupyter notebooks that will walk you, step-by-step, through the very basics of variables, strings, conditionals, tuples, lists, and dictionaries--everything you neeed to start applying your skills to real-life datasets. Before working through these notebooks, I recommend perusing the document [read_me](https://github.com/DANCE-Lab/RA_scripts/blob/main/Learning_Python_Notebooks/read_me.md).
+Our lab github also includes a [repository](https://github.com/DANCE-Lab/RA_scripts/tree/main) where scripts written by and for RAs pertaining to lab projects can be found. This repository also includes a folder with a series of Jupyter notebooks that will walk you, step-by-step, through the very basics of variables, strings, conditionals, tuples, lists, and dictionaries--everything you need to start applying your skills to real-life datasets. Before working through these notebooks, I recommend perusing the document [read_me](https://github.com/DANCE-Lab/RA_scripts/blob/main/Learning_Python_Notebooks/read_me.md).
 
 ### Python Exercises
 
