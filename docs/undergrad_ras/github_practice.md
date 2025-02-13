@@ -25,3 +25,30 @@ Hello! This is Carsyn practicing GitHub!
 3. three
    1. A
    2. B
+  
+Hi! **Pollyanna** here!
+## fNIRS Data Collection to Go: A Draft
+### This is the beginning of a list of items we have to pack when taking the fNIRS equipment to another location
+
+- Different sizes of caps (Caucasian and Asian)
+- Mannequin heads
+- Shower caps
+- Measure tapes
+- Skin-safe markers
+- fNIRS run sheets
+- Source bundles (red)
+- Detector bundles (blue)
+- Appropriate springs (0 - 3)
+  - Take sufficient level 3 springs to cover the entire head - necessary when the optodes reading is not optimal
+- Sufficient number of cable trees - two per cap
+- Couplers
+- Velcro straps - clips
+- Cleaning materials:
+  - Fabric disinfectant spray
+  - Alcohol cleansing wipes
+- Dongle
+- fNIRS straps (to hold the cap by the shoulders)
+- Backpacks
+- Wand to separate hair (I forgot the name)
+- *To be continued...*
+- *... and improved.*
