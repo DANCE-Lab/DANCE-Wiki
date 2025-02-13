@@ -26,4 +26,7 @@ Writing a protocol and reading guidelines should be taken with the same gravity 
 4. Ask questions! You can always [request a consultation with the UMN IRB](https://research.umn.edu/units/irb/how-submit/new-study)
 5. Look at existing IRB protocols in the lab to get a sense of the research we do and how others have drafted protocols in the past
 
+## Accessing DANCE Lab IRBs 
+
+Previous IRB protocols can be found in the DANCE_IRB section of the [DANCE Google Drive](https://drive.google.com/drive/folders/16dbfKNJ_zwDbcHj4A_FXfwfrQlp-24_w?ths=true). It is very important to reference language and protocol numbers of already-approved IRB protocols when beginning a new one. Protocols are organized by name/number and further by submission type (e.g., initial submission, clarification, modification). All official IRB correspondence and stamped documents are also stored in these folders. 
 
