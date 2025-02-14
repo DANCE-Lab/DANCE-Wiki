@@ -129,3 +129,7 @@ Admin:
 - Consent demonstration
 - Anatomy of an IRB protocol 
 - GitHub management 
+
+### 2/14/25
+- GitHub Updates
+- Qualtrics and REDCap Overview
