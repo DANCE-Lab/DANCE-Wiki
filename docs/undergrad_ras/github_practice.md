@@ -52,6 +52,11 @@ Hi! **Pollyanna** here!
 - Wand to separate hair (I forgot the name)
 - *To be continued...*
 - *... and improved.*
+# Testing my knowledge -Cecilia 
+## creating a list
+- one
+- two
+- three
 
 
 # testing branches Agaiiinnnn -K
