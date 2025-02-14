@@ -17,7 +17,7 @@ For anyone using fNIRS equipment, request additional access to the ICD 2nd floor
 ## Lab Meetings
 
 Spring 2025
-The DANCE Lab meets biweekly, on Thursdays from 1:30-3:00pm
+The DANCE Lab meets weekly, on Thursdays from 1:30-3:00pm
 To sign up to present during a meeting, please use [this sheet](https://docs.google.com/spreadsheets/d/1ozd-Df6E4ejdnYS-0YC10syxcy-idxlaq-JjJy3ntBQ/edit?gid=1202730350#gid=1202730350)
 
 ## DANCE Drive
