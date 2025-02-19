@@ -54,8 +54,4 @@ Hi! **Pollyanna** here!
 - *... and improved.*
 
 
-# testing branches Agaiiinnnn -K
-
-Making a change!
-
-anbc
+# testing branches in "update wiki" -K
