@@ -36,3 +36,7 @@ When operating in the Wi-Fi mode, it is possible that the connection between Wi-
 ![alt text](data_download.png)
 
 4. If downloading data collected during hyperscanning, ensure that you have downloaded data from **both** devices, following steps 1-3. 
+
+5. Exit Aurora and open "NIRS Converter". Open the data file(s) you have just downloaded from the device and add the correct configuration (e.g. DLPFC_TPJ or DLPFC_TPJ_SC. For more detail, see [connecting computers protocol](https://dance-lab.github.io/DANCE-Wiki/docs/fnirs_protocols/connecting_computers/)), choose your output directory, and click `Convert`. The file will then be converted to the file format Aurora produces (`.nirs`) and the file will be saved to the directory specified. 
+
+![alt text](convert.png)
