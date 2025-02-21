@@ -53,17 +53,3 @@ Hi! **Pollyanna** here!
 - *To be continued...*
 - *... and improved.*
 
-
-# Testing 123, testing testing
-
-
-## Adding something to test it out!
-
-
-## Adding one more thing...
-
-### hello!
-
-##Samantha 
-# Cecilia
-## Practice
