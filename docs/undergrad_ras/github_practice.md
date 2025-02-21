@@ -53,5 +53,3 @@ Hi! **Pollyanna** here!
 - *To be continued...*
 - *... and improved.*
 
-
-# testing branches in "update wiki" -K
