@@ -3,7 +3,7 @@ layout: default
 title: Assessment and Task Administration SOPs
 has_children: true
 has_toc: true
-nav_order: 6
+nav_order: 3
 ---
 
 # Cognitive Assessment and Task Administration SOPs 
