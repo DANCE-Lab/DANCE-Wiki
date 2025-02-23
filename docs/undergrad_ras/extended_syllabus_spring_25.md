@@ -80,9 +80,9 @@ If you perform well following the expectations outlined in this syllabus, you ca
 | 1/20/25 | Introduction to the lab: overview of lab mission and ongoing projects |
 | 1/27/25 | Introduction to collecting human subjects data with small children |
 | 2/03/25 | How do we collect informed consent and child assent from participants?; Anatomy of an IRB protocol|
-| 2/10/25 | What is the IRB? How do we write an IRB protocol? |
+| 2/10/25 | What are Qualtrics and REDCap? How do we use these platforms? |
 | 2/17/25 | Why are documentation, data curation, and data cleaning so important? |
-| 2/24/25 | What are Qualtrics and REDCap? How do we use these platforms? |
+| 2/24/25 |  What is the IRB? How do we write an IRB protocol?|
 | 3/03/25 | What is a SOP? How can we write an effective one? |
 | 3/10/25 | Spring Break (no meeting) |
 | 3/17/25 | What is a literature review? How can we get a sense of previous work on a topic? |
@@ -131,5 +131,5 @@ Admin:
 - GitHub management 
 
 ### 2/14/25
-- GitHub Updates
-- Qualtrics and REDCap Overview
+- GitHub Updates (Wiki 2.0 Launched!)
+- Qualtrics and REDCap Overviews
