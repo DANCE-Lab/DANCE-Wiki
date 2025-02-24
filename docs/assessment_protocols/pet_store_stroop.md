@@ -2,7 +2,7 @@
 layout: default
 title: Practice Pet Store Stroop Task
 has_children: false
-parent: Assessment and Task Administration SOPs
+parent: Data Collection SOPs
 has_toc: false
 nav_order: 2
 ---
