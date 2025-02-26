@@ -133,3 +133,9 @@ Admin:
 ### 2/14/25
 - GitHub Updates (Wiki 2.0 Launched!)
 - Qualtrics and REDCap Overviews
+
+### 2/21/25
+- Deep dive into participant consenting 
+
+### 2/82/25
+- Research Project Discussion
