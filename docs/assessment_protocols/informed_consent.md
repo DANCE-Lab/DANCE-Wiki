@@ -1,8 +1,8 @@
 ---
 layout: default
-title: fNIRS Fieldwork Packing List
+title: Collecting Informed Consent
 has_children: false
-parent: Collecting Informed Consent
+parent: Data Collection SOPs
 has_toc: false
 nav_order: 4
 ---
