@@ -84,13 +84,6 @@ Appendix A:
 
 ![alt text](fNIRS_landmarks.png)
 
+Cap Sizes: 
 
-
-
-
-
-
-
-
-
-	
+![alt text](cap_sizes.png)
