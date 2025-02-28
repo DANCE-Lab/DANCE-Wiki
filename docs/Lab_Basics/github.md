@@ -9,7 +9,7 @@ nav_order: 2
 
 # Keeping The GitHub Page Up to Date
 This GitHub page is the hub of lab protocols, procedures, and best practices. Therefore, it is important that it be kept up to date! This is also a living document that welcomes changes from all members of the lab. Lab members are welcome to create pull requests to update and add to this wiki; brief instructions for updating the github page are detailed below.
-There is another repository named "DANCE-Management". It is a backup of the wiki site. Please kindly leave it alone
+There is another repository named "DANCE-Management". It is a backup of the wiki site. Please kindly leave it alone.
 
 ## Quick GitHub Edits
 GitHub edits can be done either directly through the GitHub site or, for more complex and involved edits, by submitting pull requests through a platform like Visual Studio Code (VSC) into GitHub. If you are adding a section to an existing page or tweaking a procedure, it may be easiest for you to directly edit the pages docs. To do this, navigate to the [DANCE_Lab/DANCE-Wiki repository](https://github.com/DANCE-Lab/DANCE-Wiki) in the DANCE Lab Organization (reach out to the Lab Manager if you need to be added as a member). Click on the `Code` button and, in the left-hand toolbar, navigate to the `docs` folder. Once you select the page you would like to update, you can switch from the page `Preview` function to the page `Edit` function by clicking on the pencil in the upper right hand corner of the page preview. This will allow you to edit the page by entering [Markdown](https://www.markdownguide.org/cheat-sheet/) text into the file. Once you are finished editing, you'll submit a `Pull Request`, which will be integrated into the wiki once it is approved by the lab manager. You will add a quick message about what changes you made before completing the request.
@@ -34,3 +34,7 @@ To make sure your changes are active on GitHub, you will need to frequently save
 3. Hover over the `Changes` bar, and click the plus sign 
 4. Click the `Commit` button
 5. Click the `Sync` button to sync your changes with the GitHub page
+
+### Additional Github Resources
+While there are a bunch of different tutorials on the internet, this [one](https://youtu.be/Oaj3RBIoGFc?si=OY4wI1b_ln6Hhj4u) is a great starting point for understanding the basic usage of Github. This other two videos [here](https://www.youtube.com/watch?v=hwP7WQkmECE&ab_channel=Fireship) and [here](https://www.youtube.com/watch?v=8lGpZkjnkt4&ab_channel=Fireship) offer incite into how github works behind the scenes.
+(Bonus! There is even a short intro for vs code [here](https://www.youtube.com/watch?v=KMxo3T_MTvY&ab_channel=Fireship).)
