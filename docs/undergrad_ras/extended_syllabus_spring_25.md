@@ -137,5 +137,14 @@ Admin:
 ### 2/21/25
 - Deep dive into participant consenting 
 
-### 2/82/25
+### 2/28/25
 - Research Project Discussion
+- REDCap and IRB discussion
+
+### 3/7/25
+- Lab Manager OOO
+- Katie leading meeting
+
+### 
+- Assigment: RAs present research ideas
+- Consent process evaluation
