@@ -9,7 +9,7 @@ nav_order: 3
 
 # Setting up short distance channel protocol**
 
-*Complete this protocol before you populate the source and _source_ bundles*
+*Complete this protocol before you populate the source and detector bundles*
 
 ## Materials:
 - 1 short distance channel bundles *see photo A*
