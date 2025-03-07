@@ -76,7 +76,7 @@ Both measurements should be equal.  If not, adjust the cap accordingly
 Measure the 10% point to make sure that the cap is pulled down far enough 
 The 10% point should fall on the “x” marking on the cap 
 
-![alt text](optode_locations.png)
+![alt text](electrodes_placement.png)
 
 **If the cap is already populated, move to the next step in the protocol.  If the cap is not populated, remove cap and populate before placing back on the participant’s head.**
 
@@ -84,13 +84,6 @@ Appendix A:
 
 ![alt text](fNIRS_landmarks.png)
 
+Cap Sizes: 
 
-
-
-
-
-
-
-
-
-	
+![alt text](cap_sizes.png)

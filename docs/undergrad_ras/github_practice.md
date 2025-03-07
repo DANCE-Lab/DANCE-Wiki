@@ -52,9 +52,3 @@ Hi! **Pollyanna** here!
 - Wand to separate hair (I forgot the name)
 - *To be continued...*
 - *... and improved.*
-
-
-# Testing 123, testing testing
-## testing branches
-
-# Testing updating to master -K
