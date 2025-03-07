@@ -9,7 +9,7 @@ nav_order: 3
 
 # Setting up short distance channel protocol**
 
-*Complete this protocol before you populate the source and detector bundles*
+*Complete this protocol before you populate the source and _source_ bundles*
 
 ## Materials:
 - 1 short distance channel bundles *see photo A*
@@ -19,8 +19,8 @@ nav_order: 3
 
 ## Protocol:
 1. Turn fNIRS cap inside out and stretch over the mannequin 
-2. By using the reverse action pliers, remove the “spring grommet ring” (see photo C) for all the detector grommets 
-3. You may need to turn the cap back and forth to determine which grommets are detectors 
+2. By using the reverse action pliers, remove the “spring grommet ring” (see photo C) for all the _source_ grommets 
+3. You may need to turn the cap back and forth to determine which grommets are _sources_
 4. Hold the short distance channels by the plastic black piece (not the wires) and slide them over the back side of the grommet 
 5. They will side over the part you removed the spring grommet ring from
 6. Once all short distance channels are placed in respective grommets organize the wires using the “short distance channel organizers” 
