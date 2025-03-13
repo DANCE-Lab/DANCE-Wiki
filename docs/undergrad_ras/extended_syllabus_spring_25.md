@@ -145,6 +145,24 @@ Admin:
 - Lab Manager OOO
 - Katie leading meeting
 
-### 
+### 3/21/25
 - Assigment: RAs present research ideas
-- Consent process evaluation
+- Schedule consent process evaluation
+Overview of key points to consider when building proposal outline
+
+### 3/28/25
+Structure of a research project--overview of how to conduct a literature review, how to form hypotheses, and how to build a protocol. We will discuss different protocol strengths and weaknesses
+
+### 4/4/25
+What is a poster presentation? Discuss style and constraints of a conference-style poster presentation. 
+- Critique "good" and "bad" example posters as a group
+
+### 4/11/25
+- Proposal outline due
+
+### 4/18/25
+- Poster methods figure due
+Group critique: discuss strengths adn weaknesses of figures and poster visuals together
+
+### 4/25/25
+ICD Undergraduate Research Symposium
