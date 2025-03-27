@@ -9,6 +9,8 @@ nav_order: 4
 
 # Collecting Informed Consent During Data Collection
 
+## [Informed consent rubric here](https://docs.google.com/document/d/1qS2ftBenyLADRQ-1N1T3oHagEMjXdrMHWvd7PfT-EwU/edit?tab=t.0)
+
 ### **Watch an example of the DANCE consent process [here](https://www.youtube.com/watch?v=yWnQt_5I-gY)**
 
 ### **IRB approved documents (including Informed Consent Forms, Child Assent Forms, screening scripts, etc.) can be found in the [DANCE Lab IRB Folder](https://drive.google.com/drive/folders/19pH3p4Us1Sa6EdYonSyicn8ZgV9vc-6R?ths=true)**

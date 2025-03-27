@@ -158,7 +158,7 @@ What is a poster presentation? Discuss style and constraints of a conference-sty
 - Critique "good" and "bad" example posters as a group
 
 ### 4/11/25
-- Proposal outline due
+- [Proposal outline](https://docs.google.com/document/d/160vWnRsOmKBdxeiUVLVUBSqXqmNFLYLBQPuJ75-Ugpg/edit?tab=t.0#heading=h.kps2ufollz7c) due
 
 ### 4/18/25
 - Poster methods figure due
