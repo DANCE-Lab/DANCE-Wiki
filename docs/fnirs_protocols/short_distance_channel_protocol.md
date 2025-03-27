@@ -10,6 +10,7 @@ nav_order: 3
 # Setting up short distance channel protocol
 
 *Complete this protocol before you populate the source and detector bundles*
+
 Short distance channels lie on the inside of the fNIRS cap and connect to the grommets that hold source optodes during data collection. Short Distance Channels improve the quality of the fNIRS data we collect and are becoming the gold standard in fNIRS research. They pick up information about blood flow in between the scalp and the brain, allowing us to more accurately isolate cortical activity during data analysis. The channels can be a little finicky and take more time to set up than normal cap population with the source and detector optodes. 
 
 ## Materials:
