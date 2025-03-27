@@ -62,3 +62,8 @@ Begin protocol **only** once correct cap size is determined, cap is populated, c
 
 4. Begin the Stroop task.  The game should guide the child through the task.  Do NOT interrupt the game or interact with the child.  
 
+5. Browse the live data tabs while recording. You will be able to see line plots of data from each electrode, a 3-D representation of brain activity, a schematic of the active optodes, and a tab showing live acceleromter data. 
+- You may need to calibrate the accelerometer tab. There is a circle at the bottom of the page. You must orient this align with the direction the participant's head is facing
+- You can toggle the sensitivity of the measures in the 3-D representation to better see activity changes in the participant's brain during data collection
+- **If you do not see the accelerometer tab**, this means you must edit the configuration. On the "edit" configuration page, there is an accelerometer box that must be checked for accelerometer data to record.
+

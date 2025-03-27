@@ -50,3 +50,6 @@ Short distance channels lie on the inside of the fNIRS cap and connect to the gr
 
 11. Turn cap over and begin populating fNIRS cap protocol. The end of the short distance channel bundle will be coupled with the detector optode bundle. 
 
+## Troubleshooting
+
+Short distance channel wires are fiberglass and very delicate! If you have any concerns that there may be a break in the cable, you can locate the end of the short distance channel bundle and press it against a flashlight. This will cause light to shine out of each channel. If light does not shine out of a particular channel, it may indicate an issue with the cable. 

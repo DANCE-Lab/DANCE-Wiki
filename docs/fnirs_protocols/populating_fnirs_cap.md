@@ -31,7 +31,10 @@ nav_order: 4
 8. Make sure all the cables are placed in the middle of optodes. 
 9. Don’t directly pull on the SDD channel.  
 10. Make sure the cable lines are not too tight nor too loose, and are organized. 
-11. Populate detector “A” in number “8” grommet (#8 detector light source should not be attached to the cap at this step)
+11. Identify the accelerometer
+- The accelerometer is part of the detector bundle. It is labeled with the letter "A" and looks like the other detectors, but has a flat plastic end instead of the the dual tips you'll find on the rest of the detector optodes
+- The accelerometer is placed in a friction-grommet on the back of the head (landmark "OZ"). This grommet is the same type that is used to hold the cable trees in place. Gently but firmly press the end of the accelerometer into the grommet
+- The accelerometer will correspond to an "accelerometer" tab when recording data
 12. Place both cable trees into the holes at the bottom of the cap 
 13. Organize cables into their cable trees (left side of the cap cables go with the left tree and right side of the cap cables go with the right tree)
 14. Attach the velcro strap (the green clip) onto the cap
