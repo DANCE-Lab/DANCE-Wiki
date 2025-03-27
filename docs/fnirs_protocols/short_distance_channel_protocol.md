@@ -7,7 +7,7 @@ has_toc: false
 nav_order: 3
 ---
 
-# Setting up short distance channel protocol**
+# Setting up short distance channel protocol
 
 *Complete this protocol before you populate the source and detector bundles*
 Short distance channels lie on the inside of the fNIRS cap and connect to the grommets that hold source optodes during data collection. Short Distance Channels improve the quality of the fNIRS data we collect and are becoming the gold standard in fNIRS research. They pick up information about blood flow in between the scalp and the brain, allowing us to more accurately isolate cortical activity during data analysis. The channels can be a little finicky and take more time to set up than normal cap population with the source and detector optodes. 
@@ -26,6 +26,7 @@ Short distance channels lie on the inside of the fNIRS cap and connect to the gr
 - Short distance channel organizers 
 
 ![alt text](sdc_in_place.png)
+
 *See photo above: organizer is small plastic circle holding short distance channel wires in place*
 
 ## Protocol:
@@ -40,6 +41,7 @@ Short distance channels lie on the inside of the fNIRS cap and connect to the gr
 6. Once all short distance channels are placed in respective grommets organize the wires using the “short distance channel organizers” (small black circles that hold short distance channel wires flush with the cap)
 7. Take two of the short distance channel wires and place in the groove on the organizer 
 - *Note: the groove side of the organizer will be facing out on the outside of the cap*
+
 9. Push the organizer through one mesh hole in the fNIRS cap 
 10. Adjust the wires so that they are straight but not pulling *See photo below for proper placement*
 
