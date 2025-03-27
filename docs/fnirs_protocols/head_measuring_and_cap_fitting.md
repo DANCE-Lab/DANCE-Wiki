@@ -88,7 +88,7 @@ Cap Sizes:
 
 ![alt text](cap_sizes.png)
 
-# Additional Background and Vocabulary
+# Additional Background and Vocabulary Guide
 
 1. **The nasion**: this is the point just above the bridge of the nose where the frontal and nasal bones meet. It is easily identified as the deepest part of the indentation between the brow ridge and the nose
 
