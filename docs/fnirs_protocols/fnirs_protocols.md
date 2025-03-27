@@ -28,7 +28,7 @@ Before you begin fNIRS training, there are a few steps you should take to make s
 
 Once you complete this course and pass a practical examination, you will be able to collect fNIRS data independently! RAs working with participants on studies will also need to be trained in obtaining informed consent and administering cognitive tasks. These modules will guide you through the at-home portion of fNIRS training. The second half of the training will take place in person at the DANCE Lab, where you will get hands-on experience working with the fNIRS equipment (these practical sessions will be recorded and posted to canvas). You are also expected to make time to come into the lab and practice each step of the data collection protocol, from head measuring to cap cleaning, in addition to the practical sessions. Once you have completed training you will schedule a 30-minute block to be evaluated on your fNIRS administration. You will be graded based on [this rubric](https://docs.google.com/document/d/1pkP81NdA28miadirNdQlSYtA4JvxsitJlXVzzJpVgFM/edit?usp=sharing). 
 
- ## Introductory Videos
+## Introductory Videos
 
 [fNIRS Training Video 1](https://www.youtube.com/watch?v=y_mTFjNN5dc)
 **Broad Strokes introduction**: for those of you who are unfamiliar with fNIRS, please begin by watching this brief youtube video that will guide you through the basics of what fNIRS is, how it works, and what its strengths and weaknesses are.
