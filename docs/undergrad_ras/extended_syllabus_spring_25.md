@@ -148,6 +148,7 @@ Admin:
 ### 3/21/25
 - Assigment: RAs present research ideas
 - Schedule consent process evaluation
+- Discuss how to write an IRB
 Overview of key points to consider when building proposal outline
 
 ### 3/28/25
