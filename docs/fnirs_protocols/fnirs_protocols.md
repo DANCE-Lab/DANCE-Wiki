@@ -8,9 +8,15 @@ nav_order: 5
 
 # fNIRS Standard Operating Practices and Study Procedures
 
-The following pages contain instructions and protocols for setting up fNIRS caps and conducting fNIRS data collection. You can find step-by-step instructions for data collection and curation as well as equipment cleaning protocols.
+**The following pages contain instructions and protocols for setting up fNIRS caps and conducting fNIRS data collection. You can find step-by-step instructions for data collection and curation as well as equipment cleaning protocols.**
 
-Welcome to the first fNIRS training module! This canvas course has been designed to familiarize you with the neuroimaging modality fNIRS, or functional Near-Infrared Spectroscopy, and the DANCE Lab protocols we use in data collection.
+Welcome to the fNIRS training tab! These pages have been designed to familiarize you with the neuroimaging modality fNIRS, or functional Near-Infrared Spectroscopy, and the DANCE Lab protocols we use in data collection. The pages under `fNRIS SOPs` are ordered chronologically and contain procedures that build upon each other. You can look back at these pages as learn to use the fNRIS equipment and can refer to them in the future should you run into questions while collecting fNIRS data.
+
+## Videos
+
+At the top of each page, relevant training and reference videos will be hyperlinked. Some of these may require logging into the NIRx site. Please refer to the [DANCE Lab Manual](https://docs.google.com/document/d/1xI9PL6pvZ1jMR5U3Ry8z02KZRqNvFsKIBbI4vnMuDKY/edit?tab=t.0#heading=h.74tq45l90tk1) for all login information.
+
+*note that the [NIRx youtube channel](https://www.youtube.com/@NIRxMedicalTechnologies/videos) and [NIRx website](https://nirx.net/) contain many training videos to answer questions and help you understand how to use fNIRS technology as you move through this training process!* 
 
 ## Introduction to DANCE Lab fNIRS
 
@@ -26,7 +32,7 @@ Before you begin fNIRS training, there are a few steps you should take to make s
 3. Ensure that you have completed the required [HIPAA and CITI trainings](https://dance-lab.github.io/DANCE-Management/docs/undergrad_ras/onboarding/) necessary to work with participants and access data
 
 
-Once you complete this course and pass a practical examination, you will be able to collect fNIRS data independently! RAs working with participants on studies will also need to be trained in obtaining informed consent and administering cognitive tasks. These modules will guide you through the at-home portion of fNIRS training. The second half of the training will take place in person at the DANCE Lab, where you will get hands-on experience working with the fNIRS equipment (these practical sessions will be recorded and posted to canvas). You are also expected to make time to come into the lab and practice each step of the data collection protocol, from head measuring to cap cleaning, in addition to the practical sessions. Once you have completed training you will schedule a 30-minute block to be evaluated on your fNIRS administration. You will be graded based on [this rubric](https://docs.google.com/document/d/1pkP81NdA28miadirNdQlSYtA4JvxsitJlXVzzJpVgFM/edit?usp=sharing). 
+Once you learn the fNRIS operating procedures and pass a practical examination, you will be able to collect fNIRS data independently! RAs working with participants on studies will also need to be trained in obtaining informed consent and administering cognitive tasks. These pages will guide you through the at-home portion of fNIRS training. The second half of the training will take place in person at the DANCE Lab, where you will get hands-on experience working with the fNIRS equipment (these practical sessions will be recorded and posted to canvas). You are also expected to make time to come into the lab and practice each step of the data collection protocol, from head measuring to cap cleaning, in addition to the practical sessions. Once you have completed training you will schedule a 30-minute block to be evaluated on your fNIRS administration. You will be graded based on [this rubric](https://docs.google.com/document/d/1pkP81NdA28miadirNdQlSYtA4JvxsitJlXVzzJpVgFM/edit?usp=sharing). 
 
 ## Introductory Videos
 

@@ -9,6 +9,9 @@ nav_order: 4
 
 # Populating fNIRS Cap
 
+### NIRx Cap population video
+Want to watch someone go through the cap population process before trying it yourself? Acces the brief NIRx cap population video [here](https://www.youtube.com/watch?v=OtThNd6CPT4)
+
 ### Materials: 
 - Correct race (Asian/Caucasian) and correct cap size (50-60cm)
 - 1 source (red), 1 detector (blue) bundle 

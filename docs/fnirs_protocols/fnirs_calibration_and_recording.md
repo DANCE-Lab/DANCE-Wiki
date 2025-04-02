@@ -9,6 +9,14 @@ nav_order: 6
 
 # Calibration and Recording 
 
+## Videos
+
+Helpful videos that will help you achieve successful fNRIS optimization:
+- [NIRx fNIRS Optimization Video](https://www.youtube.com/watch?v=M7BCF8lT888)
+- Hyperscanning? Why not explore NIRx's Hyperscanning Videos [part 1](https://www.youtube.com/watch?v=WwpUG3bjg4I) and [part 2](https://www.youtube.com/watch?v=CbtZvTwpJDA)
+
+## Calibration Steps
+
 Begin protocol **only** once correct cap size is determined, cap is populated, computers are connected, and practice Stroop test is complete.
 
 *Ensure cap is correctly placed on the participant’s head- re measure Cz and 10% point.*
@@ -44,7 +52,8 @@ Begin protocol **only** once correct cap size is determined, cap is populated, c
 7. After the signals have been fixed appropriately. Put the shower cap on the child’s head.
 8. After the signals are fixed, open the fNIRS recording tab using the two waves/curves button, **then start the recording using the red circle record button** 
 
-## Recording:
+## Recording
+
 1. After completing the signal calibration and troubleshooting and **making sure the signals are both recording, we can start our Stroop test.**
 2. When the Aurora asks for subject information: 
 - Subject: randomized ID number
