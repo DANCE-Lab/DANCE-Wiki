@@ -11,6 +11,9 @@ nav_order: 2
 
 ## Videos
 - Unfamiliar with fNIRS equipment? Try watching this [overview of the NIRSport2 equipment kit](https://www.youtube.com/watch?v=B1jo4111UZo) ahead of jumping into the protocols
+- For additional equipment information, check out this overview of the [NIRX starter kit](https://www.youtube.com/watch?v=NGs7zCmCDeI)
+
+## DANCE Head Measuring Protocol
 
 ### Measurements 
 Ask the child if they are feeling comfortable during the procedures as well.

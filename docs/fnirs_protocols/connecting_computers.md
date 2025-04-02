@@ -12,8 +12,9 @@ nav_order: 5
 ## Videos
 - Need some more in-depth guidance when working with EPrime and Aurora? Check out the [NIRx EPrime Extension Video](https://www.youtube.com/watch?v=qu2x6lGe77M)
 - Need to know how Aurora works? Check out the [Aurora fNRIS Refresher Course](https://www.youtube.com/watch?v=LtPx89eDuNQ)
+- Need to learn more about the NIRSport Accelerometer? Check out [NIRx Accelerometer Specifications](https://www.youtube.com/watch?v=Sk-SE_Zvhpw)
 
-## Step-by-Step Protocol
+## DANCE fNIRS Connecting Computers Protocol
 
 For the following steps under this section: **EPRIME Computer Tasks → bold**; *fNIRS Computer Tasks → italicized*; Both computers → normal text
 
