@@ -14,6 +14,7 @@ nav_order: 4
 Unfamiliar with fNIRS cap population? Below are some useful videos to help you better understand the population process.
 
 - Want to watch someone go through the cap population process before trying it yourself? Acces the brief NIRx cap population video [here](https://www.youtube.com/watch?v=OtThNd6CPT4)
+- Need to update the cap configuration or set up a brand new cap? Check out [NIRSCap Spring Grommet Assembly - Montage Creation - Probe Arrays](https://www.youtube.com/watch?v=kn0dMVT9heg)
 
 ## DANCE Population Protocol
 
