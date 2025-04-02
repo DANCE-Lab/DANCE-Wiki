@@ -9,6 +9,12 @@ nav_order: 5
 
 # Connecting Computers Protocol 
 
+## Videos
+- Need some more in-depth guidance when working with EPrime and Aurora? Check out the [NIRx EPrime Extension Video](https://www.youtube.com/watch?v=qu2x6lGe77M)
+- Need to know how Aurora works? Check out the [Aurora fNRIS Refresher Course](https://www.youtube.com/watch?v=LtPx89eDuNQ)
+
+## Step-by-Step Protocol
+
 For the following steps under this section: **EPRIME Computer Tasks → bold**; *fNIRS Computer Tasks → italicized*; Both computers → normal text
 
 **Note on connecting without E-Prime:** 

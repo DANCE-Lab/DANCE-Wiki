@@ -9,6 +9,9 @@ nav_order: 2
 
 # Head Measuring & Cap Fitting Protocol 
 
+## Videos
+- Unfamiliar with fNIRS equipment? Try watching this [overview of the NIRSport2 equipment kit](https://www.youtube.com/watch?v=B1jo4111UZo) ahead of jumping into the protocols
+
 ### Measurements 
 Ask the child if they are feeling comfortable during the procedures as well.
 

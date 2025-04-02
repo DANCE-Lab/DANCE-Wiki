@@ -9,8 +9,13 @@ nav_order: 4
 
 # Populating fNIRS Cap
 
-### NIRx Cap population video
-Want to watch someone go through the cap population process before trying it yourself? Acces the brief NIRx cap population video [here](https://www.youtube.com/watch?v=OtThNd6CPT4)
+## Videos
+
+Unfamiliar with fNIRS cap population? Below are some useful videos to help you better understand the population process.
+
+- Want to watch someone go through the cap population process before trying it yourself? Acces the brief NIRx cap population video [here](https://www.youtube.com/watch?v=OtThNd6CPT4)
+
+## DANCE Population Protocol
 
 ### Materials: 
 - Correct race (Asian/Caucasian) and correct cap size (50-60cm)
