@@ -69,10 +69,44 @@ A big part of this job is training RAs on best data collection practices! You ca
 
 ### fNIRS Training
 
-The lab has worked hard to develop a training program for fNIRS. It is a collection of SOPs and videos (made in-lab and pulled from the NIRx website)
+The lab has worked hard to develop a training program for fNIRS. It is a collection of SOPs and videos (made in-lab and pulled from the NIRx website) are linked in the [fNIRS training canvas course](https://canvas.umn.edu/courses/399112), stored in the [google drive SOPs](https://drive.google.com/drive/folders/1bJeYDBXjKn9TenocR24nVK_wIFZWcl4K?ths=true), and are listed in chronological order in the [fNIRS SOPs](https://dance-lab.github.io/DANCE-Wiki/docs/fnirs_protocols/fnirs_protocols/) section of this wiki. These resources include a video of the 2025 DANCE Lab winter fNIRS bootcamp and some additional DANCE Lab-specific fNRIS videos including a tour of the DANCE lab data collection rooms and equipment.
+
+Please makes sure that you keep the fNIRS pages up to date!
 
 ### Collecting Informed Consent
 
-### NIH Toolbox Administration
+Collecting informed consent is a very important part of data collection! Consent documents are stored inside the [DANCE IRB Google Drive Folder](https://drive.google.com/drive/folders/19pH3p4Us1Sa6EdYonSyicn8ZgV9vc-6R?ths=true). If you are unsure of how to collect consent, you can refer to the video and instructions posted to the [consent tab of this wiki](https://dance-lab.github.io/DANCE-Wiki/docs/assessment_protocols/informed_consent/). Please update the page as needed. 
 
-###
+### NIH Toolbox and Administration
+
+The NIH toolbox is easy to administer! However, there are few important things you should know.
+1. **The subscription automatically renews every year on October 22nd**. It also costs $599.99/year. If you DO NOT want to renew this, you must log into the apple account of the ICD DANCE Lab (login info can be found in the [DANCE manual](https://docs.google.com/document/d/1xI9PL6pvZ1jMR5U3Ry8z02KZRqNvFsKIBbI4vnMuDKY/edit?tab=t.0#heading=h.74tq45l90tk1)). 
+2. You also must email a receipt of the purchase to Eric Hart when it is renewed.
+3. The app lives on the DANCE ipad. You can access it with the codes specified in the DANCE lab manual. There are many videos online that can teach you how to administer it. 
+4. Data should be exported frequently from the ipad during periods of data collection. NO PHI or IDENTIFIERS should be entered into the NIH toolbox app. Participants should be identified exclusively by their participant ID number. Exported data can be stored in BOX.
+5. Occasionally, the lab will provide NIH toolbox feedback to interested parents. Guidance for writing these emails and providing feedback can be found in the DANCE drive and on the [NIH toolbox tab of the wiki](https://dance-lab.github.io/DANCE-Wiki/docs/assessment_protocols/nihtb_report/).
+
+### Data Wrangling
+
+The lab has a repository of scripts and tutorials for data wrangling that should be used and shared! The DANCE github repository [RA Scripts](https://github.com/DANCE-Lab/RA_scripts) contains practice Jupyter notebooks to help RAs learn python, if interested, and some example data wranlging scripts used to analyze data from the state fair. A large repository of data wrangling and coding resources can also be found on the [Data Wrangling](https://dance-lab.github.io/DANCE-Wiki/docs/undergrad_ras/data_wrangling/) wiki tab.
+
+### Recruiting RAs
+
+It is important to actively recruit new RAs to the lab! We have a policy that RAs must commit at least 2 semesters for a minimum of 5 credits total (across both semesters) to the lab. RAs are welcome to stay beyond that with credit and volunteer flexibility. There are many places where you can recruit RAs. It is important to communicate about this and stay in contact with Meghan Allen Eliason (alle0335@umn.edu), who oversees CPSY4994. Also note that there is a Lab Manager Network (reach out to Emmy [higgs046@umn.edu] and Annie [colom087@umn.edu] for more information) that can help you learn more about being a lab manager and how to recruit RAs and participants. We have recruited through...
+- Undergraduate Research Fair (annual)
+- Posters around Campbell Hall
+- Ka inquiring about interested students in his classes
+
+Try to get all new RAs recruited at LEAST 1 week before semester begins. Later causes far more difficulty.
+
+
+## The UMN Department Account
+
+This is our **icddancelab@umn.edu** account. **It must be refreshed each year in December or it will be deleted.** It's validity can also only be extended for a maximum of 365 days so it must be updated each year. You can manage this department account [here](http://my-account.umn.edu/). The contact person must be updated each year and should be someone affiliated with the department and not an undergraduate student.
+
+It is very important that you check this account frequently, as sometimes it receives important correspondence. It is also useful for posting to the google drive and controlling sharing privileges. Please always make sure to update any passwords or information you may change in the lab manual.
+
+
+## Lab Scheduling
+
+You will be in charge of organizing lab scheduling, including lab meetings, Ka's biweekly meetings, lab social events, and any other lab-wide or RA-wide lab-related event. There are many tools you can use including When2Meet, Doodle polls, or even REDCap/Qualtrics, but my preferred method was [Schej](https://schej.it/). Make sure to stay on top of scheduling and to send polls far in advance. I also maintained a lab-wide calendar where I posted all lab-relevant events. These events can be edited to include zoom links for remote participants.
