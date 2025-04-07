@@ -18,6 +18,8 @@ At the top of each page, relevant training and reference videos will be hyperlin
 
 *note that the [NIRx youtube channel](https://www.youtube.com/@NIRxMedicalTechnologies/videos) and [NIRx website](https://nirx.net/) contain many training videos to answer questions and help you understand how to use fNIRS technology as you move through this training process!* 
 
+The DANCE Lab fNIRS team has also created a number of videos explaining lab-specific fNIRS videos. These can be found in the [fNIRS Training](https://dance-lab.github.io/DANCE-Wiki/docs/fnirs_protocols/fnirs_training/) tab. Start off by watching a tour of the [DANCE Lab fNIRS control room](https://youtu.be/fPek--UqsOs)!
+
 ## Introduction to DANCE Lab fNIRS
 
 The DANCE Lab has a number of step-by-step protocols that will guide you through the data collection procedure. These SOPs are kept 1.) Printed, in a white binder in the DANCE Lab control room; 2.) in the [DANCE Lab google drive](https://drive.google.com/drive/folders/1bJeYDBXjKn9TenocR24nVK_wIFZWcl4K?ths=true); and, most accessibly, 3.) in these wiki pages! Any questions you have about data collection can generally be answered by these documents. 

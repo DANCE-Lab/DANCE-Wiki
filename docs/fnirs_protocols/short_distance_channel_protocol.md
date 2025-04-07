@@ -11,6 +11,7 @@ nav_order: 3
 
 ## Videos
 - Need some in-depth background on Short Distance Channels? Check out [The need for, use of, and analysis of Short Distance Channels](https://www.youtube.com/watch?v=p-nXI_x7SlU)
+- Want to learn how we set up fNIRS Short Distance Channels and the accelerometer in-lab? Watch this [overview of SDC and accelerometer placement](https://youtu.be/RAFNZ1bkLWs)
 
 ## DANCE Short Distance Channel Procedure
 
