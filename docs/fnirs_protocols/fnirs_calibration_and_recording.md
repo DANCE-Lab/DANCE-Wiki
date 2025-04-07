@@ -76,3 +76,7 @@ Begin protocol **only** once correct cap size is determined, cap is populated, c
 - You can toggle the sensitivity of the measures in the 3-D representation to better see activity changes in the participant's brain during data collection
 - **If you do not see the accelerometer tab**, this means you must edit the configuration. On the "edit" configuration page, there is an accelerometer box that must be checked for accelerometer data to record.
 
+6. When you are looking at data during recording, you can toggle with some of the sliding scales to better assess the signal
+- If you move the lowpass filter to ~2hz, you can inspect the data via heart rate for each channel
+- Note: if oxygenation and deoxygenation signals are moving in the same direction, that generally indicates poor signal quality
+- When viewing short distance channels, note they are numbered 8-15 in Aurora

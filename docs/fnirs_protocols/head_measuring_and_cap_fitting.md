@@ -127,3 +127,9 @@ Metric: we only use centimeters for our scientific measurements! Under no circum
 Choosing the Correct Cap Size
 
 The participant's head circumference and their ethnicity will determine the correct cap type and size to select for data collection. NIRx makes 2 types of caps: one type intended for individuals whose ethnicity is Asian, and one type that can be used for all other ethnicities. Cap types are labeled and color coded (Asian caps have blue labels). Caps are generally sized two cm apart (e.g., 52cm, 54cm, 56cm). If your participant falls in-between sizes, choose the cap closest to the participant's head size, rounding up for participants who fall directly in the middle (e.g., if your participant's head is 52.7 cm, choose a 52cm cap. If your participant's head is 53cm, you would choose the 54cm cap).
+
+## fNIRS Gear to Aid Data Collection
+
+There are some additional pieces of equipment which may be useful to you when you are collecting data. The NIRx kit comes with a lot of pieces, some of which could be utilized better in future data collection projects. 
+- **Cap Fastening Alternatives** fNIRS caps can be fastened by connecting two velcro straps under the chin. However, this is not ideal for studies where talking is a necessary part of the protocol and is sometimes not suitable for children with sensory sensitivities. NIRx provides two alternatives that can be connected to the fNIRS cap by the plastic loops at the bottom of the cap. There is a chin strap, which anchors the cap to the tip of chin rather the underside of the chin, and a shoulder harness, which stabilizes the cap best by connecting it to the participants chest and shoulders. 
+- **Shower Caps** We always use shower caps to keep light out during data collection. Caps can be purchased with different patterns (superheros, princesses, etc.) to make them more appealing to children who may participate in the studies.
