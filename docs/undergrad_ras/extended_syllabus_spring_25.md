@@ -162,8 +162,7 @@ What is a poster presentation? Discuss style and constraints of a conference-sty
 - [Proposal outline](https://docs.google.com/document/d/160vWnRsOmKBdxeiUVLVUBSqXqmNFLYLBQPuJ75-Ugpg/edit?tab=t.0#heading=h.kps2ufollz7c) due
 
 ### 4/18/25
-- Poster methods figure due
-Group critique: discuss strengths adn weaknesses of figures and poster visuals together
+- Poster due (must be submitted so that posters get printed on time)
 
 ### 4/25/25
 ICD Undergraduate Research Symposium

@@ -23,4 +23,4 @@ The following resources can be found in the DANCE Lab Drive:
 NIRx, the company that supplies the lab's fNIRS equipment, has a lot of great training and informational resources. They post many of these videos on their [youtube channel](https://www.youtube.com/@NIRxMedicalTechnologies/videos). You can also log into the support section of the NIRx site using the lab credentials (which can be found on the lab manual [here](https://docs.google.com/document/d/1xI9PL6pvZ1jMR5U3Ry8z02KZRqNvFsKIBbI4vnMuDKY/edit?tab=t.0#heading=h.74tq45l90tk1)) and view their trainings and videos [here](https://support.nirx.de/nirx-video-gallery).
 
 1. Want to learn more about collecting NIRS data in infants and children? Check out [Infant and Child Imaging](https://www.youtube.com/watch?v=lVxrRKJejnw)
-2. 
+2. For general information, check out the NIRx [knowledge base](https://support.nirx.de/knowledge-base)
