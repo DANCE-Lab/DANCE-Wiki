@@ -41,7 +41,7 @@ Documentation is the most important thing in the lab! Documenting how to complet
 
 As lab manager, you will be responsible for buying anything the lab needs to run and keep data collection going smoothly. This includes maintaining our NIRx supplies inventory, buying prizes for kids who participate in studies, maintaining giftcards (or whatever type of compensation being used for participating families) and any hardware or software needed for the lab. 
 
-1. NIRx supplies is maintained through the [NIRx site](https://nirx.net/). The lab communicates frequently with NIRx and has an account with their support site (login credentials can be found in the [lab manual](https://docs.google.com/document/d/1xI9PL6pvZ1jMR5U3Ry8z02KZRqNvFsKIBbI4vnMuDKY/edit?tab=t.0#heading=h.74tq45l90tk1)). Don't be shy to reach out if you need replacement parts, instructions, troubleshooting, or even documents to support the approval of an IRB protocol. 
+1. NIRx supplies is maintained through the [NIRx site](https://nirx.net/). The lab communicates frequently with NIRx and has an account with their support site (login credentials can be found in the [lab manual](https://docs.google.com/document/d/1xI9PL6pvZ1jMR5U3Ry8z02KZRqNvFsKIBbI4vnMuDKY/edit?tab=t.0#heading=h.74tq45l90tk1)). Don't be shy to reach out if you need replacement parts, instructions, troubleshooting, or even documents to support the approval of an IRB protocol. Reach out to NIRx and ask for a quote for any NIRx equipment supplies needed. 
 
 2. General purchases can be completed through your [MyU page](https://login.umn.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s2). Navigate to the "purchasing" tab on the left and click on the big button that says "Shop UMarket". 
 
