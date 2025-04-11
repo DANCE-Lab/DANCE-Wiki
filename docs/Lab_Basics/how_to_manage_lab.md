@@ -110,3 +110,7 @@ It is very important that you check this account frequently, as sometimes it rec
 ## Lab Scheduling
 
 You will be in charge of organizing lab scheduling, including lab meetings, Ka's biweekly meetings, lab social events, and any other lab-wide or RA-wide lab-related event. There are many tools you can use including When2Meet, Doodle polls, or even REDCap/Qualtrics, but my preferred method was [Schej](https://schej.it/). Make sure to stay on top of scheduling and to send polls far in advance. I also maintained a lab-wide calendar where I posted all lab-relevant events. These events can be edited to include zoom links for remote participants.
+
+## Keeping the Listserv up to date
+
+There is a google group listserv that has the emails of all DANCE lab members. It is important to keep this listserv up to date, and it should be updated at the very least at the beginning of each semestser. The group can be edited [here](https://groups.google.com/a/umn.edu/g/dancelab_members/members?pli=1). 
