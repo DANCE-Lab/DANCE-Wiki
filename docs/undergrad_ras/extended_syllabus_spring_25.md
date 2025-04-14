@@ -4,7 +4,7 @@ title: Extended Spring 2025 CPSY 4994 Syllabus
 has_children: false
 parent: RA Resources
 has_toc: false
-nav_order: 5
+nav_order: 6
 ---
 
 ## Introduction to the D.A.N.C.E Lab
