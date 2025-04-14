@@ -63,6 +63,8 @@ Writing and maintaining IRB protocols is an important part of keeping the lab wo
 
 [Ethos](https://ethos.umn.edu/Ethos/sd/Rooms/DisplayPages/LayoutInitial?Container=com.webridge.entity.Entity[OID[5C3E6DF4AA49DF408616C9B82E714D46]]) is the UMN IRB website. 
 
+One important thing to remember: **keep personnel up to date on IRBs!** All RAs trained in data collection MUST be added to the IRB protocol. All RAs MUST complete required HIPAA and CITI trainings before they can be added to the protocol.
+
 ## Training RAs
 
 A big part of this job is training RAs on best data collection practices! You can spread out trainings across weekly RA meetings and build them into your CPSY4994 class. The lab manager is responsible for teaching this class every semester. You can find old syllabi, teaching materials, and evaluation rubrics in our [DANCE google drive](https://drive.google.com/drive/folders/18WqHDMRH143UAbpw2R_BTdHHQNxpJO3h?ths=true). There are also lots of useful resources and instructions under the [RA Resources](https://dance-lab.github.io/DANCE-Wiki/docs/undergrad_ras/ra_resources/) tab of this wiki. There is also a [canvas course](https://canvas.umn.edu/courses/502637) for CPSY4994 which can be edited and updated for each new semester to help you and the RAs stay organized. In the past, RA semesters have culminated in an ICD-wide poster symposium where undergrads present original research projects and proposals, but the content and structure of CPSY4994 is ultimately up to you. The sections below outline the shape and structure of previous training materials that have been created for the lab. 
