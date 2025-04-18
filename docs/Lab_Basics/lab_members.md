@@ -13,6 +13,7 @@ nav_order: 1
 | ----------- | ----------- | ----------- |
 | P.I. | Dr. Ka Ip | kaip@umn.edu |
 | Lab Manager | Madeleine Seitz | seitz178@umn.edu |
+| Research Coordinator | Katie Friese | fries335@umn.edu |
 | Postdoc | Noelle Suntheimer | noellems@umn.edu |
 | Postdoc | Juliet Nyanamba | nyana001@umn.edu |
 | Postdoc | Tianying Cai | caixx427@umn.edu |
@@ -30,14 +31,18 @@ nav_order: 1
 | Graduate Student | Lan Zhou | lanzhou.psy@hotmail.com |
 | Graduate Student | Yifang Li | lyf135999@gmail.com |
 | R.A. | Pengmai Qiu | qiu00076@umn.edu |
-| R.A. | Katie Friese | katie.l.friese@gmail.com |
-| R.A. | Anna Jiang | jian0921@umn.edu |
 | R.A. | Boyu Wen | wen00109@umn.edu |
 | R.A. | Christine Friendshuh | lutz0047@umn.edu |
-| R.A. | Kathryn Mainor | maino007@umn.edu|
 | R.A. | Cecilia Giron | giron004@umn.edu |
-| R.A. | Annika Mellum | mellu028@umn.edu |
 | R.A. | Carsyn Hartung | hartu119@umn.edu |
 | R.A. | Pollyanna Vergara | dosre003@umn.edu |
 | R.A. | Samantha Miller | mil00223@umn.edu |
 | R.A. | Brooklyn Krull | krull047@umn.edu |
+
+# For the upcoming Fall 2025 semester
+
+| Position | Name | Email Address|
+| ----------- | ----------- | ----------- |
+| R.A. | Noah Leuchtenberger | leuch010@umn.edu |
+| R.A. | Jing Lin (Jessica) | lin00971@umn.edu |
+| R.A. | Katrina Corniea | corni121@umn.edu |
