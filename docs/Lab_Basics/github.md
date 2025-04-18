@@ -33,15 +33,15 @@ In order to update the wiki, you will need to access the contents of the GitHub 
 
 ### Pushing Commands to the DANCE-Wiki Repository
 To make sure your changes are active on GitHub, you will need to frequently save changes you make in the repository (`ctrl` + `S`). Once you have finished a chunk of editing, you will need to push those changes to github.
-1. Click on the `source control` icon on your VSC lefthand toolbar
+1. Click on the `source control` icon on your VSC left toolbar
 2. Enter a short message that explains the changes you have made
 3. Hover over the `Changes` bar, and click the plus sign 
 4. Click the `Commit` button
 5. Click the `Sync` button to sync your changes with the GitHub page
 
 ## Submitting a Pull Request to Sync DANCE-Wiki-Updates with DANCE-Wiki
-Congratulations! You have successfully updated the DANCE-Wiki-Updates repository. If you navigate to this repository on the GitHub page, you will be able to see your changes reflected in the respository contents. However, these changes are not yet added to the website. To push your commits to the DANCE-Wiki repository, you must submit a pull request to merge DANCE-Wiki-Updates with DANCE-Wiki, which must be approved by a member of the lab admin team. 
+Congratulations! You have successfully updated the DANCE-Wiki-Updates repository. If you navigate to this repository on the GitHub page, you will be able to see your changes reflected in the repository contents. However, these changes are not yet added to the website. To push your commits to the DANCE-Wiki repository, you must submit a pull request to merge DANCE-Wiki-Updates with DANCE-Wiki, which must be approved by a member of the lab admin team. 
 
-1. Navigate to the main page of the [DANCE-Wiki-Updates respository](https://github.com/DANCE-Lab/DANCE-Wiki-Updates). The bar above the website contents should reflect your recent changes and state **'This branch is ___ commits ahead of DANCE-Lab/DANCE-Wiki:master'**. You can push that commit to DANCE-Wiki by clicking on the button to the right that reads `Contribute`. **DO NOT click `Sync fork`.**
+1. Navigate to the main page of the [DANCE-Wiki-Updates repository](https://github.com/DANCE-Lab/DANCE-Wiki-Updates). The bar above the website contents should reflect your recent changes and state **'This branch is ___ commits ahead of DANCE-Lab/DANCE-Wiki:master'**. You can push that commit to DANCE-Wiki by clicking on the button to the right that reads `Contribute`. **DO NOT click `Sync fork`.**
 2. Clicking `Contribute` will produce a dropdown with a button `Submit Pull Request`. Click this, and it will take you to a new pull request page. 
 3. When prompted, add a short description of your changes and submit the pull request. This will then be pushed to the DANCE-Wiki repository and, once approved by lab admin, your changes will be live on the lab website.
