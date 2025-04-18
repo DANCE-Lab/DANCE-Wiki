@@ -4,7 +4,7 @@ title: Extended Spring 2025 CPSY 4994 Syllabus
 has_children: false
 parent: RA Resources
 has_toc: false
-nav_order: 5
+nav_order: 6
 ---
 
 ## Introduction to the D.A.N.C.E Lab
@@ -148,6 +148,7 @@ Admin:
 ### 3/21/25
 - Assigment: RAs present research ideas
 - Schedule consent process evaluation
+- Discuss how to write an IRB
 Overview of key points to consider when building proposal outline
 
 ### 3/28/25
@@ -161,8 +162,7 @@ What is a poster presentation? Discuss style and constraints of a conference-sty
 - [Proposal outline](https://docs.google.com/document/d/160vWnRsOmKBdxeiUVLVUBSqXqmNFLYLBQPuJ75-Ugpg/edit?tab=t.0#heading=h.kps2ufollz7c) due
 
 ### 4/18/25
-- Poster methods figure due
-Group critique: discuss strengths adn weaknesses of figures and poster visuals together
+- Poster due (must be submitted so that posters get printed on time)
 
 ### 4/25/25
 ICD Undergraduate Research Symposium

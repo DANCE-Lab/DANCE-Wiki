@@ -26,6 +26,15 @@ Writing a protocol and reading guidelines should be taken with the same gravity 
 4. Ask questions! You can always [request a consultation with the UMN IRB](https://research.umn.edu/units/irb/how-submit/new-study)
 5. Look at existing IRB protocols in the lab to get a sense of the research we do and how others have drafted protocols in the past
 
+**Have all of your attachments in order**
+- Remember that you must provide hard copies of all measures and scales that you intend to use in your study with accompanying citations when you submit your protocol!
+- You will also need to provide documentation explaining that whatever neuroimaging you intend to do is safe. We have a number of documents in the drive pertaining to LED safety, skin irritation, etc.. Any questions that come up about regarding NIRs safety can be directed to NIRx. 
+- Consider whether you need a letter of support. If the study involves any outreach or collaboration with institutions outside of UMN, make sure to get a letter of support to submit with the protocol. 
+- Are you providing any mental health resources? If we're asking sensitive or probing questions, it can be nice to compile a list of (mental) health resources available to the participant after they complete the study. This must also be approved
+- Are you providing a safety plan? If you are asking sensitive questions you may want to create a safety plan, and if you are directly asking about suicidal ideation and child abuse you will need to create a safety plan to submit to the IRB. This involves how you will proceed if participants endorse any questions that, as a mandated reporter, will require you to act.
+- If you plan on conducting any pre-screening for participants before they begin your study to ensure they match your inclusion criteria (even if you are screening informally/verbally), you must submit the prescreener with your protocol for approval
+- Any recruitment materials you plan on using must also be approved by the IRB. Make sure to have flyers, QR codes, interest forms, etc. prepared when you submit your protocol
+
 ## Accessing DANCE Lab IRBs 
 
 Previous IRB protocols can be found in the DANCE_IRB section of the [DANCE Google Drive](https://drive.google.com/drive/folders/16dbfKNJ_zwDbcHj4A_FXfwfrQlp-24_w?ths=true). It is very important to reference language and protocol numbers of already-approved IRB protocols when beginning a new one. Protocols are organized by name/number and further by submission type (e.g., initial submission, clarification, modification). All official IRB correspondence and stamped documents are also stored in these folders. 
