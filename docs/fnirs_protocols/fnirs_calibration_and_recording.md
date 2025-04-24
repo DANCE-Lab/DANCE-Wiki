@@ -29,7 +29,7 @@ Begin protocol **only** once correct cap size is determined, cap is populated, c
 
 2. Once the signal optimization is complete, you will see a window like the one shown in the picture below.
 
-![alt text](complet_op.png)
+![alt text](HPSCAN-Practice-map.PNG)
 3. You can also click the continuous optimization button (two red arrows in a circle) on the top to see a real-time signal update.   
 - *Note: Red circles indicate poor SDD, red lines indicate poor light source connection*
 
