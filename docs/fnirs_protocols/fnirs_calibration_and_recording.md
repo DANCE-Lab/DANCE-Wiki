@@ -11,7 +11,7 @@ nav_order: 6
 
 ## Videos
 
-Helpful videos that will help you achieve successful fNRIS optimization:
+Helpful videos that will help you achieve successful fNIRS optimization:
 - [NIRx fNIRS Optimization Video](https://www.youtube.com/watch?v=M7BCF8lT888)
 - Hyperscanning? Why not explore NIRx's Hyperscanning Videos [part 1](https://www.youtube.com/watch?v=WwpUG3bjg4I) and [part 2](https://www.youtube.com/watch?v=CbtZvTwpJDA)
 
@@ -71,12 +71,12 @@ Begin protocol **only** once correct cap size is determined, cap is populated, c
 
 4. Begin the Stroop task.  The game should guide the child through the task.  Do NOT interrupt the game or interact with the child.  
 
-5. Browse the live data tabs while recording. You will be able to see line plots of data from each electrode, a 3-D representation of brain activity, a schematic of the active optodes, and a tab showing live acceleromter data. 
+5. Browse the live data tabs while recording. You will be able to see line plots of data from each electrode, a 3-D representation of brain activity, a schematic of the active optodes, and a tab showing live accelerometer data. 
 - You may need to calibrate the accelerometer tab. There is a circle at the bottom of the page. You must orient this align with the direction the participant's head is facing
 - You can toggle the sensitivity of the measures in the 3-D representation to better see activity changes in the participant's brain during data collection
 - **If you do not see the accelerometer tab**, this means you must edit the configuration. On the "edit" configuration page, there is an accelerometer box that must be checked for accelerometer data to record.
 
 6. When you are looking at data during recording, you can toggle with some of the sliding scales to better assess the signal
-- If you move the lowpass filter to ~2hz, you can inspect the data via heart rate for each channel
+- If you move the low-pass filter to ~2hz, you can inspect the data via heart rate for each channel
 - Note: if oxygenation and deoxygenation signals are moving in the same direction, that generally indicates poor signal quality
 - When viewing short distance channels, note they are numbered 8-15 in Aurora
