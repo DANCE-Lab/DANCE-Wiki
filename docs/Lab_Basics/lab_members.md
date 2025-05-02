@@ -11,7 +11,6 @@ nav_order: 1
 | Position | Name | Email Address|
 | ----------- | ----------- | ----------- |
 | P.I. | Dr. Ka Ip | kaip@umn.edu |
-| Lab Manager | Madeleine Seitz | seitz178@umn.edu |
 | Research Coordinator | Katie Friese | fries335@umn.edu |
 | Postdoc | Noelle Suntheimer | noellems@umn.edu |
 | Postdoc | Juliet Nyanamba | nyana001@umn.edu |
