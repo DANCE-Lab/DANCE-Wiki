@@ -39,6 +39,14 @@ nav_order: 1
 | R.A. | Samantha Miller | mil00223@umn.edu |
 | R.A. | Brooklyn Krull | krull047@umn.edu |
 
+# Summer 2025 RAs
+| R.A. | Samantha Miller | mil00223@umn.edu |
+| R.A. | Carsyn Hartung | hartu119@umn.edu |
+| R.A. | Bernie Latham | latham.bernie@gmail.com |
+| R.A. | Jing Lin (Jessica) | lin00971@umn.edu |
+| R.A. | Pollyanna Vergara | dosre003@umn.edu |
+
+
 # For the upcoming Fall 2025 semester
 
 | Position | Name | Email Address|
@@ -46,3 +54,7 @@ nav_order: 1
 | R.A. | Noah Leuchtenberger | leuch010@umn.edu |
 | R.A. | Jing Lin (Jessica) | lin00971@umn.edu |
 | R.A. | Katrina Corniea | corni121@umn.edu |
+| R.A. | Alexis Villapando | villa694@umn.edu |
+| R.A. | Samantha Miller | mil00223@umn.edu |
+| R.A. | Brooklyn Krull | krull047@umn.edu |
+| R.A. | Jewel Lee??? | lee04623@umn.edu |
