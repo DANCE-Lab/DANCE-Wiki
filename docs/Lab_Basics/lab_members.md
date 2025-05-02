@@ -40,6 +40,8 @@ nav_order: 1
 | R.A. | Brooklyn Krull | krull047@umn.edu |
 
 # Summer 2025 RAs
+| Position | Name | Email Address|
+| ----------- | ----------- | ----------- |
 | R.A. | Samantha Miller | mil00223@umn.edu |
 | R.A. | Carsyn Hartung | hartu119@umn.edu |
 | R.A. | Bernie Latham | latham.bernie@gmail.com |
