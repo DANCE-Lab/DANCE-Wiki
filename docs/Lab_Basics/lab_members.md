@@ -8,7 +8,6 @@ nav_order: 1
 ---
 # DANCE Lab Members 
 
-
 | Position | Name | Email Address|
 | ----------- | ----------- | ----------- |
 | P.I. | Dr. Ka Ip | kaip@umn.edu |
@@ -40,6 +39,7 @@ nav_order: 1
 | R.A. | Brooklyn Krull | krull047@umn.edu |
 
 # Summer 2025 RAs
+
 | Position | Name | Email Address|
 | ----------- | ----------- | ----------- |
 | R.A. | Samantha Miller | mil00223@umn.edu |
