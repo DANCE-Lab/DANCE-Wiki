@@ -58,3 +58,5 @@ nav_order: 1
 | R.A. | Samantha Miller | mil00223@umn.edu |
 | R.A. | Brooklyn Krull | krull047@umn.edu |
 | R.A. | Jewel Lee??? | lee04623@umn.edu |
+| R.A. | Potential | holding for now |
+| R.A. | Potential | holding for now |
