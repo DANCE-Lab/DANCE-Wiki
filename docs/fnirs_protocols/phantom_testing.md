@@ -1,6 +1,6 @@
 ---
 layout: default
-title: fNIRS Phantom Testing
+title: Phantom Testing, fNIRS 
 has_children: false
 parent: fNIRS SOPs
 has_toc: true

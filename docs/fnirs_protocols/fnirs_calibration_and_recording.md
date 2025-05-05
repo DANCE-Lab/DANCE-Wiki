@@ -1,6 +1,6 @@
 ---
 layout: default
-title: fNIRS Calibration and Recording
+title: Calibration and Recording, fNIRS
 has_children: false
 parent: fNIRS SOPs
 has_toc: true

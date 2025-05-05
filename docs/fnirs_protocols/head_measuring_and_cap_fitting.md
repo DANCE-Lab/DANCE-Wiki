@@ -1,6 +1,6 @@
 ---
 layout: default
-title: fNIRS Head Measuring and Cap Fitting
+title: Head Measuring and Cap Fitting, fNIRS
 has_children: false
 parent: fNIRS SOPs
 has_toc: false

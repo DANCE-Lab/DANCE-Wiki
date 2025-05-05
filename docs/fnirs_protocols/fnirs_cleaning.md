@@ -1,6 +1,6 @@
 ---
 layout: default
-title: fNIRS Cleaning Guide
+title: Cleaning Guide, fNIRS 
 has_children: false
 parent: fNIRS SOPs
 has_toc: true

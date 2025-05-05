@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Hardware Troubleshooting 
+title: Hardware Troubleshooting, fNIRS
 has_children: false
 parent: fNIRS SOPs
 has_toc: false

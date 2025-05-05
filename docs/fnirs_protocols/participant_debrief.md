@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Participant Debrief
+title: Participant Debrief, fNIRS
 has_children: false
 parent: fNIRS SOPs
 has_toc: true
