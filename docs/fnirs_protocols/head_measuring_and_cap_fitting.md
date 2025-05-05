@@ -110,7 +110,7 @@ You will reference all of these landmarks when conducting measurements at the be
 
 **Run Sheet Measurements**: 
 
-Metric: we only use centimeters for our scientific measurements! Under no circumstances should measurments ever be taken in inches.
+Metric: we only use centimeters for our scientific measurements! Under no circumstances should measurements ever be taken in inches.
 
 1. *Nz to Iz (Mohawk)*: Nz is shorthand for "nasion". Iz is shorthand for "inion". "Mohawk" is a little reminder that this measurement follows the midline of the skull, like a mohawk hairdo. You capture this measurement by locating the nasion, locating the inion, and measuring directly from nasion (at 0cm) to the inion. This measurement is very important to get right, as it also determines two other measurements and guides cap fitting. Write the measurement value on the run sheet once you have collected it. 
 
