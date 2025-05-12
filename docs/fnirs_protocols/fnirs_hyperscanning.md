@@ -23,24 +23,24 @@ Ensure cap is correctly placed on the participant’s head - re measure Cz and 1
 2. Ensure the fNIRS computer is connected to the TP-Link (“TP-Link_E800_5G”). Only the fNIRS computer is used for hyperscanning. The EPrime computer is not needed for this protocol.
 
 2. Open the **Hyperscan icon**. 
-![hyperscan icon](/Users/carsynhartung/Desktop/hyperscan_icon.jpg)
+![alt text](hyperscan_icon.png)
 
 3. Navigate to the plus icon and add a subject.
 
 4. Record **subject ID, age, gender**, and choose the **device ID and configuration** (leave contact information blank)
     - If device ID and configuration do not pop up, check that the computer is connected to TP Link or if TP link is on (two green lights). You might also need to restart the battery boxes and start the protocol over again
-![subject info](/Users/carsynhartung/Desktop/subject_info.jpg)
+![alt text](subject_info.png)
 
 5. Repeat steps 3 and 4 to add a second participant.
 
 6. Press the **plug icon** next to the plus icon to connect all devices.
-![plug icon](/Users/carsynhartung/Desktop/plug_icon.jpg)
+![alt text](plug_icon.png)
 
     - If devices do not connect, check that the computer is connected to TP Link or if TP link is on (two green lights).
 7. When both devices are connected and ready, optimize both devices by clicking the **play button**.
-![play button](/Users/carsynhartung/Desktop/play_button.jpg)
+![alt text](play_button.png)
 
 8. If both devices are optimized, connected, and participants are ready, you may record data by clicking the **record button** (looks like molecules).
-![record button](/Users/carsynhartung/Desktop/record_button.jpg)
+![alt text](record_button.png)
 
 9. Two aurora windows will pop up after you press record. DO NOT CLOSE THEM. Minimize them.    
