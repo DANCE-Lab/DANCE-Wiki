@@ -48,4 +48,6 @@ Ensure cap is correctly placed on the participant’s head - re measure Cz and 1
 
 ![alt text](record_button.png)
 
-9. Two aurora windows will pop up after you press record. DO NOT CLOSE THEM. Minimize them.    
+9. Two aurora windows will pop up after you press record. DO NOT CLOSE THEM. Minimize them.  
+
+New git update
