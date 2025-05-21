@@ -1,6 +1,6 @@
 ---
 layout: default
-title: fNIRS Cleaning Guide
+title: Cleaning Guide, fNIRS 
 has_children: false
 parent: fNIRS SOPs
 has_toc: true
@@ -13,7 +13,7 @@ nav_order: 7
 
 ### Cap Cleaning 
 
-*Begin cleaning immediately after removing cap from particpant's head*
+*Begin cleaning immediately after removing cap from participant's head*
 
 **Materials**
  - Fabric Disinfectant Spray

@@ -55,7 +55,7 @@ You will be required to complete a few online trainings before you are able to w
 
 ### CITI Training 
 
-You will need to complete two CITI courses to work as an RA. You can find these courses at [www.citiprogram.org](www.citiprogram.org). Click "login" and then "login through my institution". You will then be able to login  using your University of Minnesota credentials and complete the following courses: 
+You will need to complete two CITI courses to work as an RA. You can find these courses at [www.citiprogram.org](https://www.citiprogram.org/?pageID=668). Click "login" and then "login through my institution". You will then be able to login  using your University of Minnesota credentials and complete the following courses: 
 1. Good Clinical Practice and Human Research Protections for Biomedical Study teams--Basic Course
 2. Social/Behavioral or Humanist Research Investigators and Key Personnel
 3. Research Involving Human Subjects (RCR)

@@ -4,7 +4,7 @@ title: Extended Spring 2025 CPSY 4994 Syllabus
 has_children: false
 parent: RA Resources
 has_toc: false
-nav_order: 5
+nav_order: 6
 ---
 
 ## Introduction to the D.A.N.C.E Lab
@@ -133,3 +133,36 @@ Admin:
 ### 2/14/25
 - GitHub Updates (Wiki 2.0 Launched!)
 - Qualtrics and REDCap Overviews
+
+### 2/21/25
+- Deep dive into participant consenting 
+
+### 2/28/25
+- Research Project Discussion
+- REDCap and IRB discussion
+
+### 3/7/25
+- Lab Manager OOO
+- Katie leading meeting
+
+### 3/21/25
+- Assigment: RAs present research ideas
+- Schedule consent process evaluation
+- Discuss how to write an IRB
+Overview of key points to consider when building proposal outline
+
+### 3/28/25
+Structure of a research project--overview of how to conduct a literature review, how to form hypotheses, and how to build a protocol. We will discuss different protocol strengths and weaknesses
+
+### 4/4/25
+What is a poster presentation? Discuss style and constraints of a conference-style poster presentation. 
+- Critique "good" and "bad" example posters as a group
+
+### 4/11/25
+- [Proposal outline](https://docs.google.com/document/d/160vWnRsOmKBdxeiUVLVUBSqXqmNFLYLBQPuJ75-Ugpg/edit?tab=t.0#heading=h.kps2ufollz7c) due
+
+### 4/18/25
+- Poster due (must be submitted so that posters get printed on time)
+
+### 4/25/25
+ICD Undergraduate Research Symposium

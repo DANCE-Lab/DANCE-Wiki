@@ -9,6 +9,8 @@ nav_order: 15
 
 # fNIRS Training
 
+Start learning about fNIRS in the DANCE lab by watching our [DANCE Lab Tour](https://youtu.be/fPek--UqsOs)
+
 The DANCE Lab hosts a training bootcamp that covers all major components of fNIRS data collection: head measuring, cap population, connecting to fNIRS device and computers, and collecting data for both using the following softwares: Hyperscan, Aurora, and E-Prime. Videos from our most recent bootcamp are linked on youtube and can be found below. Additional details and training information can be accessed through the [DANCE Lab fNRIS Training Canvas Course](https://canvas.umn.edu/courses/399112).
 
 ## fNIRS Capping 
@@ -16,6 +18,8 @@ The DANCE Lab hosts a training bootcamp that covers all major components of fNIR
 This initial video covers the most important part of fNIRS data collection (hint: head measuring and documentation!) and goes through all of the hardware needed to assemble an fNIRS cap for data collection. 
 
 This video is posted to youtube and can be accessed [here](https://youtu.be/YEbfx4QZIaw)
+
+Watch this brief video explaining how to set up fNIRS Short Distance Channels and the accelerometer [here](https://youtu.be/RAFNZ1bkLWs)
 
 ## Connecting to Computers and Using Aurora, E-Prime, and Hyperscan
 

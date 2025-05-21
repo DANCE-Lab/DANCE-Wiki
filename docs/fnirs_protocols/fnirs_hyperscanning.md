@@ -1,6 +1,6 @@
 ---
 layout: default
-title: fNIRS Training
+title: fNIRS Hyperscanning
 has_children: false
 parent: fNIRS SOPs
 has_toc: false
@@ -51,3 +51,6 @@ Ensure cap is correctly placed on the participant’s head - re measure Cz and 1
 9. Two aurora windows will pop up after you press record. DO NOT CLOSE THEM. Minimize them.  
 
 New git update
+=======
+9. Two aurora windows will pop up after you press record. DO NOT CLOSE THEM. Minimize them.    
+

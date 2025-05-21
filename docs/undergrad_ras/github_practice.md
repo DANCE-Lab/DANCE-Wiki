@@ -4,7 +4,7 @@ title: RA GitHub Practice Page
 has_children: false
 parent: RA Resources
 has_toc: false
-nav_order: 6
+nav_order: 7
 ---
 
 # Practice Github Page for RAs!  
@@ -52,4 +52,3 @@ Hi! **Pollyanna** here!
 - Wand to separate hair (I forgot the name)
 - *To be continued...*
 - *... and improved.*
-

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: fNIRS Phantom Testing
+title: Phantom Testing, fNIRS 
 has_children: false
 parent: fNIRS SOPs
 has_toc: true
@@ -16,7 +16,7 @@ nav_order: 10
 - [Documentation sheet](https://docs.google.com/spreadsheets/d/19niNdWU5K-bbgTpHEOS49MJSUCEYLbQo6RfAbhuyJsE/edit?gid=0#gid=0)
 
 
-1. Connect the fNIRS box to the fNIRS computer (NOT the EPRIME computer). For more detailed information on the computers used in fNIRS data colleciton, please see this [protocol](https://dance-lab.github.io/DANCE-Management/docs/fnirs_protocols/connecting_computers/). Open the program "Aurora" to prepare for testing. 
+1. Connect the fNIRS box to the fNIRS computer (NOT the EPRIME computer). For more detailed information on the computers used in fNIRS data collection, please see this [protocol](https://dance-lab.github.io/DANCE-Management/docs/fnirs_protocols/connecting_computers/). Open the program "Aurora" to prepare for testing. 
 
 2. Prepare to begin testing by removing the phantom block from its shelf (it may be zipped into the blackout case) and lay the case, unzipped on the counter, with the phantom block in the center. 
 ![alt text](image.png)

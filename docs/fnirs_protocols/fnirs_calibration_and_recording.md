@@ -1,6 +1,6 @@
 ---
 layout: default
-title: fNIRS Calibration and Recording
+title: Calibration and Recording, fNIRS
 has_children: false
 parent: fNIRS SOPs
 has_toc: true
@@ -8,6 +8,14 @@ nav_order: 6
 ---
 
 # Calibration and Recording 
+
+## Videos
+
+Helpful videos that will help you achieve successful fNIRS optimization:
+- [NIRx fNIRS Optimization Video](https://www.youtube.com/watch?v=M7BCF8lT888)
+- Hyperscanning? Why not explore NIRx's Hyperscanning Videos [part 1](https://www.youtube.com/watch?v=WwpUG3bjg4I) and [part 2](https://www.youtube.com/watch?v=CbtZvTwpJDA)
+
+## Calibration Steps
 
 Begin protocol **only** once correct cap size is determined, cap is populated, computers are connected, and practice Stroop test is complete.
 
@@ -21,7 +29,7 @@ Begin protocol **only** once correct cap size is determined, cap is populated, c
 
 2. Once the signal optimization is complete, you will see a window like the one shown in the picture below.
 
-![alt text](complet_op.png)
+![alt text](HPSCAN-Practice-map.PNG)
 3. You can also click the continuous optimization button (two red arrows in a circle) on the top to see a real-time signal update.   
 - *Note: Red circles indicate poor SDD, red lines indicate poor light source connection*
 
@@ -44,7 +52,8 @@ Begin protocol **only** once correct cap size is determined, cap is populated, c
 7. After the signals have been fixed appropriately. Put the shower cap on the child’s head.
 8. After the signals are fixed, open the fNIRS recording tab using the two waves/curves button, **then start the recording using the red circle record button** 
 
-## Recording:
+## Recording
+
 1. After completing the signal calibration and troubleshooting and **making sure the signals are both recording, we can start our Stroop test.**
 2. When the Aurora asks for subject information: 
 - Subject: randomized ID number
@@ -62,3 +71,12 @@ Begin protocol **only** once correct cap size is determined, cap is populated, c
 
 4. Begin the Stroop task.  The game should guide the child through the task.  Do NOT interrupt the game or interact with the child.  
 
+5. Browse the live data tabs while recording. You will be able to see line plots of data from each electrode, a 3-D representation of brain activity, a schematic of the active optodes, and a tab showing live accelerometer data. 
+- You may need to calibrate the accelerometer tab. There is a circle at the bottom of the page. You must orient this align with the direction the participant's head is facing
+- You can toggle the sensitivity of the measures in the 3-D representation to better see activity changes in the participant's brain during data collection
+- **If you do not see the accelerometer tab**, this means you must edit the configuration. On the "edit" configuration page, there is an accelerometer box that must be checked for accelerometer data to record.
+
+6. When you are looking at data during recording, you can toggle with some of the sliding scales to better assess the signal
+- If you move the low-pass filter to ~2hz, you can inspect the data via heart rate for each channel
+- Note: if oxygenation and deoxygenation signals are moving in the same direction, that generally indicates poor signal quality
+- When viewing short distance channels, note they are numbered 8-15 in Aurora

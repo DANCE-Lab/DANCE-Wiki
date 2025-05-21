@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Assessment and Task Administration SOPs
+title: Data Collection SOPs
 has_children: true
 has_toc: true
 nav_order: 6

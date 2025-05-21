@@ -9,6 +9,9 @@ nav_order: 4
 
 # Guide for CPSY4994 Final Paper: How to Write a Research Proposal
 
+## [Research Proposal Outline Example (filled out)](https://docs.google.com/document/d/1k3YoR8oqPGMf8-virpSaeLTwBdihTZqCCL8PSnTY87U/edit?tab=t.0#heading=h.w144b918xfkk)
+## [Research Proposal Outline (Template)](https://docs.google.com/document/d/160vWnRsOmKBdxeiUVLVUBSqXqmNFLYLBQPuJ75-Ugpg/edit?tab=t.0)
+
 ## Proposal Structure
 
 You will write a short research proposal at the end of the semester. The proposal should be between 2 and five pages (double-spaced, 12 point font), and should clearly and concisely lay out your research motivation, aims, and intended protocol. This proposal can be on any research topic of interest, as long as it falls under the DANCE Lab umbrella (i.e., pertaining to research in development, affective neuroscience, culture, and/or emotion). You will also create a conference-style poster outlining each section of your proposal and including one methods figure to help your audience better understand your intended research protocol. 
@@ -40,7 +43,8 @@ The significance section is your opportunity to convince the reader that the res
 ### Methodology
 The methodology section is your opportunity to clearly lay out your intended research protocol. In this section, you should consider: intended measures (what scales/equipment will you be using), number of participants (how many participants do you plan on recruiting for your study), timeline (how long will it take to carry out your study), participant compensation (will you pay your participants), how you intend to analyze the data that you will collect (what statistical analyses will you employ to answer your research question?) and any resources you have or need to execute your protocol. 
 
->For example: *50 gluten-tolerant and 50 gluten-intolerant participants will be recruited from the ICD Participant Pool to sample 5 iterations of the Good Day Cake recipe. Gluten-tolerant participants will sample the original recipe (containing flour) in addition to four gluten-free versions. Gluten intolerant participants will sample the Good Day Cake (Gluten Free) recipe, widely accepted as the current gold standard of gluten-free cake (Smith et al., 2016; Baker et al., 2018) in addition to the same four alternatives the gluten-tolerant participants will sample. All cakes will be rated by participants on the Cake Tastiness Scale (Confection et al., 2014). Participants will be asked to come into the lab one day per week for 5 consecutive weeks to sample all five cakes, the order of which will be randomized in a double-blind manner. Participants will additionally be given self-reports to measure well-being before and after consuming cake (PHQ-9, BAD-DAY-4 scale).*
+>For example: *50 gluten-tolerant and 50 gluten-intolerant participants will be recruited from the ICD Participant Pool to sample 5 iterations of the Good Day Cake recipe. Participants will be screened before participating in the study using a brief allergy questionnaire and the PHQ-9 to ensure that they experience an average number of Bad Days and will not have any difficulty consuming cake varieties. Participants will be compensated with an additional piece of cake to take home after each trial. Gluten-tolerant participants will sample the original recipe (containing flour) in addition to four gluten-free versions. Gluten intolerant participants will sample the Good Day Cake (Gluten Free) recipe, widely accepted as the current gold standard of gluten-free cake (Smith et al., 2016; Baker et al., 2018) in addition to the same four alternatives the gluten-tolerant participants will sample. All cakes will be rated by participants on the Cake Tastiness Scale (Confection et al., 2014). Participants will be asked to come into the lab one day per week for 5 consecutive weeks to sample all five cakes, the order of which will be randomized in a double-blind manner. Participants will additionally be given a self-report measure to gauge well-being before and after consuming cake (BAD-DAY-4 scale).*
+> *A Mixed-Effects ANOVA will be performed using Cake Tastiness Scale ratings to evaluate A.) whether gluten tolerant and gluten intolerant groups rate cakes differently; B.)which gluten-free flour alternatives are ranked highest; and C.) whether group membership influences cake tastiness ratings. A second Mixed-Effects ANOVA will be conducted using ratings on the BAD-DAY-4 scale.*
 
 ### Conclusion
 The conclusion is an opportunity for you to bring the reader back to the big picture and pull together all components of the proposal. Tie up any loose ends and restate the purpose of your project.
@@ -52,7 +56,9 @@ You will be required to include AT LEAST one methods figure, but you are welcome
 
 >Note: This poster will have a different structure from a poster in which you are presenting results
 
-#### [Link to Poster Template](https://docs.google.com/presentation/d/1KKKmeH3bBMKrOkSkoFpO75gke9pdy0Q4j5pALZ3X3h8/edit?usp=sharing)
+#### [Link to Poster Template](https://docs.google.com/presentation/d/1DYDZ2sToEM_XokGR1M1OPwZyOQ6M_X04/edit?usp=sharing&ouid=100701453607930699200&rtpof=true&sd=true)
+
+### [Link to ICD Poster Printing Submission Form](https://forms.gle/3FnW2jsVzXnrisCKA)
 
 ### Introduction/Background
 Clearly present your thesis. Include hypotheses, research aims, and motivation. Present the strongest pieces of evidence from your literature review that demonstrate the significance of carrying out your proposed project. Write the most important pieces of information (e.g., your hypotheses) in bullet form. You can bold your text to make it further stand out and denote its importance.

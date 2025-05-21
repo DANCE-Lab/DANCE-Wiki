@@ -9,6 +9,13 @@ nav_order: 5
 
 # Connecting Computers Protocol 
 
+## Videos
+- Need some more in-depth guidance when working with EPrime and Aurora? Check out the [NIRx EPrime Extension Video](https://www.youtube.com/watch?v=qu2x6lGe77M)
+- Need to know how Aurora works? Check out the [Aurora fNRIS Refresher Course](https://www.youtube.com/watch?v=LtPx89eDuNQ)
+- Need to learn more about the NIRSport Accelerometer? Check out [NIRx Accelerometer Specifications](https://www.youtube.com/watch?v=Sk-SE_Zvhpw)
+
+## DANCE fNIRS Connecting Computers Protocol
+
 For the following steps under this section: **EPRIME Computer Tasks → bold**; *fNIRS Computer Tasks → italicized*; Both computers → normal text
 
 **Note on connecting without E-Prime:** 
@@ -96,4 +103,11 @@ Begin once the participant has finished and passed the practice test and the NIR
 *When the connection is successful, the window below will show up. Then press “save” on the top right then continue with signal calibration.*
 
 ![alt text](window.png)
+
+## A Note on Configurations
+
+It is very important to make sure that you are collecting data with the correct configuration. Some configurations include short distance channels, some do not, and some will need to be edited before you can begin data collection. A few important notes below: 
+
+- **Can you see the accelerometer tab?** When you select a configuration, if you scroll to the bottom of the configuration page, you will see a small box labeled "Accelerometer" that you can check or uncheck. This box should be checked for all DANCE configurations, unless otherwise instructed. You will be able to see whether you have successfully initiated recording accelerometer data in the accelerometer tab of the recording screen. Be aware that if the accelerometer box is not checked and you cannot see the accelerometer tab, no accelerometer data will be saved.
+- **NIRS Site** Need new configurations? You can download NIRS Site, a Probe Array creation software supported by NIRx, from the NIRx support site 
 

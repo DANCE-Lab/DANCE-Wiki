@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Hardware Troubleshooting 
+title: Hardware Troubleshooting, fNIRS
 has_children: false
 parent: fNIRS SOPs
 has_toc: false
@@ -41,11 +41,11 @@ Occasionally there can be a hardware issue in one of the source or detector cabl
 
 ![alt text](angle_cable.png)
 
-7. Check each ofthe optode cables. Each cable has four prongs that connect to the circuit board. Sometimes these prongs become loose and can be pressed back into place in the circuitboard. Make sure to look carefully at each place where the prongs connect with the circuitboard, and gently press any loose connection points to secure them again.
+7. Check each of the optode cables. Each cable has four prongs that connect to the circuit board. Sometimes these prongs become loose and can be pressed back into place in the circuitboard. Make sure to look carefully at each place where the prongs connect with the circuitboard, and gently press any loose connection points to secure them again.
 
 ![alt text](optode_prong.png)
 
-8. Occassionally optode cables get so damaged they must be replaced. Conveniently, we have an extra source and an extra detector cable that can replace whichever optode has become damaged. They can be found in small plastic bags, and are kept with the rest of the extra spare equipment in the testing control room. One of the extra source cables is pictured below: 
+8. Occasionally optode cables get so damaged they must be replaced. Conveniently, we have an extra source and an extra detector cable that can replace whichever optode has become damaged. They can be found in small plastic bags, and are kept with the rest of the extra spare equipment in the testing control room. One of the extra source cables is pictured below: 
 
 ![alt text](extra_optode.png)
 
@@ -58,4 +58,4 @@ If you are unsure whether there is a problem with a software or unsure how best 
 
 ## Router Troubleshooting
 
-Occasionally the router fails to successfully connect the fNIRS device with the computer. Sometimes this may be an issue with the router, or it may be an issue with the device. When in doubt, connect the fNIRS device to the computer with a usb cable to get the most reliable connection. Further issues with the router can be troubleshooted after data collection, and any bigger isseus can be addressed by submitting a help ticket (see the [fNIRS Technical Support SOP](https://dance-lab.github.io/DANCE-Management/docs/fnirs_protocols/fnirs_support/) )
+Occasionally the router fails to successfully connect the fNIRS device with the computer. Sometimes this may be an issue with the router, or it may be an issue with the device. When in doubt, connect the fNIRS device to the computer with a usb cable to get the most reliable connection. Further issues with the router can be troubleshooted after data collection, and any bigger issues can be addressed by submitting a help ticket (see the [fNIRS Technical Support SOP](https://dance-lab.github.io/DANCE-Management/docs/fnirs_protocols/fnirs_support/) )
