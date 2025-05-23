@@ -1,6 +1,6 @@
 ---
 layout: default
-title: fNIRS Hyperscanning
+title: Hyperscanning, fNIRS
 has_children: false
 parent: fNIRS SOPs
 has_toc: false
