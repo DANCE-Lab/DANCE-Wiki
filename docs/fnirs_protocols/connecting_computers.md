@@ -14,6 +14,20 @@ nav_order: 5
 - Need to know how Aurora works? Check out the [Aurora fNRIS Refresher Course](https://www.youtube.com/watch?v=LtPx89eDuNQ)
 - Need to learn more about the NIRSport Accelerometer? Check out [NIRx Accelerometer Specifications](https://www.youtube.com/watch?v=Sk-SE_Zvhpw)
 
+### Initial TP Link connection
+
+Only do this if setting up a few fNIRS box for the first time OR a new TP Link/router OR if you brought any of the equipment outside of the United States (niche I know but important).
+
+First, turn on all the fNIRSports devices you plan on using, making sure the TP Link is UNPLUGGED so the Sports don't accidentally connect to it. After a few minutes they should each populate a wifi. Connect the computer individually to it via the wifi console on the computer. Do NOT choose a configuration but go back to settings, device network, then type in the password of the Sports device into Aurora. Click save and congrats! Now Turn off the current Sports device and repeat with all the others you wish to connect.
+
+Once all the fNIRSPorts devices are off, turn on the TP Link making sure you grabbed the SSID and the password from the back of the TP Link. Connect to the TP Link's wifi on the computer. When fully connected, turn the Sports on and wait for them to populate in Aurora. 
+
+Congratulations! You have set up the TP Link with all the addresses of the devices you want to connect to. It can now find and connect to all those devices at once, for example with hyper scanning. 
+
+Side note:
+TP link ethernet to computer instead of Sports to computer if need to hardwire both Sports to computer. 
+
+
 ## DANCE fNIRS Connecting Computers Protocol
 
 For the following steps under this section: **EPRIME Computer Tasks → bold**; *fNIRS Computer Tasks → italicized*; Both computers → normal text
