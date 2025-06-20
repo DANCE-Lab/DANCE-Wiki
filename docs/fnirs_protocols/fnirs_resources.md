@@ -24,3 +24,7 @@ NIRx, the company that supplies the lab's fNIRS equipment, has a lot of great tr
 
 1. Want to learn more about collecting NIRS data in infants and children? Check out [Infant and Child Imaging](https://www.youtube.com/watch?v=lVxrRKJejnw)
 2. For general information, check out the NIRx [knowledge base](https://support.nirx.de/knowledge-base)
+
+## fNIRS analysis
+
+[fNIRS Analysis programs](https://openfnirs.org/software/): There are a LOT of different ways to analyze fNIRS data and this is a great place to check out all the various ways to do it. 
