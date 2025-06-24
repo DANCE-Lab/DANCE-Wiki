@@ -11,7 +11,7 @@ nav_order: 1
 | Position | Name | Email Address|
 | ----------- | ----------- | ----------- |
 | P.I. | Dr. Ka Ip | kaip@umn.edu |
-| Research Coordinator | Katie Friese | fries335@umn.edu |
+| Lab Manager | Katie L. Friese | fries335@umn.edu |
 | Postdoc | Noelle Suntheimer | noellems@umn.edu |
 | Postdoc | Juliet Nyanamba | nyana001@umn.edu |
 | Postdoc | Tianying Cai | caixx427@umn.edu |
