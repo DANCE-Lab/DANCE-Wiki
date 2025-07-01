@@ -13,7 +13,7 @@ nav_order: 10
 - Optodes you will be testing, both source AND detector
 - Blackout case
 - fNIRS computer
-- [Documentation sheet](https://docs.google.com/spreadsheets/d/19niNdWU5K-bbgTpHEOS49MJSUCEYLbQo6RfAbhuyJsE/edit?gid=0#gid=0)
+- [Documentation sheet](https://docs.google.com/spreadsheets/d/1u4WQuaYWlIRBZKRlonNw2U48EC-Bp09QD7hZJ2ZZmvY/edit?gid=0#gid=0)
 
 
 1. Connect the fNIRS box to the fNIRS computer (NOT the EPRIME computer). For more detailed information on the computers used in fNIRS data collection, please see this [protocol](https://dance-lab.github.io/DANCE-Management/docs/fnirs_protocols/connecting_computers/). Open the program "Aurora" to prepare for testing. 
