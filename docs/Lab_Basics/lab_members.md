@@ -14,7 +14,6 @@ nav_order: 1
 | Lab Manager | Katie L. Friese | fries335@umn.edu |
 | Postdoc | Noelle Suntheimer | noellems@umn.edu |
 | Postdoc | Juliet Nyanamba | nyana001@umn.edu |
-| Postdoc | Tianying Cai | caixx427@umn.edu |
 | Graduate Student | Nora Nguyen | nguy5317@umn.edu |
 | Graduate Student | Emily Furtado | furta013@umn.edu |
 | Graduate Student | Philip Lamb | pslamb@uncg.edu |
