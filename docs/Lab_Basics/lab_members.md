@@ -22,11 +22,9 @@ nav_order: 1
 | R.A. | Boyu Wen | wen00109@umn.edu |
 | R.A. | Samantha Miller | mil00223@umn.edu |
 | R.A. | Brooklyn Krull | krull047@umn.edu |
-| R.A. | Noah Leuchtenberger | leuch010@umn.edu |
 | R.A. | Jing Lin (Jessica) | lin00971@umn.edu |
+| R.A. | Noah Leuchtenberger | leuch010@umn.edu |
 | R.A. | Katrina Corniea | corni121@umn.edu |
 | R.A. | Alexis Villapando | villa694@umn.edu |
-| R.A. | Samantha Miller | mil00223@umn.edu |
-| R.A. | Brooklyn Krull | krull047@umn.edu |
 | R.A. | Natalie Warnke | warnk049@umn.edu |
 | R.A. | Jewel Lee | lee04623@umn.edu |
