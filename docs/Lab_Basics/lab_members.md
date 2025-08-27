@@ -28,3 +28,4 @@ nav_order: 1
 | R.A. | Alexis Villapando | villa694@umn.edu |
 | R.A. | Natalie Warnke | warnk049@umn.edu |
 | R.A. | Jewel Lee | lee04623@umn.edu |
+| R.A. | Sofia Jerney | jerne008@umn.edu |
