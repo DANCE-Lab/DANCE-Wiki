@@ -49,7 +49,7 @@ Measuring and cap fitting steps must be done in a consistent order.
 
 **7. Check the location of the vertex (CZ)** by making sure it lies at the intersection of Nz-Iz and RPA-LPA measurements
 
-### Record the measures on the [Head Measuring Form](https://docs.google.com/document/d/1UcDkLP-O8VpKGiGA65uevUrkC7pCiOW2Ft8FOpXt7EA/edit?tab=t.0) and find the best-fitting cap for the participant. 
+### Record the measures on the [Head Measuring Form](https://docs.google.com/document/d/1SQcRc5BZzp3xOPX3-stAKZ7cJrdVlXNOJ6QRlaB0CiE/edit?usp=sharing) and find the best-fitting cap for the participant. 
 
 | Circumference (cm) | Cap Size |
 | ----------- | ----------- |
