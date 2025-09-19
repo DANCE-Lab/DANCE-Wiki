@@ -42,7 +42,7 @@ nav_order: 10
 
 7. With the phantom box zipped away and lights turned off, you can now press the play button. If you get a warning about "high signal noise" or the like, take note but ignore it for now and press continue. 
 
-8. Open the [**Phantom Testing Record Sheet**](https://docs.google.com/spreadsheets/d/19niNdWU5K-bbgTpHEOS49MJSUCEYLbQo6RfAbhuyJsE/edit?gid=0#gid=0) on your laptop and be prepared to record the results of your phantom testing
+8. Open the [**Phantom Testing Record Sheet**](https://docs.google.com/spreadsheets/d/1JDvDCMl5hIHVidsneF65zeO0ISO9DkBC/edit?usp=sharing&ouid=100714471035673204719&rtpof=true&sd=true) on your laptop and be prepared to record the results of your phantom testing
 
 9. If you get a wall of green like this...
 ![alt text](successful_test.png)
