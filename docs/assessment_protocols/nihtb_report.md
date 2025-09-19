@@ -13,7 +13,7 @@ Parents of participants in our studies utilizing the NIH Toolbox will be given t
 
 However, it is important that parents understand that these are not diagnostic assessments and that the score reports are not indicative of their children's intelligence or abilities--it is only a piece of descriptive information. To help parents better understand how to read their score reports, we will send the pdfs to parents along with an email (script below) that will help parents interpret their child's performance. 
 
-## [NIH Toolbox Score Report Email Template](https://docs.google.com/document/d/14yBj8GZe0UB-DXIVLMcdXNTzTWUlLUq07pnmfrto_8w/edit?tab=t.0)
+## [NIH Toolbox Score Report Email Template](https://docs.google.com/document/d/198wVygyiGMNKX-UgIWN6CVVtHS35r9uX/edit?usp=sharing&ouid=100714471035673204719&rtpof=true&sd=true)
 
 Dear **[Parent Name, or Parent of Child Name]**,
 
