@@ -36,4 +36,3 @@ Please make sure you have finished all required HIPAA and CITI trainings before 
 2. Highlight the most important sections in a paper copy of the consent form. This will help you know what to study and what to memorize for the consent process. 
 
 3. Review the example consent video at the top of this page before practicing
-4. test
