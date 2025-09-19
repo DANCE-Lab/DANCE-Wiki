@@ -23,4 +23,4 @@ nav_order: 2
 
 - The participant must get 83.33% (5 out of 6 right) on the second set of trial practice to proceed to the main task. 
 - Repeat 2 times if the participant does not reach the baseline score. 
-- Record the scores on the [recording sheet](https://docs.google.com/document/d/1fcRvpEBTaAPpj6JfiY-YMB9vAcc-Cb1iEa_KsbjfAf0/edit?tab=t.0)
+- Record the scores on the [recording sheet](https://docs.google.com/document/d/1Rc3vOSUo18e5KtDBQDg1Q8t03GfrWuyVkBzQ35zSPA4/edit?usp=sharing)
