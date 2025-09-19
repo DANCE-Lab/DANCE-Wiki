@@ -9,11 +9,11 @@ nav_order: 4
 
 # Collecting Informed Consent During Data Collection
 
-## [Informed consent rubric here](https://docs.google.com/document/d/1qS2ftBenyLADRQ-1N1T3oHagEMjXdrMHWvd7PfT-EwU/edit?tab=t.0)
+## [Informed consent rubric here](https://docs.google.com/document/d/1lAJyhXaPc1pv1d4JCCFP4219vaACxtg3/edit?usp=sharing&ouid=100714471035673204719&rtpof=true&sd=true)
 
 ### **Watch an example of the DANCE consent process [here](https://www.youtube.com/watch?v=yWnQt_5I-gY)**
 
-### **IRB approved documents (including Informed Consent Forms, Child Assent Forms, screening scripts, etc.) can be found in the [DANCE Lab IRB Folder](https://drive.google.com/drive/folders/19pH3p4Us1Sa6EdYonSyicn8ZgV9vc-6R?ths=true)**
+### **IRB approved documents (including Informed Consent Forms, Child Assent Forms, screening scripts, etc.) can be found in the [DANCE Lab IRB Folder](https://drive.google.com/drive/folders/1ijbB0RPU8cA3SwwxQSovn-oxq1IPL0rp)**
 
 Collecting informed consent is the most important part of the data collection process. No study measures can be carried out before the study has been clearly explained to your participant and they have signed the consent form, indicating that they are willing to participate in study procedures. 
 
