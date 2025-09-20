@@ -37,5 +37,5 @@ Writing a protocol and reading guidelines should be taken with the same gravity 
 
 ## Accessing DANCE Lab IRBs 
 
-Previous IRB protocols can be found in the DANCE_IRB section of the [DANCE Google Drive](https://drive.google.com/drive/folders/16dbfKNJ_zwDbcHj4A_FXfwfrQlp-24_w?ths=true). It is very important to reference language and protocol numbers of already-approved IRB protocols when beginning a new one. Protocols are organized by name/number and further by submission type (e.g., initial submission, clarification, modification). All official IRB correspondence and stamped documents are also stored in these folders. 
+Previous IRB protocols can be found in the DANCE_IRB section of the [DANCE Google Drive](https://drive.google.com/drive/folders/1fRlwssfcu6ddmXf8qKDgSTylta2xIHee?usp=sharing). It is very important to reference language and protocol numbers of already-approved IRB protocols when beginning a new one. Protocols are organized by name/number and further by submission type (e.g., initial submission, clarification, modification). All official IRB correspondence and stamped documents are also stored in these folders. 
 
