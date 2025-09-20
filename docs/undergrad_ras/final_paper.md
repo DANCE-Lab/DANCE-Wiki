@@ -9,8 +9,8 @@ nav_order: 4
 
 # Guide for CPSY4994 Final Paper: How to Write a Research Proposal
 
-## [Research Proposal Outline Example (filled out)](https://docs.google.com/document/d/1k3YoR8oqPGMf8-virpSaeLTwBdihTZqCCL8PSnTY87U/edit?tab=t.0#heading=h.w144b918xfkk)
-## [Research Proposal Outline (Template)](https://docs.google.com/document/d/160vWnRsOmKBdxeiUVLVUBSqXqmNFLYLBQPuJ75-Ugpg/edit?tab=t.0)
+## [Research Proposal Outline Example (filled out)](https://docs.google.com/document/d/1UaRbYCRt80FSnXz_jI3Vx6NEsZaBVIQ6/edit?usp=sharing&ouid=100714471035673204719&rtpof=true&sd=true)
+## [Research Proposal Outline (Template)](https://docs.google.com/document/d/1J6ymPcL5n1miCurbDtVJrzwW8GcrcEiy/edit?usp=sharing&ouid=100714471035673204719&rtpof=true&sd=true)
 
 ## Proposal Structure
 
@@ -56,7 +56,7 @@ You will be required to include AT LEAST one methods figure, but you are welcome
 
 >Note: This poster will have a different structure from a poster in which you are presenting results
 
-#### [Link to Poster Template](https://docs.google.com/presentation/d/1DYDZ2sToEM_XokGR1M1OPwZyOQ6M_X04/edit?usp=sharing&ouid=100701453607930699200&rtpof=true&sd=true)
+#### [Link to Poster Template](https://docs.google.com/presentation/d/1vBt45CQHIdFT-ARUfoMLVcm2jMu28uCz/edit?usp=sharing&ouid=100714471035673204719&rtpof=true&sd=true)
 
 ### [Link to ICD Poster Printing Submission Form](https://forms.gle/3FnW2jsVzXnrisCKA)
 
