@@ -38,7 +38,7 @@ The Development, Affective Neuroscience, Culture, and Environment Lab studies br
         - 3 credits = 9 hours in lab per week
         - 4 credits = 12 hours in lab per week
     -  RAs must schedule AT LEAST one 3-hour block of in-person lab work per week, during lab manager hours. This block of time is independent of our weekly lab meetings or RA meetings. These blocks of time are imperative for training and practice
-    - **RA hour tracking timesheet can be found [here](https://docs.google.com/spreadsheets/d/15qTXUMN8jwQ0ACuLg4mFGr-Zx7q3d-NJHGxlhCeM8_8/edit?gid=0#gid=0)**
+    - **RA hour tracking timesheet can be found [here](https://docs.google.com/spreadsheets/d/10skkL7V03o3YAeC9QWd6UwOm1u6vC8k6/edit?usp=sharing&ouid=100714471035673204719&rtpof=true&sd=true)**
 - **Lab work**: RAs will complete various pieces of lab work over the course of the semester, both in response to RA meeting practical lessons and as part of lab ongoing study work groups or participant-facing data collection. This work is not a formal assignment, but will make up the bulk of your weekly hours. *Completing lab work in your lab hours makes up the majority of your final grade*.
 
 ## Grading:
@@ -159,7 +159,7 @@ What is a poster presentation? Discuss style and constraints of a conference-sty
 - Critique "good" and "bad" example posters as a group
 
 ### 4/11/25
-- [Proposal outline](https://docs.google.com/document/d/160vWnRsOmKBdxeiUVLVUBSqXqmNFLYLBQPuJ75-Ugpg/edit?tab=t.0#heading=h.kps2ufollz7c) due
+- [Proposal outline](https://docs.google.com/document/d/1J6ymPcL5n1miCurbDtVJrzwW8GcrcEiy/edit?usp=sharing&ouid=100714471035673204719&rtpof=true&sd=true) due
 
 ### 4/18/25
 - Poster due (must be submitted so that posters get printed on time)
