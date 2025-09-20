@@ -18,7 +18,7 @@ This video is a short and sweet explanation of what fNIRS measures and why this 
 
 You will be evaluated on your ability to carry out a data collection protocol from start to finish! Once you have completed your training, which includes a combination of in-person practical training sessions, self-led training sessions, and completion of the DANCE fNIRS canvas course, you will complete a ~30 minute practical with the lab manager where you will demonstrate your ability to collect fNIRS data. You will be evaluated based upon a rubric (see below) and will be expected to complete all of the steps laid out in these SOP pages!
 
-[find the rubric here](https://docs.google.com/document/d/1pkP81NdA28miadirNdQlSYtA4JvxsitJlXVzzJpVgFM/edit?usp=sharing)
+[find the rubric here](https://docs.google.com/document/d/1Z2x9_yXS8lKsCPbmeoUfMybrV7Lu-916/edit?usp=sharing&ouid=100714471035673204719&rtpof=true&sd=true)
 
 ### *“I’m a RA who needs to fill some extra hours this week. I’d also like to learn some of the more in-depth details about why we use fNIRS and how the equipment works.”*
 
