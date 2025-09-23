@@ -20,3 +20,6 @@ Official copies of study scales and self-report measures can be found in the [St
 
 Current and former copies of DANCE Lab IRB protocols can be found in the [DANCE Lab IRB Folder](https://drive.google.com/drive/folders/19pH3p4Us1Sa6EdYonSyicn8ZgV9vc-6R). 
 
+### Authorship Agreement
+
+The Authorship Agreement should be signed once a Research project is underway. It can be found in the google drive [HERE](https://docs.google.com/document/d/13UUkZ3sqeAPTfr29sRzsguT0frkOtgkc/edit?usp=sharing&ouid=100972382504273700573&rtpof=true&sd=true). MAKE A COPY, please don't edit the original template.
