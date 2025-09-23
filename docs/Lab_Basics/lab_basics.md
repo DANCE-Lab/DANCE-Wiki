@@ -17,9 +17,9 @@ For anyone using fNIRS equipment, request additional access to the ICD 2nd floor
 ## Lab Meetings
 
 Spring 2025
-The DANCE Lab meets weekly, on Thursdays from 1:30-3:00pm
+The DANCE Lab meets weekly, on Thursdays from 4pm-6pm
 To sign up to present during a meeting, please use [this sheet](https://docs.google.com/spreadsheets/d/1Ec8_IFqJj0Wg99Vi7vbuxvDMSS0PmBQlGL4j5TEFrN0/edit?usp=sharing).
-The main purpose of this meeting is multifaceted. Sometimes the meeting will be a writing club so as to keep everyone productive (because writing is of course the bane of every researchers existence). If there is a presentation, it is on a project or a topic. If on a topic, it should be about the most current of research so as to help keep everyone up to date. Either way, the files should also be uploaded to the google sheet so everyone has a chance to read them before the presentation. 
+The main purpose of this meeting is multifaceted. Sometimes the meeting will be a writing club so as to keep everyone productive (because writing is of course the bane of every researchers existence). If there is a presentation, it is on a project or a topic. If on a topic, it should be about the most current of research so as to help keep everyone up to date. The presentation should be 5-10 minutes, the rest is discussion and question. Either way, the files should also be uploaded to the google sheet so everyone has a chance to read them before the presentation. 
 
 ## DANCE Drive
 
