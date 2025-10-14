@@ -19,7 +19,6 @@ Check the placement of TP-LINK. Ensure it is plugged into the outlet under the d
 Place fNIRS Laptop 1 on the desk and connect it to the charger, link the laptop to the Pearl System using HDMI cable on the desk.
 Open the pearl system, make sure that two video camera and the laptop can be seen on the screen. Adjust the two cameras so that we can see the participants’ faces clearly.
 
-
 ## Start video recording
 
 
