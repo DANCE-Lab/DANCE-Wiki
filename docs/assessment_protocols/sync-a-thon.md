@@ -86,7 +86,7 @@ Enter the testing room and lift up the chairs with the NIRs boxes and shuffle th
 IMG HERE
 
 The goal is to get a camera on each participant's face as flat as possible. 
-**"Now you have five minutes to discuss about the game you just played. If you run out of things to discuss, you can discuss what happened in your daily life”**
+Instruction: **"Now you have five minutes to discuss about the game you just played. If you run out of things to discuss, you can discuss what happened in your daily life”**
 
 ### Post-task Calibration & Removal of Caps
 
@@ -112,3 +112,5 @@ Both video and fNIRS data to box drive and the external hard drive.
  
 Box folder: DANCE Lab/DANCE Lab Projects/Sync-A-Thon/Data/INSERT-DATE
 External hard drive: On the desk with the Mac in the lab manager's office. It's has a bright orange bumper around it. 
+
+
