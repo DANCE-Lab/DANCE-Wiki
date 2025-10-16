@@ -39,7 +39,7 @@ Take a screenshot of the calibration page of BOTH participants when the calibrat
 
 ### Open Psychopy
 
-The psychoPy program sometimes freaks out if the Aurora/Hyperscanning apps are not opened first.
+The PsychoPy program sometimes freaks out if the Aurora/Hyperscanning apps are not opened first.
 
 ### Start fNIRS Hyperscan recording
 
