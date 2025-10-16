@@ -12,7 +12,7 @@ nav_order: 5
 This study is meant to conduct a longitudinal like study of Neural Synchrony using fNIRS in a Hyperscanning Dyad. We're primarily using RAs as participants for the time being. 
 
 ### Pre-Visit Setup
-
+#### Testing room
 Put two pre-populated caps and two fNIRS devices in the testing room. 
 
 #### Control room
