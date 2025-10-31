@@ -113,4 +113,9 @@ Both video and fNIRS data to box drive and the external hard drive.
 Box folder: DANCE Lab/DANCE Lab Projects/Sync-A-Thon/Data/INSERT-DATE
 External hard drive: On the desk with the Mac in the lab manager's office. It's has a bright orange bumper around it. 
 
+## Trouble shooting
+
+If the short distance channels are giving you grief (i.e. if 4 or more of them are red/giving you bad signal) then de-couple them from detector 8 and switch configuration to BLANK. You do not need to take of the SDCs, just take off of the SDC coupler. 
+
+
 
