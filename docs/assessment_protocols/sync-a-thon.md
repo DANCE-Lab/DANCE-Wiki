@@ -12,14 +12,20 @@ nav_order: 5
 This study is meant to conduct a longitudinal like study of Neural Synchrony using fNIRS in a Hyperscanning Dyad. We're primarily using RAs as participants for the time being. 
 
 ### Pre-Visit Setup
-#### Testing room
-Put two pre-populated caps and two fNIRS devices in the testing room. 
 
-#### Control room
-Put Event Key Flow Sheet Sheet on the desk.
-Check the placement of TP-LINK. Ensure it is plugged into the outlet under the desk, near the audio system.
-Place fNIRS Laptop 1 on the desk and connect it to the charger, link the laptop to the Pearl System using HDMI cable on the desk.
-Turn on and open the pearl/AV system, make sure that two video camera and the laptop can be seen on the screen. Adjust the two cameras so that we can see the participants’ faces clearly and "flatly" as possible. 
+Pre check list:
+
+- Two surveys with pens on the table.
+- Cameras are turned on and adjusted so that we can see the participants’ faces clearly and "flatly" as possible. 
+- Boxes are turned on and hooked up to the caps.
+- Double check the caps are the correct sizes! If they aren't switch them over.
+- Make sure Switch is charged and controllers with the top modifiers are on the table.
+- Figets (if applicable) are accessible on the table.
+- fNIRS laptop is connected via HDMI to the camera system.
+- TP link is plugged into the wall and blinking.
+- Experiment flow chart and dialogue sheet on in the observation room and easily accessible on the table. 
+
+IMG HERE BLANK
 
 ### Start video recording
 
@@ -29,7 +35,7 @@ Once the participants enter the room, start the video recording. Even if the pro
 
 Have the participants use the bathroom if needed then position them in the testing room. Once seated, have them take the pre-task survey. While they are taking the pre-task survey, set up the cameras on their faces straight on and the video screen. 
 If this is the participant's first time, measure their heads for cap fitting and set up the fNIRS caps while they complete the pre task survey.
-Link to the pre task study is (HERE)[].
+Link to the pre task study will be (HERE)[].
 
 ### fNIRS set up & Calibration.
 
@@ -83,7 +89,7 @@ Click the spacebar in PsychoPy once the video game avatars start moving.
 Instruction: **“Okay it’s time to stop playing video game. I'll come in to adjust your chairs so you are facing each other"**
 Enter the testing room and lift up the chairs with the NIRs boxes and shuffle the participants around the table to these points.
 
-IMG HERE
+IMG HERE BLANK
 
 The goal is to get a camera on each participant's face as flat as possible. 
 Instruction: **"Now you have five minutes to discuss about the game you just played. If you run out of things to discuss, you can discuss what happened in your daily life”**
