@@ -13,7 +13,7 @@ These pages outline and provide instructions for the day-to-day tasks required t
 
 ### General Tasks
 
-- Keeping the wiki up to date and maintianing lab documentation
+- Keeping the wiki up to date and maintaining lab documentation
 - Lab purchasing 
 - IRB writing and maintenance 
 - Running and maintaining trainings for undergraduate RAs (fNRIS training, NIH toolbox administration training, etc.)

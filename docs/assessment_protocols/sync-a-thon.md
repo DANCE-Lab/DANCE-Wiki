@@ -11,6 +11,8 @@ nav_order: 5
 
 This study is meant to conduct a longitudinal like study of Neural Synchrony using fNIRS in a Hyperscanning Dyad. We're primarily using RAs as participants for the time being. 
 
+fNIRS checkout [HERE](https://forms.gle/A2gCKxez3vRPNmdn9)
+
 ### Pre-Visit Setup
 
 Pre check list:
@@ -25,7 +27,6 @@ Pre check list:
 - TP link is plugged into the wall and blinking.
 - Experiment flow chart and dialogue sheet on in the observation room and easily accessible on the table. 
 
-IMG HERE BLANK
 
 ### Start video recording
 
@@ -117,7 +118,9 @@ In video recording system. *ONLY plug in the USB after you stop the video record
 Both video and fNIRS data to box drive and the external hard drive. 
  
 Box folder: DANCE Lab/DANCE Lab Projects/Sync-A-Thon/Data/INSERT-DATE
-External hard drive: On the desk with the Mac in the lab manager's office. It's has a bright orange bumper around it. 
+External hard drive: On the desk with the Mac in the lab manager's office. It's has a bright orange bumper around it.
+
+fNIRS check in form [HERE](https://forms.gle/ZQB57r6zY2QS6XtE7)
 
 ## Trouble shooting
 
