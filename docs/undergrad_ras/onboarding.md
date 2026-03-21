@@ -25,7 +25,7 @@ Submit an online [*Direct Activity* contract](http://z.umn.edu/Directed_Activity
 - Year: 2025
 - Course Subject: CPSY
 - Course Number: 4994
-- Section Number: 022
+- Section Number: 004
 - Number of credits desired: 2 or 3 (enter the number that you have confirmed with the lab manager or with Dr. Ip)
 - Grading basis: Please choose A-F grading if you need this to count for major or minor credit
     - 2 credits = 6 hours working in the lab per week
@@ -43,7 +43,7 @@ Method, resources, and strategies to be used:
 (1) literature review, (2) survey design using Qualtrics and REDCap (3) interview assessment, (4) mobile EEG & fNIRS experiment setup, (2) subject recruitment and flyer design, (3) data coding and collection, and (4) other administrative tasks (e.g., IRB) as needed.
 
 
-Once the contract is approved, you will receive a permission code to register for the course. You can find the course CPSY 4994 on your schedule builder. Make sure to select section 022 listed with Dr. Ka I Ip. 
+Once the contract is approved, you will receive a permission code to register for the course. You can find the course CPSY 4994 on your schedule builder. Make sure to select section 004 listed with Dr. Ka I Ip. 
 
 Further registration instructions can be found [here](z.umn.edu/Directed_Activity).
 
@@ -64,7 +64,7 @@ Once you are logged in, click the "Add a Course" button. You will be asked to ch
 >    - Select "Research Staff (non-PI) required to take RCR by USDA-NIFA or NSF requirement"
 >    - Select "Research Involving Human Subjects"
 > 2. Question 2
->    - Select "Social/Behavioral or Humanist Research Investigators and Key Personnel which includes PI's, Co-PI's and research staff. COmplete all required modules. The optional modules must be completed as they apply to your research activities."
+>    - Select "Social/Behavioral or Humanist Research Investigators and Key Personnel which includes PI's, Co-PI's and research staff. Complete all required modules. The optional modules must be completed as they apply to your research activities."
 > 3. Question 3
 >    - Select "I have not previously completed a Basic Course"
 > 4. Question 4 
@@ -113,6 +113,7 @@ Please send an email to the lab manager containing your contact information:
 - Pronouns
 - Preferred email address
 - Preferred phone number
+- Expected Graduation date
 - Birthday
 
 ## Share a bio and profile picture for the lab website
@@ -121,6 +122,3 @@ We are excited to be building a lab website and would love to include you! Pleas
 
 Feel free to reach out to the lab manager with any questions or concerns! 
 
-## Share your research interests and RA goals
-
-We want to help you pursue your personal research interests and goals you may have for being an undergrad RA in the DANCE Lab. You are invited to fill out this optional [google form](https://docs.google.com/forms/d/e/1FAIpQLSfN_wQIQZlJkJAwS948dJasruENLDmqPGsp7LrG0CgQKqI3pQ/viewform?usp=sf_link) and tell us a little more about what you hope to gain from this experience and how we can help you achieve that!
